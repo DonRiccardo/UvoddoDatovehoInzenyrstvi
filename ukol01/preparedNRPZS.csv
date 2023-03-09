@@ -1,0 +1,2593 @@
+,Okres,Kraj,OborPece,POCET
+0,Benešov,Středočeský kraj,Dentální hygienistka,5
+1,Benešov,Středočeský kraj,Fyzioterapeut,10
+2,Benešov,Středočeský kraj,Klinický psycholog,5
+3,Benešov,Středočeský kraj,Optometrista,3
+4,Benešov,Středočeský kraj,Porodní asistentka,1
+5,Benešov,Středočeský kraj,Všeobecná sestra,2
+6,Benešov,Středočeský kraj,Zubní technik,7
+7,Benešov,Středočeský kraj,alergologie a klinická imunologie,1
+8,Benešov,Středočeský kraj,anesteziologie a intenzivní medicína,2
+9,Benešov,Středočeský kraj,chirurgie,3
+10,Benešov,Středočeský kraj,dermatovenerologie,2
+11,Benešov,Středočeský kraj,dětská a dorostová psychiatrie,1
+12,Benešov,Středočeský kraj,endokrinologie a diabetologie,1
+13,Benešov,Středočeský kraj,gynekologie a porodnictví,12
+14,Benešov,Středočeský kraj,kardiologie,1
+15,Benešov,Středočeský kraj,neurologie,1
+16,Benešov,Středočeský kraj,oftalmologie,7
+17,Benešov,Středočeský kraj,ortopedie a traumatologie pohybového ústrojí,4
+18,Benešov,Středočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,3
+19,Benešov,Středočeský kraj,pediatrie,1
+20,Benešov,Středočeský kraj,pneumologie a ftizeologie,1
+21,Benešov,Středočeský kraj,praktické lékařství pro děti a dorost,22
+22,Benešov,Středočeský kraj,praktické lékárenství,3
+23,Benešov,Středočeský kraj,psychiatrie,1
+24,Benešov,Středočeský kraj,radiologie a zobrazovací metody,1
+25,Benešov,Středočeský kraj,rehabilitační a fyzikální medicína,1
+26,Benešov,Středočeský kraj,urologie,3
+27,Benešov,Středočeský kraj,vnitřní lékařství,4
+28,Benešov,Středočeský kraj,všeobecné praktické lékařství,39
+29,Benešov,Středočeský kraj,zubní lékařství,16
+30,Beroun,Středočeský kraj,Dentální hygienistka,2
+31,Beroun,Středočeský kraj,Fyzioterapeut,8
+32,Beroun,Středočeský kraj,Klinický psycholog,1
+33,Beroun,Středočeský kraj,Optometrista,6
+34,Beroun,Středočeský kraj,Ortotik-protetik,1
+35,Beroun,Středočeský kraj,Porodní asistentka,1
+36,Beroun,Středočeský kraj,Všeobecná sestra,2
+37,Beroun,Středočeský kraj,Zubní technik,3
+38,Beroun,Středočeský kraj,alergologie a klinická imunologie,1
+39,Beroun,Středočeský kraj,algeziologie,2
+40,Beroun,Středočeský kraj,anesteziologie a intenzivní medicína,11
+41,Beroun,Středočeský kraj,chirurgie,13
+42,Beroun,Středočeský kraj,dermatovenerologie,2
+43,Beroun,Středočeský kraj,gynekologie a porodnictví,12
+44,Beroun,Středočeský kraj,kardiologie,3
+45,Beroun,Středočeský kraj,nefrologie,1
+46,Beroun,Středočeský kraj,neurologie,1
+47,Beroun,Středočeský kraj,oftalmologie,4
+48,Beroun,Středočeský kraj,ortodoncie,2
+49,Beroun,Středočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+50,Beroun,Středočeský kraj,paliativní medicína,1
+51,Beroun,Středočeský kraj,pediatrie,3
+52,Beroun,Středočeský kraj,praktické lékařství pro děti a dorost,8
+53,Beroun,Středočeský kraj,praktické lékárenství,2
+54,Beroun,Středočeský kraj,psychiatrie,3
+55,Beroun,Středočeský kraj,radiologie a zobrazovací metody,1
+56,Beroun,Středočeský kraj,rehabilitační a fyzikální medicína,1
+57,Beroun,Středočeský kraj,urologie,1
+58,Beroun,Středočeský kraj,vnitřní lékařství,3
+59,Beroun,Středočeský kraj,všeobecné praktické lékařství,30
+60,Beroun,Středočeský kraj,zubní lékařství,17
+61,Blansko,Jihomoravský kraj,Dentální hygienistka,5
+62,Blansko,Jihomoravský kraj,Fyzioterapeut,11
+63,Blansko,Jihomoravský kraj,Klinický logoped,3
+64,Blansko,Jihomoravský kraj,Klinický psycholog,1
+65,Blansko,Jihomoravský kraj,Optometrista,6
+66,Blansko,Jihomoravský kraj,Porodní asistentka,1
+67,Blansko,Jihomoravský kraj,Všeobecná sestra,3
+68,Blansko,Jihomoravský kraj,Zubní technik,10
+69,Blansko,Jihomoravský kraj,alergologie a klinická imunologie,3
+70,Blansko,Jihomoravský kraj,chirurgie,2
+71,Blansko,Jihomoravský kraj,dermatovenerologie,4
+72,Blansko,Jihomoravský kraj,dětská kardiologie,1
+73,Blansko,Jihomoravský kraj,gastroenterologie,1
+74,Blansko,Jihomoravský kraj,gynekologie a porodnictví,19
+75,Blansko,Jihomoravský kraj,kardiologie,1
+76,Blansko,Jihomoravský kraj,klinická stomatologie,2
+77,Blansko,Jihomoravský kraj,neurologie,2
+78,Blansko,Jihomoravský kraj,oftalmologie,5
+79,Blansko,Jihomoravský kraj,ortopedie a traumatologie pohybového ústrojí,3
+80,Blansko,Jihomoravský kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+81,Blansko,Jihomoravský kraj,plastická chirurgie,1
+82,Blansko,Jihomoravský kraj,pneumologie a ftizeologie,2
+83,Blansko,Jihomoravský kraj,praktické lékařství pro děti a dorost,15
+84,Blansko,Jihomoravský kraj,praktické lékárenství,2
+85,Blansko,Jihomoravský kraj,psychiatrie,1
+86,Blansko,Jihomoravský kraj,radiologie a zobrazovací metody,1
+87,Blansko,Jihomoravský kraj,urologie,4
+88,Blansko,Jihomoravský kraj,vnitřní lékařství,3
+89,Blansko,Jihomoravský kraj,všeobecné praktické lékařství,37
+90,Blansko,Jihomoravský kraj,zubní lékařství,37
+91,Brno-město,Jihomoravský kraj,Adiktolog,1
+92,Brno-město,Jihomoravský kraj,Dentální hygienistka,26
+93,Brno-město,Jihomoravský kraj,Farmaceutický asistent,1
+94,Brno-město,Jihomoravský kraj,Fyzioterapeut,112
+95,Brno-město,Jihomoravský kraj,Klinický logoped,20
+96,Brno-město,Jihomoravský kraj,Klinický psycholog,43
+97,Brno-město,Jihomoravský kraj,Nutriční terapeut,2
+98,Brno-město,Jihomoravský kraj,Optometrista,30
+99,Brno-město,Jihomoravský kraj,Ortotik-protetik,2
+100,Brno-město,Jihomoravský kraj,Porodní asistentka,12
+101,Brno-město,Jihomoravský kraj,Všeobecná sestra,9
+102,Brno-město,Jihomoravský kraj,Zubní technik,84
+103,Brno-město,Jihomoravský kraj,alergologie a klinická imunologie,13
+104,Brno-město,Jihomoravský kraj,algeziologie,10
+105,Brno-město,Jihomoravský kraj,anesteziologie a intenzivní medicína,28
+106,Brno-město,Jihomoravský kraj,chirurgie,21
+107,Brno-město,Jihomoravský kraj,dermatovenerologie,42
+108,Brno-město,Jihomoravský kraj,dětská a dorostová psychiatrie,2
+109,Brno-město,Jihomoravský kraj,dětská kardiologie,2
+110,Brno-město,Jihomoravský kraj,dětská neurologie,1
+111,Brno-město,Jihomoravský kraj,dětská otorinolaryngologie,2
+112,Brno-město,Jihomoravský kraj,dětská radiologie,1
+113,Brno-město,Jihomoravský kraj,endokrinologie a diabetologie,14
+114,Brno-město,Jihomoravský kraj,gastroenterologie,5
+115,Brno-město,Jihomoravský kraj,gynekologie a porodnictví,39
+116,Brno-město,Jihomoravský kraj,hematologie a transfúzní lékařství,3
+117,Brno-město,Jihomoravský kraj,infekční lékařství,2
+118,Brno-město,Jihomoravský kraj,kardiochirurgie,1
+119,Brno-město,Jihomoravský kraj,kardiologie,10
+120,Brno-město,Jihomoravský kraj,klinická biochemie,2
+121,Brno-město,Jihomoravský kraj,klinická onkologie,2
+122,Brno-město,Jihomoravský kraj,klinická stomatologie,9
+123,Brno-město,Jihomoravský kraj,lékařská genetika,1
+124,Brno-město,Jihomoravský kraj,lékařská mikrobiologie,2
+125,Brno-město,Jihomoravský kraj,nefrologie,3
+126,Brno-město,Jihomoravský kraj,neurochirurgie,1
+127,Brno-město,Jihomoravský kraj,neurologie,27
+128,Brno-město,Jihomoravský kraj,nukleární medicína,1
+129,Brno-město,Jihomoravský kraj,oftalmologie,35
+130,Brno-město,Jihomoravský kraj,ortodoncie,7
+131,Brno-město,Jihomoravský kraj,ortopedie a traumatologie pohybového ústrojí,29
+132,Brno-město,Jihomoravský kraj,otorinolaryngologie a chirurgie hlavy a krku,14
+133,Brno-město,Jihomoravský kraj,patologie,2
+134,Brno-město,Jihomoravský kraj,pediatrie,1
+135,Brno-město,Jihomoravský kraj,plastická chirurgie,35
+136,Brno-město,Jihomoravský kraj,pneumologie a ftizeologie,8
+137,Brno-město,Jihomoravský kraj,praktické lékařství pro děti a dorost,55
+138,Brno-město,Jihomoravský kraj,praktické lékárenství,24
+139,Brno-město,Jihomoravský kraj,psychiatrie,33
+140,Brno-město,Jihomoravský kraj,radiologie a zobrazovací metody,13
+141,Brno-město,Jihomoravský kraj,rehabilitační a fyzikální medicína,7
+142,Brno-město,Jihomoravský kraj,revmatologie,5
+143,Brno-město,Jihomoravský kraj,sexuologie,1
+144,Brno-město,Jihomoravský kraj,traumatologie,2
+145,Brno-město,Jihomoravský kraj,urologie,12
+146,Brno-město,Jihomoravský kraj,vnitřní lékařství,13
+147,Brno-město,Jihomoravský kraj,všeobecné praktické lékařství,124
+148,Brno-město,Jihomoravský kraj,zubní lékařství,222
+149,Brno-venkov,Jihomoravský kraj,Dentální hygienistka,4
+150,Brno-venkov,Jihomoravský kraj,Fyzioterapeut,21
+151,Brno-venkov,Jihomoravský kraj,Klinický logoped,9
+152,Brno-venkov,Jihomoravský kraj,Klinický psycholog,4
+153,Brno-venkov,Jihomoravský kraj,Optometrista,13
+154,Brno-venkov,Jihomoravský kraj,Porodní asistentka,8
+155,Brno-venkov,Jihomoravský kraj,Všeobecná sestra,12
+156,Brno-venkov,Jihomoravský kraj,Zubní technik,25
+157,Brno-venkov,Jihomoravský kraj,alergologie a klinická imunologie,8
+158,Brno-venkov,Jihomoravský kraj,angiologie,1
+159,Brno-venkov,Jihomoravský kraj,chirurgie,4
+160,Brno-venkov,Jihomoravský kraj,dermatovenerologie,8
+161,Brno-venkov,Jihomoravský kraj,dětská a dorostová psychiatrie,1
+162,Brno-venkov,Jihomoravský kraj,dětská kardiologie,1
+163,Brno-venkov,Jihomoravský kraj,endokrinologie a diabetologie,1
+164,Brno-venkov,Jihomoravský kraj,geriatrie,1
+165,Brno-venkov,Jihomoravský kraj,gynekologie a porodnictví,21
+166,Brno-venkov,Jihomoravský kraj,hematologie a transfúzní lékařství,1
+167,Brno-venkov,Jihomoravský kraj,kardiologie,1
+168,Brno-venkov,Jihomoravský kraj,klinická stomatologie,1
+169,Brno-venkov,Jihomoravský kraj,neurologie,10
+170,Brno-venkov,Jihomoravský kraj,oftalmologie,9
+171,Brno-venkov,Jihomoravský kraj,ortodoncie,2
+172,Brno-venkov,Jihomoravský kraj,ortopedie a traumatologie pohybového ústrojí,12
+173,Brno-venkov,Jihomoravský kraj,otorinolaryngologie a chirurgie hlavy a krku,5
+174,Brno-venkov,Jihomoravský kraj,pneumologie a ftizeologie,2
+175,Brno-venkov,Jihomoravský kraj,pracovní lékařství,1
+176,Brno-venkov,Jihomoravský kraj,praktické lékařství pro děti a dorost,30
+177,Brno-venkov,Jihomoravský kraj,praktické lékárenství,11
+178,Brno-venkov,Jihomoravský kraj,psychiatrie,9
+179,Brno-venkov,Jihomoravský kraj,radiologie a zobrazovací metody,5
+180,Brno-venkov,Jihomoravský kraj,rehabilitační a fyzikální medicína,1
+181,Brno-venkov,Jihomoravský kraj,revmatologie,2
+182,Brno-venkov,Jihomoravský kraj,urologie,4
+183,Brno-venkov,Jihomoravský kraj,vnitřní lékařství,5
+184,Brno-venkov,Jihomoravský kraj,všeobecné praktické lékařství,57
+185,Brno-venkov,Jihomoravský kraj,zubní lékařství,50
+186,Bruntál,Moravskoslezský kraj,Dentální hygienistka,3
+187,Bruntál,Moravskoslezský kraj,Fyzioterapeut,16
+188,Bruntál,Moravskoslezský kraj,Klinický logoped,7
+189,Bruntál,Moravskoslezský kraj,Klinický psycholog,5
+190,Bruntál,Moravskoslezský kraj,Nutriční terapeut,1
+191,Bruntál,Moravskoslezský kraj,Optometrista,7
+192,Bruntál,Moravskoslezský kraj,Porodní asistentka,1
+193,Bruntál,Moravskoslezský kraj,Všeobecná sestra,6
+194,Bruntál,Moravskoslezský kraj,Zubní technik,11
+195,Bruntál,Moravskoslezský kraj,alergologie a klinická imunologie,2
+196,Bruntál,Moravskoslezský kraj,chirurgie,4
+197,Bruntál,Moravskoslezský kraj,dermatovenerologie,4
+198,Bruntál,Moravskoslezský kraj,dětská kardiologie,3
+199,Bruntál,Moravskoslezský kraj,dětské lékařství,1
+200,Bruntál,Moravskoslezský kraj,endokrinologie a diabetologie,1
+201,Bruntál,Moravskoslezský kraj,gastroenterologie,1
+202,Bruntál,Moravskoslezský kraj,gynekologie a porodnictví,16
+203,Bruntál,Moravskoslezský kraj,hematologie a transfúzní lékařství,2
+204,Bruntál,Moravskoslezský kraj,kardiologie,1
+205,Bruntál,Moravskoslezský kraj,neurochirurgie,1
+206,Bruntál,Moravskoslezský kraj,neurologie,3
+207,Bruntál,Moravskoslezský kraj,oftalmologie,3
+208,Bruntál,Moravskoslezský kraj,ortodoncie,1
+209,Bruntál,Moravskoslezský kraj,ortopedie a traumatologie pohybového ústrojí,10
+210,Bruntál,Moravskoslezský kraj,otorinolaryngologie a chirurgie hlavy a krku,3
+211,Bruntál,Moravskoslezský kraj,pediatrie,1
+212,Bruntál,Moravskoslezský kraj,praktické lékařství pro děti a dorost,21
+213,Bruntál,Moravskoslezský kraj,praktické lékárenství,2
+214,Bruntál,Moravskoslezský kraj,psychiatrie,3
+215,Bruntál,Moravskoslezský kraj,radiologie a zobrazovací metody,3
+216,Bruntál,Moravskoslezský kraj,rehabilitační a fyzikální medicína,1
+217,Bruntál,Moravskoslezský kraj,urologie,4
+218,Bruntál,Moravskoslezský kraj,vnitřní lékařství,4
+219,Bruntál,Moravskoslezský kraj,všeobecné praktické lékařství,44
+220,Bruntál,Moravskoslezský kraj,zubní lékařství,20
+221,Břeclav,Jihomoravský kraj,Dentální hygienistka,2
+222,Břeclav,Jihomoravský kraj,Ergoterapeut,1
+223,Břeclav,Jihomoravský kraj,Fyzioterapeut,7
+224,Břeclav,Jihomoravský kraj,Klinický logoped,5
+225,Břeclav,Jihomoravský kraj,Klinický psycholog,6
+226,Břeclav,Jihomoravský kraj,Optometrista,8
+227,Břeclav,Jihomoravský kraj,Porodní asistentka,2
+228,Břeclav,Jihomoravský kraj,Zubní technik,10
+229,Břeclav,Jihomoravský kraj,alergologie a klinická imunologie,3
+230,Břeclav,Jihomoravský kraj,algeziologie,1
+231,Břeclav,Jihomoravský kraj,chirurgie,5
+232,Břeclav,Jihomoravský kraj,dermatovenerologie,1
+233,Břeclav,Jihomoravský kraj,dětská a dorostová psychiatrie,1
+234,Břeclav,Jihomoravský kraj,dětská neurologie,1
+235,Břeclav,Jihomoravský kraj,endokrinologie a diabetologie,4
+236,Břeclav,Jihomoravský kraj,gastroenterologie,1
+237,Břeclav,Jihomoravský kraj,gynekologie a porodnictví,18
+238,Břeclav,Jihomoravský kraj,hematologie a transfúzní lékařství,1
+239,Břeclav,Jihomoravský kraj,infekční lékařství,1
+240,Břeclav,Jihomoravský kraj,kardiologie,3
+241,Břeclav,Jihomoravský kraj,klinická stomatologie,1
+242,Břeclav,Jihomoravský kraj,neurologie,4
+243,Břeclav,Jihomoravský kraj,oftalmologie,4
+244,Břeclav,Jihomoravský kraj,ortodoncie,1
+245,Břeclav,Jihomoravský kraj,ortopedie a traumatologie pohybového ústrojí,5
+246,Břeclav,Jihomoravský kraj,otorinolaryngologie a chirurgie hlavy a krku,3
+247,Břeclav,Jihomoravský kraj,patologie,1
+248,Břeclav,Jihomoravský kraj,pediatrie,1
+249,Břeclav,Jihomoravský kraj,pneumologie a ftizeologie,2
+250,Břeclav,Jihomoravský kraj,praktické lékařství pro děti a dorost,19
+251,Břeclav,Jihomoravský kraj,praktické lékárenství,4
+252,Břeclav,Jihomoravský kraj,psychiatrie,2
+253,Břeclav,Jihomoravský kraj,radiologie a zobrazovací metody,2
+254,Břeclav,Jihomoravský kraj,revmatologie,3
+255,Břeclav,Jihomoravský kraj,urologie,3
+256,Břeclav,Jihomoravský kraj,vnitřní lékařství,7
+257,Břeclav,Jihomoravský kraj,všeobecné praktické lékařství,35
+258,Břeclav,Jihomoravský kraj,zubní lékařství,33
+259,Cheb,Karlovarský kraj,Dentální hygienistka,1
+260,Cheb,Karlovarský kraj,Fyzioterapeut,15
+261,Cheb,Karlovarský kraj,Klinický psycholog,1
+262,Cheb,Karlovarský kraj,Nutriční terapeut,1
+263,Cheb,Karlovarský kraj,Optometrista,4
+264,Cheb,Karlovarský kraj,Porodní asistentka,1
+265,Cheb,Karlovarský kraj,Všeobecná sestra,6
+266,Cheb,Karlovarský kraj,Zubní technik,20
+267,Cheb,Karlovarský kraj,anesteziologie a intenzivní medicína,1
+268,Cheb,Karlovarský kraj,chirurgie,5
+269,Cheb,Karlovarský kraj,dermatovenerologie,3
+270,Cheb,Karlovarský kraj,endokrinologie a diabetologie,1
+271,Cheb,Karlovarský kraj,gastroenterologie,1
+272,Cheb,Karlovarský kraj,gynekologie a porodnictví,15
+273,Cheb,Karlovarský kraj,hematologie a transfúzní lékařství,1
+274,Cheb,Karlovarský kraj,kardiologie,1
+275,Cheb,Karlovarský kraj,klinická biochemie,1
+276,Cheb,Karlovarský kraj,neurologie,3
+277,Cheb,Karlovarský kraj,oftalmologie,7
+278,Cheb,Karlovarský kraj,ortopedie a traumatologie pohybového ústrojí,3
+279,Cheb,Karlovarský kraj,otorinolaryngologie a chirurgie hlavy a krku,4
+280,Cheb,Karlovarský kraj,plastická chirurgie,1
+281,Cheb,Karlovarský kraj,pneumologie a ftizeologie,2
+282,Cheb,Karlovarský kraj,praktické lékařství pro děti a dorost,13
+283,Cheb,Karlovarský kraj,praktické lékárenství,2
+284,Cheb,Karlovarský kraj,psychiatrie,3
+285,Cheb,Karlovarský kraj,radiologie a zobrazovací metody,6
+286,Cheb,Karlovarský kraj,rehabilitační a fyzikální medicína,10
+287,Cheb,Karlovarský kraj,urologie,5
+288,Cheb,Karlovarský kraj,vnitřní lékařství,1
+289,Cheb,Karlovarský kraj,všeobecné praktické lékařství,32
+290,Cheb,Karlovarský kraj,zubní lékařství,34
+291,Chomutov,Ústecký kraj,Dentální hygienistka,1
+292,Chomutov,Ústecký kraj,Ergoterapeut,1
+293,Chomutov,Ústecký kraj,Fyzioterapeut,18
+294,Chomutov,Ústecký kraj,Klinický logoped,1
+295,Chomutov,Ústecký kraj,Klinický psycholog,2
+296,Chomutov,Ústecký kraj,Optometrista,5
+297,Chomutov,Ústecký kraj,Všeobecná sestra,9
+298,Chomutov,Ústecký kraj,Zubní technik,12
+299,Chomutov,Ústecký kraj,alergologie a klinická imunologie,3
+300,Chomutov,Ústecký kraj,chirurgie,6
+301,Chomutov,Ústecký kraj,dermatovenerologie,5
+302,Chomutov,Ústecký kraj,dětská a dorostová psychiatrie,2
+303,Chomutov,Ústecký kraj,dětské lékařství,2
+304,Chomutov,Ústecký kraj,endokrinologie a diabetologie,3
+305,Chomutov,Ústecký kraj,gastroenterologie,1
+306,Chomutov,Ústecký kraj,gynekologie a porodnictví,11
+307,Chomutov,Ústecký kraj,hematologie a transfúzní lékařství,1
+308,Chomutov,Ústecký kraj,neurologie,2
+309,Chomutov,Ústecký kraj,oftalmologie,8
+310,Chomutov,Ústecký kraj,ortodoncie,1
+311,Chomutov,Ústecký kraj,ortopedie a traumatologie pohybového ústrojí,4
+312,Chomutov,Ústecký kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+313,Chomutov,Ústecký kraj,pneumologie a ftizeologie,1
+314,Chomutov,Ústecký kraj,pracovní lékařství,2
+315,Chomutov,Ústecký kraj,praktické lékařství pro děti a dorost,22
+316,Chomutov,Ústecký kraj,praktické lékárenství,2
+317,Chomutov,Ústecký kraj,psychiatrie,6
+318,Chomutov,Ústecký kraj,radiologie a zobrazovací metody,1
+319,Chomutov,Ústecký kraj,rehabilitační a fyzikální medicína,1
+320,Chomutov,Ústecký kraj,revmatologie,1
+321,Chomutov,Ústecký kraj,urologie,3
+322,Chomutov,Ústecký kraj,vnitřní lékařství,7
+323,Chomutov,Ústecký kraj,všeobecné praktické lékařství,53
+324,Chomutov,Ústecký kraj,zubní lékařství,50
+325,Chrudim,Pardubický kraj,Dentální hygienistka,4
+326,Chrudim,Pardubický kraj,Fyzioterapeut,9
+327,Chrudim,Pardubický kraj,Klinický logoped,4
+328,Chrudim,Pardubický kraj,Klinický psycholog,5
+329,Chrudim,Pardubický kraj,Optometrista,2
+330,Chrudim,Pardubický kraj,Sestra pro péči v psychiatrii,1
+331,Chrudim,Pardubický kraj,Všeobecná sestra,3
+332,Chrudim,Pardubický kraj,Zubní technik,20
+333,Chrudim,Pardubický kraj,alergologie a klinická imunologie,3
+334,Chrudim,Pardubický kraj,anesteziologie a intenzivní medicína,1
+335,Chrudim,Pardubický kraj,chirurgie,12
+336,Chrudim,Pardubický kraj,dermatovenerologie,1
+337,Chrudim,Pardubický kraj,dětská a dorostová psychiatrie,1
+338,Chrudim,Pardubický kraj,gynekologie a porodnictví,15
+339,Chrudim,Pardubický kraj,korektivní dermatologie,1
+340,Chrudim,Pardubický kraj,neurologie,4
+341,Chrudim,Pardubický kraj,oftalmologie,3
+342,Chrudim,Pardubický kraj,ortodoncie,2
+343,Chrudim,Pardubický kraj,ortopedie a traumatologie pohybového ústrojí,6
+344,Chrudim,Pardubický kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+345,Chrudim,Pardubický kraj,plastická chirurgie,1
+346,Chrudim,Pardubický kraj,pneumologie a ftizeologie,2
+347,Chrudim,Pardubický kraj,praktické lékařství pro děti a dorost,19
+348,Chrudim,Pardubický kraj,praktické lékárenství,3
+349,Chrudim,Pardubický kraj,psychiatrie,6
+350,Chrudim,Pardubický kraj,radiologie a zobrazovací metody,2
+351,Chrudim,Pardubický kraj,rehabilitační a fyzikální medicína,2
+352,Chrudim,Pardubický kraj,tělovýchovné lékařství,1
+353,Chrudim,Pardubický kraj,urologie,3
+354,Chrudim,Pardubický kraj,všeobecné praktické lékařství,44
+355,Chrudim,Pardubický kraj,zubní lékařství,44
+356,Domažlice,Plzeňský kraj,Fyzioterapeut,5
+357,Domažlice,Plzeňský kraj,Klinický psycholog,1
+358,Domažlice,Plzeňský kraj,Porodní asistentka,3
+359,Domažlice,Plzeňský kraj,Všeobecná sestra,1
+360,Domažlice,Plzeňský kraj,Zubní technik,6
+361,Domažlice,Plzeňský kraj,alergologie a klinická imunologie,1
+362,Domažlice,Plzeňský kraj,chirurgie,4
+363,Domažlice,Plzeňský kraj,dermatovenerologie,2
+364,Domažlice,Plzeňský kraj,dětská a dorostová psychiatrie,1
+365,Domažlice,Plzeňský kraj,gynekologie a porodnictví,7
+366,Domažlice,Plzeňský kraj,kardiologie,1
+367,Domažlice,Plzeňský kraj,nefrologie,2
+368,Domažlice,Plzeňský kraj,neurologie,2
+369,Domažlice,Plzeňský kraj,oftalmologie,3
+370,Domažlice,Plzeňský kraj,ortopedie a traumatologie pohybového ústrojí,2
+371,Domažlice,Plzeňský kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+372,Domažlice,Plzeňský kraj,praktické lékařství pro děti a dorost,5
+373,Domažlice,Plzeňský kraj,praktické lékárenství,3
+374,Domažlice,Plzeňský kraj,psychiatrie,4
+375,Domažlice,Plzeňský kraj,radiologie a zobrazovací metody,1
+376,Domažlice,Plzeňský kraj,rehabilitační a fyzikální medicína,2
+377,Domažlice,Plzeňský kraj,urologie,3
+378,Domažlice,Plzeňský kraj,všeobecné praktické lékařství,15
+379,Domažlice,Plzeňský kraj,zubní lékařství,9
+380,Děčín,Ústecký kraj,Adiktolog,1
+381,Děčín,Ústecký kraj,Dentální hygienistka,3
+382,Děčín,Ústecký kraj,Farmaceutický asistent pro zdravotnické prostředky,1
+383,Děčín,Ústecký kraj,Fyzioterapeut,13
+384,Děčín,Ústecký kraj,Klinický logoped,2
+385,Děčín,Ústecký kraj,Klinický psycholog,1
+386,Děčín,Ústecký kraj,Optometrista,8
+387,Děčín,Ústecký kraj,Ortotik-protetik,1
+388,Děčín,Ústecký kraj,Porodní asistentka,2
+389,Děčín,Ústecký kraj,Všeobecná sestra,23
+390,Děčín,Ústecký kraj,Zubní technik,11
+391,Děčín,Ústecký kraj,alergologie a klinická imunologie,6
+392,Děčín,Ústecký kraj,chirurgie,5
+393,Děčín,Ústecký kraj,dermatovenerologie,6
+394,Děčín,Ústecký kraj,dětská neurologie,2
+395,Děčín,Ústecký kraj,endokrinologie a diabetologie,2
+396,Děčín,Ústecký kraj,gastroenterologie,1
+397,Děčín,Ústecký kraj,gynekologie a porodnictví,15
+398,Děčín,Ústecký kraj,hematologie a transfúzní lékařství,1
+399,Děčín,Ústecký kraj,neurologie,4
+400,Děčín,Ústecký kraj,oftalmologie,8
+401,Děčín,Ústecký kraj,ortodoncie,1
+402,Děčín,Ústecký kraj,ortopedie a traumatologie pohybového ústrojí,4
+403,Děčín,Ústecký kraj,otorinolaryngologie a chirurgie hlavy a krku,6
+404,Děčín,Ústecký kraj,pneumologie a ftizeologie,1
+405,Děčín,Ústecký kraj,praktické lékařství pro děti a dorost,20
+406,Děčín,Ústecký kraj,praktické lékárenství,7
+407,Děčín,Ústecký kraj,psychiatrie,5
+408,Děčín,Ústecký kraj,radiologie a zobrazovací metody,1
+409,Děčín,Ústecký kraj,rehabilitační a fyzikální medicína,7
+410,Děčín,Ústecký kraj,urologie,3
+411,Děčín,Ústecký kraj,vnitřní lékařství,3
+412,Děčín,Ústecký kraj,všeobecné praktické lékařství,55
+413,Děčín,Ústecký kraj,zubní lékařství,47
+414,Frýdek-Místek,Moravskoslezský kraj,Dentální hygienistka,6
+415,Frýdek-Místek,Moravskoslezský kraj,Farmaceutický asistent,1
+416,Frýdek-Místek,Moravskoslezský kraj,Fyzioterapeut,32
+417,Frýdek-Místek,Moravskoslezský kraj,Klinický logoped,23
+418,Frýdek-Místek,Moravskoslezský kraj,Klinický psycholog,13
+419,Frýdek-Místek,Moravskoslezský kraj,Nutriční terapeut,1
+420,Frýdek-Místek,Moravskoslezský kraj,Optometrista,14
+421,Frýdek-Místek,Moravskoslezský kraj,Ortotik-protetik,1
+422,Frýdek-Místek,Moravskoslezský kraj,Porodní asistentka,7
+423,Frýdek-Místek,Moravskoslezský kraj,Všeobecná sestra,23
+424,Frýdek-Místek,Moravskoslezský kraj,Zubní technik,28
+425,Frýdek-Místek,Moravskoslezský kraj,alergologie a klinická imunologie,4
+426,Frýdek-Místek,Moravskoslezský kraj,anesteziologie a intenzivní medicína,5
+427,Frýdek-Místek,Moravskoslezský kraj,angiologie,1
+428,Frýdek-Místek,Moravskoslezský kraj,chirurgie,6
+429,Frýdek-Místek,Moravskoslezský kraj,cévní chirurgie,1
+430,Frýdek-Místek,Moravskoslezský kraj,dermatovenerologie,5
+431,Frýdek-Místek,Moravskoslezský kraj,gastroenterologie,1
+432,Frýdek-Místek,Moravskoslezský kraj,gynekologie a porodnictví,18
+433,Frýdek-Místek,Moravskoslezský kraj,hematologie a transfúzní lékařství,1
+434,Frýdek-Místek,Moravskoslezský kraj,kardiologie,1
+435,Frýdek-Místek,Moravskoslezský kraj,lékařská mikrobiologie,1
+436,Frýdek-Místek,Moravskoslezský kraj,neurologie,6
+437,Frýdek-Místek,Moravskoslezský kraj,oftalmologie,13
+438,Frýdek-Místek,Moravskoslezský kraj,ortodoncie,2
+439,Frýdek-Místek,Moravskoslezský kraj,ortopedie a traumatologie pohybového ústrojí,13
+440,Frýdek-Místek,Moravskoslezský kraj,otorinolaryngologie a chirurgie hlavy a krku,5
+441,Frýdek-Místek,Moravskoslezský kraj,plastická chirurgie,4
+442,Frýdek-Místek,Moravskoslezský kraj,pneumologie a ftizeologie,3
+443,Frýdek-Místek,Moravskoslezský kraj,praktické lékařství pro děti a dorost,38
+444,Frýdek-Místek,Moravskoslezský kraj,praktické lékárenství,8
+445,Frýdek-Místek,Moravskoslezský kraj,psychiatrie,8
+446,Frýdek-Místek,Moravskoslezský kraj,radiologie a zobrazovací metody,5
+447,Frýdek-Místek,Moravskoslezský kraj,rehabilitační a fyzikální medicína,3
+448,Frýdek-Místek,Moravskoslezský kraj,urologie,7
+449,Frýdek-Místek,Moravskoslezský kraj,vnitřní lékařství,2
+450,Frýdek-Místek,Moravskoslezský kraj,všeobecné praktické lékařství,95
+451,Frýdek-Místek,Moravskoslezský kraj,zubní lékařství,94
+452,Havlíčkův Brod,Kraj Vysočina,Dentální hygienistka,3
+453,Havlíčkův Brod,Kraj Vysočina,Fyzioterapeut,17
+454,Havlíčkův Brod,Kraj Vysočina,Klinický logoped,3
+455,Havlíčkův Brod,Kraj Vysočina,Klinický psycholog,6
+456,Havlíčkův Brod,Kraj Vysočina,Nutriční terapeut,1
+457,Havlíčkův Brod,Kraj Vysočina,Optometrista,3
+458,Havlíčkův Brod,Kraj Vysočina,Ortotik-protetik,1
+459,Havlíčkův Brod,Kraj Vysočina,Porodní asistentka,1
+460,Havlíčkův Brod,Kraj Vysočina,Všeobecná sestra,1
+461,Havlíčkův Brod,Kraj Vysočina,Zrakový terapeut,1
+462,Havlíčkův Brod,Kraj Vysočina,Zubní technik,11
+463,Havlíčkův Brod,Kraj Vysočina,alergologie a klinická imunologie,2
+464,Havlíčkův Brod,Kraj Vysočina,anesteziologie a intenzivní medicína,1
+465,Havlíčkův Brod,Kraj Vysočina,chirurgie,6
+466,Havlíčkův Brod,Kraj Vysočina,dermatovenerologie,4
+467,Havlíčkův Brod,Kraj Vysočina,endokrinologie a diabetologie,2
+468,Havlíčkův Brod,Kraj Vysočina,gynekologie a porodnictví,10
+469,Havlíčkův Brod,Kraj Vysočina,klinická biochemie,1
+470,Havlíčkův Brod,Kraj Vysočina,neurologie,6
+471,Havlíčkův Brod,Kraj Vysočina,oftalmologie,3
+472,Havlíčkův Brod,Kraj Vysočina,ortodoncie,1
+473,Havlíčkův Brod,Kraj Vysočina,ortopedie a traumatologie pohybového ústrojí,10
+474,Havlíčkův Brod,Kraj Vysočina,otorinolaryngologie a chirurgie hlavy a krku,4
+475,Havlíčkův Brod,Kraj Vysočina,pneumologie a ftizeologie,1
+476,Havlíčkův Brod,Kraj Vysočina,praktické lékařství pro děti a dorost,2
+477,Havlíčkův Brod,Kraj Vysočina,praktické lékárenství,4
+478,Havlíčkův Brod,Kraj Vysočina,psychiatrie,9
+479,Havlíčkův Brod,Kraj Vysočina,radiologie a zobrazovací metody,3
+480,Havlíčkův Brod,Kraj Vysočina,urologie,3
+481,Havlíčkův Brod,Kraj Vysočina,všeobecné praktické lékařství,2
+482,Havlíčkův Brod,Kraj Vysočina,zubní lékařství,50
+483,Hlavní město Praha,Hlavní město Praha,Behaviorální analytik,1
+484,Hlavní město Praha,Hlavní město Praha,Dentální hygienistka,92
+485,Hlavní město Praha,Hlavní město Praha,Ergoterapeut,3
+486,Hlavní město Praha,Hlavní město Praha,Fyzioterapeut,194
+487,Hlavní město Praha,Hlavní město Praha,Klinický logoped,50
+488,Hlavní město Praha,Hlavní město Praha,Klinický psycholog,86
+489,Hlavní město Praha,Hlavní město Praha,Nutriční terapeut,3
+490,Hlavní město Praha,Hlavní město Praha,Optometrista,95
+491,Hlavní město Praha,Hlavní město Praha,Ortotik-protetik,2
+492,Hlavní město Praha,Hlavní město Praha,Porodní asistentka,19
+493,Hlavní město Praha,Hlavní město Praha,Radiologický fyzik,1
+494,Hlavní město Praha,Hlavní město Praha,Všeobecná sestra,65
+495,Hlavní město Praha,Hlavní město Praha,Zdravotnický záchranář,6
+496,Hlavní město Praha,Hlavní město Praha,Zubní technik,99
+497,Hlavní město Praha,Hlavní město Praha,alergologie a klinická imunologie,30
+498,Hlavní město Praha,Hlavní město Praha,algeziologie,3
+499,Hlavní město Praha,Hlavní město Praha,anesteziologie a intenzivní medicína,118
+500,Hlavní město Praha,Hlavní město Praha,angiologie,7
+501,Hlavní město Praha,Hlavní město Praha,chirurgie,65
+502,Hlavní město Praha,Hlavní město Praha,cévní chirurgie,14
+503,Hlavní město Praha,Hlavní město Praha,dermatovenerologie,109
+504,Hlavní město Praha,Hlavní město Praha,dětská a dorostová psychiatrie,4
+505,Hlavní město Praha,Hlavní město Praha,dětská kardiologie,4
+506,Hlavní město Praha,Hlavní město Praha,dětská neurologie,3
+507,Hlavní město Praha,Hlavní město Praha,dětská urologie,1
+508,Hlavní město Praha,Hlavní město Praha,dětské lékařství,1
+509,Hlavní město Praha,Hlavní město Praha,endokrinologie a diabetologie,26
+510,Hlavní město Praha,Hlavní město Praha,epidemiologie,3
+511,Hlavní město Praha,Hlavní město Praha,foniatrie,1
+512,Hlavní město Praha,Hlavní město Praha,gastroenterologie,10
+513,Hlavní město Praha,Hlavní město Praha,geriatrie,1
+514,Hlavní město Praha,Hlavní město Praha,gynekologie a porodnictví,132
+515,Hlavní město Praha,Hlavní město Praha,hematologie a transfúzní lékařství,7
+516,Hlavní město Praha,Hlavní město Praha,infekční lékařství,1
+517,Hlavní město Praha,Hlavní město Praha,kardiochirurgie,1
+518,Hlavní město Praha,Hlavní město Praha,kardiologie,24
+519,Hlavní město Praha,Hlavní město Praha,klinická onkologie,3
+520,Hlavní město Praha,Hlavní město Praha,korektivní dermatologie,2
+521,Hlavní město Praha,Hlavní město Praha,laboratorní a vyšetřovací metody ve zdravotnictví,1
+522,Hlavní město Praha,Hlavní město Praha,lékařská genetika,2
+523,Hlavní město Praha,Hlavní město Praha,medicína dlouhodobé péče,2
+524,Hlavní město Praha,Hlavní město Praha,nefrologie,1
+525,Hlavní město Praha,Hlavní město Praha,neurochirurgie,3
+526,Hlavní město Praha,Hlavní město Praha,neurologie,38
+527,Hlavní město Praha,Hlavní město Praha,oftalmologie,86
+528,Hlavní město Praha,Hlavní město Praha,ortodoncie,21
+529,Hlavní město Praha,Hlavní město Praha,ortopedická protetika,1
+530,Hlavní město Praha,Hlavní město Praha,ortopedie a traumatologie pohybového ústrojí,54
+531,Hlavní město Praha,Hlavní město Praha,otorinolaryngologie a chirurgie hlavy a krku,33
+532,Hlavní město Praha,Hlavní město Praha,patologie,1
+533,Hlavní město Praha,Hlavní město Praha,plastická chirurgie,57
+534,Hlavní město Praha,Hlavní město Praha,pneumologie a ftizeologie,5
+535,Hlavní město Praha,Hlavní město Praha,pracovní lékařství,1
+536,Hlavní město Praha,Hlavní město Praha,praktické lékařství pro děti a dorost,164
+537,Hlavní město Praha,Hlavní město Praha,praktické lékárenství,43
+538,Hlavní město Praha,Hlavní město Praha,psychiatrie,87
+539,Hlavní město Praha,Hlavní město Praha,radiologie a zobrazovací metody,22
+540,Hlavní město Praha,Hlavní město Praha,rehabilitační a fyzikální medicína,15
+541,Hlavní město Praha,Hlavní město Praha,revmatologie,2
+542,Hlavní město Praha,Hlavní město Praha,sexuologie,2
+543,Hlavní město Praha,Hlavní město Praha,tělovýchovné lékařství,1
+544,Hlavní město Praha,Hlavní město Praha,urologie,22
+545,Hlavní město Praha,Hlavní město Praha,vnitřní lékařství,37
+546,Hlavní město Praha,Hlavní město Praha,všeobecné praktické lékařství,454
+547,Hlavní město Praha,Hlavní město Praha,zubní lékařství,595
+548,Hodonín,Jihomoravský kraj,Dentální hygienistka,6
+549,Hodonín,Jihomoravský kraj,Fyzioterapeut,10
+550,Hodonín,Jihomoravský kraj,Klinický logoped,4
+551,Hodonín,Jihomoravský kraj,Klinický psycholog,8
+552,Hodonín,Jihomoravský kraj,Nutriční terapeut,2
+553,Hodonín,Jihomoravský kraj,Optometrista,7
+554,Hodonín,Jihomoravský kraj,Porodní asistentka,1
+555,Hodonín,Jihomoravský kraj,Zubní technik,16
+556,Hodonín,Jihomoravský kraj,alergologie a klinická imunologie,3
+557,Hodonín,Jihomoravský kraj,anesteziologie a intenzivní medicína,3
+558,Hodonín,Jihomoravský kraj,chirurgie,3
+559,Hodonín,Jihomoravský kraj,dermatovenerologie,6
+560,Hodonín,Jihomoravský kraj,dětská a dorostová psychiatrie,1
+561,Hodonín,Jihomoravský kraj,endokrinologie a diabetologie,6
+562,Hodonín,Jihomoravský kraj,gynekologie a porodnictví,21
+563,Hodonín,Jihomoravský kraj,kardiologie,1
+564,Hodonín,Jihomoravský kraj,klinická stomatologie,2
+565,Hodonín,Jihomoravský kraj,lékařská mikrobiologie,1
+566,Hodonín,Jihomoravský kraj,neurologie,5
+567,Hodonín,Jihomoravský kraj,oftalmologie,8
+568,Hodonín,Jihomoravský kraj,ortodoncie,3
+569,Hodonín,Jihomoravský kraj,ortopedie a traumatologie pohybového ústrojí,6
+570,Hodonín,Jihomoravský kraj,otorinolaryngologie a chirurgie hlavy a krku,7
+571,Hodonín,Jihomoravský kraj,paliativní medicína,1
+572,Hodonín,Jihomoravský kraj,pediatrie,1
+573,Hodonín,Jihomoravský kraj,plastická chirurgie,1
+574,Hodonín,Jihomoravský kraj,pneumologie a ftizeologie,2
+575,Hodonín,Jihomoravský kraj,praktické lékařství pro děti a dorost,29
+576,Hodonín,Jihomoravský kraj,praktické lékárenství,6
+577,Hodonín,Jihomoravský kraj,psychiatrie,8
+578,Hodonín,Jihomoravský kraj,radiologie a zobrazovací metody,3
+579,Hodonín,Jihomoravský kraj,rehabilitační a fyzikální medicína,1
+580,Hodonín,Jihomoravský kraj,urologie,4
+581,Hodonín,Jihomoravský kraj,vnitřní lékařství,3
+582,Hodonín,Jihomoravský kraj,všeobecné praktické lékařství,51
+583,Hodonín,Jihomoravský kraj,zubní lékařství,70
+584,Hradec Králové,Královéhradecký kraj,Adiktolog,1
+585,Hradec Králové,Královéhradecký kraj,Dentální hygienistka,6
+586,Hradec Králové,Královéhradecký kraj,Fyzioterapeut,28
+587,Hradec Králové,Královéhradecký kraj,Klinický logoped,8
+588,Hradec Králové,Královéhradecký kraj,Klinický psycholog,3
+589,Hradec Králové,Královéhradecký kraj,Optometrista,12
+590,Hradec Králové,Královéhradecký kraj,Ortoptista,2
+591,Hradec Králové,Královéhradecký kraj,Porodní asistentka,6
+592,Hradec Králové,Královéhradecký kraj,Všeobecná sestra,10
+593,Hradec Králové,Královéhradecký kraj,Zubní technik,17
+594,Hradec Králové,Královéhradecký kraj,alergologie a klinická imunologie,7
+595,Hradec Králové,Královéhradecký kraj,algeziologie,1
+596,Hradec Králové,Královéhradecký kraj,anesteziologie a intenzivní medicína,5
+597,Hradec Králové,Královéhradecký kraj,chirurgie,6
+598,Hradec Králové,Královéhradecký kraj,dermatovenerologie,3
+599,Hradec Králové,Královéhradecký kraj,dětská a dorostová psychiatrie,2
+600,Hradec Králové,Královéhradecký kraj,dětská kardiologie,1
+601,Hradec Králové,Královéhradecký kraj,dětská neurologie,1
+602,Hradec Králové,Královéhradecký kraj,endokrinologie a diabetologie,4
+603,Hradec Králové,Královéhradecký kraj,gynekologie a porodnictví,17
+604,Hradec Králové,Královéhradecký kraj,hematologie a transfúzní lékařství,2
+605,Hradec Králové,Královéhradecký kraj,hygiena a epidemiologie,2
+606,Hradec Králové,Královéhradecký kraj,kardiologie,4
+607,Hradec Králové,Královéhradecký kraj,klinická biochemie,2
+608,Hradec Králové,Královéhradecký kraj,klinická onkologie,1
+609,Hradec Králové,Královéhradecký kraj,neurologie,8
+610,Hradec Králové,Královéhradecký kraj,oftalmologie,7
+611,Hradec Králové,Královéhradecký kraj,ortodoncie,1
+612,Hradec Králové,Královéhradecký kraj,ortopedie a traumatologie pohybového ústrojí,15
+613,Hradec Králové,Královéhradecký kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+614,Hradec Králové,Královéhradecký kraj,plastická chirurgie,3
+615,Hradec Králové,Královéhradecký kraj,pneumologie a ftizeologie,2
+616,Hradec Králové,Královéhradecký kraj,pracovní lékařství,1
+617,Hradec Králové,Královéhradecký kraj,praktické lékařství pro děti a dorost,27
+618,Hradec Králové,Královéhradecký kraj,praktické lékárenství,8
+619,Hradec Králové,Královéhradecký kraj,psychiatrie,14
+620,Hradec Králové,Královéhradecký kraj,radiologie a zobrazovací metody,7
+621,Hradec Králové,Královéhradecký kraj,rehabilitační a fyzikální medicína,2
+622,Hradec Králové,Královéhradecký kraj,revmatologie,2
+623,Hradec Králové,Královéhradecký kraj,urgentní medicína,2
+624,Hradec Králové,Královéhradecký kraj,urologie,6
+625,Hradec Králové,Královéhradecký kraj,vnitřní lékařství,7
+626,Hradec Králové,Královéhradecký kraj,všeobecné praktické lékařství,60
+627,Hradec Králové,Královéhradecký kraj,zubní lékařství,75
+628,Jablonec nad Nisou,Liberecký kraj,Dentální hygienistka,1
+629,Jablonec nad Nisou,Liberecký kraj,Farmaceutický asistent pro zdravotnické prostředky,1
+630,Jablonec nad Nisou,Liberecký kraj,Fyzioterapeut,12
+631,Jablonec nad Nisou,Liberecký kraj,Klinický logoped,1
+632,Jablonec nad Nisou,Liberecký kraj,Klinický psycholog,2
+633,Jablonec nad Nisou,Liberecký kraj,Optometrista,6
+634,Jablonec nad Nisou,Liberecký kraj,Všeobecná sestra,4
+635,Jablonec nad Nisou,Liberecký kraj,Zubní technik,1
+636,Jablonec nad Nisou,Liberecký kraj,alergologie a klinická imunologie,2
+637,Jablonec nad Nisou,Liberecký kraj,anesteziologie a intenzivní medicína,5
+638,Jablonec nad Nisou,Liberecký kraj,chirurgie,3
+639,Jablonec nad Nisou,Liberecký kraj,dermatovenerologie,5
+640,Jablonec nad Nisou,Liberecký kraj,gynekologie a porodnictví,11
+641,Jablonec nad Nisou,Liberecký kraj,hematologie a transfúzní lékařství,1
+642,Jablonec nad Nisou,Liberecký kraj,kardiologie,1
+643,Jablonec nad Nisou,Liberecký kraj,oftalmologie,3
+644,Jablonec nad Nisou,Liberecký kraj,ortopedie a traumatologie pohybového ústrojí,5
+645,Jablonec nad Nisou,Liberecký kraj,pneumologie a ftizeologie,1
+646,Jablonec nad Nisou,Liberecký kraj,praktické lékařství pro děti a dorost,11
+647,Jablonec nad Nisou,Liberecký kraj,praktické lékárenství,3
+648,Jablonec nad Nisou,Liberecký kraj,psychiatrie,4
+649,Jablonec nad Nisou,Liberecký kraj,radiologie a zobrazovací metody,1
+650,Jablonec nad Nisou,Liberecký kraj,rehabilitační a fyzikální medicína,2
+651,Jablonec nad Nisou,Liberecký kraj,revmatologie,1
+652,Jablonec nad Nisou,Liberecký kraj,urologie,1
+653,Jablonec nad Nisou,Liberecký kraj,vnitřní lékařství,2
+654,Jablonec nad Nisou,Liberecký kraj,všeobecné praktické lékařství,24
+655,Jablonec nad Nisou,Liberecký kraj,zubní lékařství,35
+656,Jeseník,Olomoucký kraj,Dentální hygienistka,2
+657,Jeseník,Olomoucký kraj,Fyzioterapeut,6
+658,Jeseník,Olomoucký kraj,Klinický logoped,3
+659,Jeseník,Olomoucký kraj,Klinický psycholog,6
+660,Jeseník,Olomoucký kraj,Optometrista,2
+661,Jeseník,Olomoucký kraj,Všeobecná sestra,3
+662,Jeseník,Olomoucký kraj,Zubní technik,3
+663,Jeseník,Olomoucký kraj,Zubní technik pro fixní a snímatelné náhrady,1
+664,Jeseník,Olomoucký kraj,anesteziologie a intenzivní medicína,1
+665,Jeseník,Olomoucký kraj,chirurgie,1
+666,Jeseník,Olomoucký kraj,gynekologie a porodnictví,6
+667,Jeseník,Olomoucký kraj,klinická onkologie,1
+668,Jeseník,Olomoucký kraj,nemocniční lékárenství,1
+669,Jeseník,Olomoucký kraj,neurologie,1
+670,Jeseník,Olomoucký kraj,oftalmologie,1
+671,Jeseník,Olomoucký kraj,ortodoncie,1
+672,Jeseník,Olomoucký kraj,ortopedie a traumatologie pohybového ústrojí,2
+673,Jeseník,Olomoucký kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+674,Jeseník,Olomoucký kraj,praktické lékařství pro děti a dorost,10
+675,Jeseník,Olomoucký kraj,praktické lékárenství,1
+676,Jeseník,Olomoucký kraj,psychiatrie,1
+677,Jeseník,Olomoucký kraj,radiologie a zobrazovací metody,1
+678,Jeseník,Olomoucký kraj,urologie,1
+679,Jeseník,Olomoucký kraj,všeobecné praktické lékařství,13
+680,Jeseník,Olomoucký kraj,zubní lékařství,17
+681,Jihlava,Kraj Vysočina,Dentální hygienistka,4
+682,Jihlava,Kraj Vysočina,Fyzioterapeut,12
+683,Jihlava,Kraj Vysočina,Klinický logoped,3
+684,Jihlava,Kraj Vysočina,Klinický psycholog,3
+685,Jihlava,Kraj Vysočina,Optometrista,5
+686,Jihlava,Kraj Vysočina,Porodní asistentka,3
+687,Jihlava,Kraj Vysočina,Všeobecná sestra,2
+688,Jihlava,Kraj Vysočina,Zubní technik,16
+689,Jihlava,Kraj Vysočina,alergologie a klinická imunologie,3
+690,Jihlava,Kraj Vysočina,algeziologie,1
+691,Jihlava,Kraj Vysočina,chirurgie,9
+692,Jihlava,Kraj Vysočina,dermatovenerologie,8
+693,Jihlava,Kraj Vysočina,dětská kardiologie,1
+694,Jihlava,Kraj Vysočina,endokrinologie a diabetologie,1
+695,Jihlava,Kraj Vysočina,gynekologie a porodnictví,15
+696,Jihlava,Kraj Vysočina,kardiologie,3
+697,Jihlava,Kraj Vysočina,lékařská genetika,1
+698,Jihlava,Kraj Vysočina,neurologie,5
+699,Jihlava,Kraj Vysočina,oftalmologie,6
+700,Jihlava,Kraj Vysočina,ortodoncie,2
+701,Jihlava,Kraj Vysočina,ortopedie a traumatologie pohybového ústrojí,11
+702,Jihlava,Kraj Vysočina,otorinolaryngologie a chirurgie hlavy a krku,5
+703,Jihlava,Kraj Vysočina,pneumologie a ftizeologie,2
+704,Jihlava,Kraj Vysočina,praktické lékárenství,3
+705,Jihlava,Kraj Vysočina,psychiatrie,9
+706,Jihlava,Kraj Vysočina,radiologie a zobrazovací metody,1
+707,Jihlava,Kraj Vysočina,rehabilitační a fyzikální medicína,2
+708,Jihlava,Kraj Vysočina,revmatologie,1
+709,Jihlava,Kraj Vysočina,tělovýchovné lékařství,2
+710,Jihlava,Kraj Vysočina,urologie,4
+711,Jihlava,Kraj Vysočina,vnitřní lékařství,1
+712,Jihlava,Kraj Vysočina,všeobecné praktické lékařství,2
+713,Jihlava,Kraj Vysočina,zubní lékařství,37
+714,Jindřichův Hradec,Jihočeský kraj,Fyzioterapeut,12
+715,Jindřichův Hradec,Jihočeský kraj,Klinický logoped,3
+716,Jindřichův Hradec,Jihočeský kraj,Klinický psycholog,3
+717,Jindřichův Hradec,Jihočeský kraj,Optometrista,9
+718,Jindřichův Hradec,Jihočeský kraj,Všeobecná sestra,8
+719,Jindřichův Hradec,Jihočeský kraj,Zubní technik,19
+720,Jindřichův Hradec,Jihočeský kraj,alergologie a klinická imunologie,1
+721,Jindřichův Hradec,Jihočeský kraj,anesteziologie a intenzivní medicína,3
+722,Jindřichův Hradec,Jihočeský kraj,chirurgie,4
+723,Jindřichův Hradec,Jihočeský kraj,cévní chirurgie,1
+724,Jindřichův Hradec,Jihočeský kraj,dermatovenerologie,2
+725,Jindřichův Hradec,Jihočeský kraj,dětská kardiologie,1
+726,Jindřichův Hradec,Jihočeský kraj,dětská neurologie,1
+727,Jindřichův Hradec,Jihočeský kraj,dětské lékařství,2
+728,Jindřichův Hradec,Jihočeský kraj,endokrinologie a diabetologie,3
+729,Jindřichův Hradec,Jihočeský kraj,epidemiologie,1
+730,Jindřichův Hradec,Jihočeský kraj,gynekologie a porodnictví,18
+731,Jindřichův Hradec,Jihočeský kraj,kardiologie,1
+732,Jindřichův Hradec,Jihočeský kraj,klinická biochemie,1
+733,Jindřichův Hradec,Jihočeský kraj,neurologie,2
+734,Jindřichův Hradec,Jihočeský kraj,oftalmologie,6
+735,Jindřichův Hradec,Jihočeský kraj,ortopedie a traumatologie pohybového ústrojí,1
+736,Jindřichův Hradec,Jihočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,4
+737,Jindřichův Hradec,Jihočeský kraj,pneumologie a ftizeologie,2
+738,Jindřichův Hradec,Jihočeský kraj,praktické lékařství pro děti a dorost,20
+739,Jindřichův Hradec,Jihočeský kraj,psychiatrie,3
+740,Jindřichův Hradec,Jihočeský kraj,radiologie a zobrazovací metody,1
+741,Jindřichův Hradec,Jihočeský kraj,rehabilitační a fyzikální medicína,4
+742,Jindřichův Hradec,Jihočeský kraj,revmatologie,2
+743,Jindřichův Hradec,Jihočeský kraj,urologie,1
+744,Jindřichův Hradec,Jihočeský kraj,vnitřní lékařství,2
+745,Jindřichův Hradec,Jihočeský kraj,všeobecné praktické lékařství,41
+746,Jindřichův Hradec,Jihočeský kraj,zubní lékařství,16
+747,Jičín,Královéhradecký kraj,Dentální hygienistka,4
+748,Jičín,Královéhradecký kraj,Fyzioterapeut,8
+749,Jičín,Královéhradecký kraj,Klinický logoped,3
+750,Jičín,Královéhradecký kraj,Klinický psycholog,1
+751,Jičín,Královéhradecký kraj,Optometrista,3
+752,Jičín,Královéhradecký kraj,Ortoptista,3
+753,Jičín,Královéhradecký kraj,Všeobecná sestra,11
+754,Jičín,Královéhradecký kraj,Zubní technik,6
+755,Jičín,Královéhradecký kraj,chirurgie,3
+756,Jičín,Královéhradecký kraj,dermatovenerologie,3
+757,Jičín,Královéhradecký kraj,endokrinologie a diabetologie,1
+758,Jičín,Královéhradecký kraj,epidemiologie,1
+759,Jičín,Královéhradecký kraj,gynekologie a porodnictví,10
+760,Jičín,Královéhradecký kraj,kardiologie,2
+761,Jičín,Královéhradecký kraj,neurologie,2
+762,Jičín,Královéhradecký kraj,oftalmologie,7
+763,Jičín,Královéhradecký kraj,ortopedie a traumatologie pohybového ústrojí,9
+764,Jičín,Královéhradecký kraj,otorinolaryngologie a chirurgie hlavy a krku,3
+765,Jičín,Královéhradecký kraj,plastická chirurgie,2
+766,Jičín,Královéhradecký kraj,praktické lékařství pro děti a dorost,11
+767,Jičín,Královéhradecký kraj,praktické lékárenství,2
+768,Jičín,Královéhradecký kraj,psychiatrie,3
+769,Jičín,Královéhradecký kraj,radiologie a zobrazovací metody,4
+770,Jičín,Královéhradecký kraj,rehabilitační a fyzikální medicína,5
+771,Jičín,Královéhradecký kraj,revmatologie,1
+772,Jičín,Královéhradecký kraj,sexuologie,1
+773,Jičín,Královéhradecký kraj,urgentní medicína,3
+774,Jičín,Královéhradecký kraj,urologie,2
+775,Jičín,Královéhradecký kraj,vnitřní lékařství,2
+776,Jičín,Královéhradecký kraj,všeobecné praktické lékařství,37
+777,Jičín,Královéhradecký kraj,zubní lékařství,30
+778,Karlovy Vary,Karlovarský kraj,Dentální hygienistka,5
+779,Karlovy Vary,Karlovarský kraj,Dětská sestra,1
+780,Karlovy Vary,Karlovarský kraj,Fyzioterapeut,19
+781,Karlovy Vary,Karlovarský kraj,Klinický psycholog,8
+782,Karlovy Vary,Karlovarský kraj,Nutriční terapeut,3
+783,Karlovy Vary,Karlovarský kraj,Optometrista,5
+784,Karlovy Vary,Karlovarský kraj,Porodní asistentka,5
+785,Karlovy Vary,Karlovarský kraj,Všeobecná sestra,2
+786,Karlovy Vary,Karlovarský kraj,Zubní technik,30
+787,Karlovy Vary,Karlovarský kraj,alergologie a klinická imunologie,1
+788,Karlovy Vary,Karlovarský kraj,anesteziologie a intenzivní medicína,16
+789,Karlovy Vary,Karlovarský kraj,angiologie,1
+790,Karlovy Vary,Karlovarský kraj,chirurgie,7
+791,Karlovy Vary,Karlovarský kraj,dermatovenerologie,8
+792,Karlovy Vary,Karlovarský kraj,dětská a dorostová psychiatrie,1
+793,Karlovy Vary,Karlovarský kraj,dětské lékařství,2
+794,Karlovy Vary,Karlovarský kraj,endokrinologie a diabetologie,3
+795,Karlovy Vary,Karlovarský kraj,gastroenterologie,4
+796,Karlovy Vary,Karlovarský kraj,gynekologie a porodnictví,22
+797,Karlovy Vary,Karlovarský kraj,hematologie a transfúzní lékařství,1
+798,Karlovy Vary,Karlovarský kraj,kardiologie,3
+799,Karlovy Vary,Karlovarský kraj,klinická biochemie,1
+800,Karlovy Vary,Karlovarský kraj,klinická onkologie,1
+801,Karlovy Vary,Karlovarský kraj,neurologie,6
+802,Karlovy Vary,Karlovarský kraj,oftalmologie,15
+803,Karlovy Vary,Karlovarský kraj,ortodoncie,2
+804,Karlovy Vary,Karlovarský kraj,ortopedie a traumatologie pohybového ústrojí,18
+805,Karlovy Vary,Karlovarský kraj,otorinolaryngologie a chirurgie hlavy a krku,6
+806,Karlovy Vary,Karlovarský kraj,plastická chirurgie,7
+807,Karlovy Vary,Karlovarský kraj,pneumologie a ftizeologie,1
+808,Karlovy Vary,Karlovarský kraj,praktické lékařství pro děti a dorost,14
+809,Karlovy Vary,Karlovarský kraj,praktické lékárenství,5
+810,Karlovy Vary,Karlovarský kraj,psychiatrie,5
+811,Karlovy Vary,Karlovarský kraj,radiologie a zobrazovací metody,5
+812,Karlovy Vary,Karlovarský kraj,rehabilitační a fyzikální medicína,12
+813,Karlovy Vary,Karlovarský kraj,urologie,5
+814,Karlovy Vary,Karlovarský kraj,vnitřní lékařství,4
+815,Karlovy Vary,Karlovarský kraj,všeobecné praktické lékařství,51
+816,Karlovy Vary,Karlovarský kraj,zubní lékařství,57
+817,Karviná,Moravskoslezský kraj,Dentální hygienistka,3
+818,Karviná,Moravskoslezský kraj,Ergoterapeut,2
+819,Karviná,Moravskoslezský kraj,Fyzioterapeut,10
+820,Karviná,Moravskoslezský kraj,Klinický logoped,19
+821,Karviná,Moravskoslezský kraj,Klinický psycholog,12
+822,Karviná,Moravskoslezský kraj,Optometrista,13
+823,Karviná,Moravskoslezský kraj,Porodní asistentka,6
+824,Karviná,Moravskoslezský kraj,Všeobecná sestra,11
+825,Karviná,Moravskoslezský kraj,Zubní technik,28
+826,Karviná,Moravskoslezský kraj,alergologie a klinická imunologie,5
+827,Karviná,Moravskoslezský kraj,anesteziologie a intenzivní medicína,8
+828,Karviná,Moravskoslezský kraj,angiologie,1
+829,Karviná,Moravskoslezský kraj,chirurgie,7
+830,Karviná,Moravskoslezský kraj,dermatovenerologie,10
+831,Karviná,Moravskoslezský kraj,dětská neurologie,2
+832,Karviná,Moravskoslezský kraj,endokrinologie a diabetologie,2
+833,Karviná,Moravskoslezský kraj,gynekologie a porodnictví,33
+834,Karviná,Moravskoslezský kraj,hematologie a transfúzní lékařství,3
+835,Karviná,Moravskoslezský kraj,kardiologie,3
+836,Karviná,Moravskoslezský kraj,neurologie,14
+837,Karviná,Moravskoslezský kraj,oftalmologie,15
+838,Karviná,Moravskoslezský kraj,ortodoncie,2
+839,Karviná,Moravskoslezský kraj,ortopedie a traumatologie pohybového ústrojí,13
+840,Karviná,Moravskoslezský kraj,otorinolaryngologie a chirurgie hlavy a krku,8
+841,Karviná,Moravskoslezský kraj,plastická chirurgie,6
+842,Karviná,Moravskoslezský kraj,pneumologie a ftizeologie,4
+843,Karviná,Moravskoslezský kraj,praktické lékařství pro děti a dorost,39
+844,Karviná,Moravskoslezský kraj,praktické lékárenství,8
+845,Karviná,Moravskoslezský kraj,psychiatrie,10
+846,Karviná,Moravskoslezský kraj,radiologie a zobrazovací metody,4
+847,Karviná,Moravskoslezský kraj,rehabilitační a fyzikální medicína,2
+848,Karviná,Moravskoslezský kraj,revmatologie,1
+849,Karviná,Moravskoslezský kraj,urologie,3
+850,Karviná,Moravskoslezský kraj,vnitřní lékařství,4
+851,Karviná,Moravskoslezský kraj,všeobecné praktické lékařství,84
+852,Karviná,Moravskoslezský kraj,zubní lékařství,83
+853,Kladno,Středočeský kraj,Dentální hygienistka,2
+854,Kladno,Středočeský kraj,Fyzioterapeut,15
+855,Kladno,Středočeský kraj,Klinický logoped,1
+856,Kladno,Středočeský kraj,Klinický psycholog,4
+857,Kladno,Středočeský kraj,Nutriční terapeut,1
+858,Kladno,Středočeský kraj,Optometrista,11
+859,Kladno,Středočeský kraj,Ortoptista,1
+860,Kladno,Středočeský kraj,Porodní asistentka,1
+861,Kladno,Středočeský kraj,Všeobecná sestra,2
+862,Kladno,Středočeský kraj,Zubní technik,4
+863,Kladno,Středočeský kraj,alergologie a klinická imunologie,1
+864,Kladno,Středočeský kraj,anesteziologie a intenzivní medicína,3
+865,Kladno,Středočeský kraj,chirurgie,1
+866,Kladno,Středočeský kraj,dermatovenerologie,5
+867,Kladno,Středočeský kraj,dětská a dorostová psychiatrie,1
+868,Kladno,Středočeský kraj,endokrinologie a diabetologie,3
+869,Kladno,Středočeský kraj,epidemiologie,1
+870,Kladno,Středočeský kraj,gynekologie a porodnictví,21
+871,Kladno,Středočeský kraj,hematologie a transfúzní lékařství,1
+872,Kladno,Středočeský kraj,hyperbarická a letecká medicína,1
+873,Kladno,Středočeský kraj,neurologie,6
+874,Kladno,Středočeský kraj,oftalmologie,8
+875,Kladno,Středočeský kraj,ortodoncie,4
+876,Kladno,Středočeský kraj,ortopedie a traumatologie pohybového ústrojí,3
+877,Kladno,Středočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,4
+878,Kladno,Středočeský kraj,pediatrie,1
+879,Kladno,Středočeský kraj,pracovní lékařství,1
+880,Kladno,Středočeský kraj,praktické lékařství pro děti a dorost,26
+881,Kladno,Středočeský kraj,praktické lékárenství,2
+882,Kladno,Středočeský kraj,psychiatrie,4
+883,Kladno,Středočeský kraj,radiologie a zobrazovací metody,2
+884,Kladno,Středočeský kraj,rehabilitační a fyzikální medicína,1
+885,Kladno,Středočeský kraj,urologie,2
+886,Kladno,Středočeský kraj,vnitřní lékařství,2
+887,Kladno,Středočeský kraj,všeobecné praktické lékařství,58
+888,Kladno,Středočeský kraj,zubní lékařství,26
+889,Klatovy,Plzeňský kraj,Dentální hygienistka,2
+890,Klatovy,Plzeňský kraj,Fyzioterapeut,9
+891,Klatovy,Plzeňský kraj,Klinický logoped,1
+892,Klatovy,Plzeňský kraj,Porodní asistentka,3
+893,Klatovy,Plzeňský kraj,Všeobecná sestra,3
+894,Klatovy,Plzeňský kraj,Zubní technik,5
+895,Klatovy,Plzeňský kraj,anesteziologie a intenzivní medicína,1
+896,Klatovy,Plzeňský kraj,chirurgie,3
+897,Klatovy,Plzeňský kraj,dermatovenerologie,2
+898,Klatovy,Plzeňský kraj,gynekologie a porodnictví,15
+899,Klatovy,Plzeňský kraj,kardiologie,1
+900,Klatovy,Plzeňský kraj,korektivní dermatologie,1
+901,Klatovy,Plzeňský kraj,nefrologie,1
+902,Klatovy,Plzeňský kraj,neurologie,3
+903,Klatovy,Plzeňský kraj,oftalmologie,3
+904,Klatovy,Plzeňský kraj,ortodoncie,2
+905,Klatovy,Plzeňský kraj,ortopedie a traumatologie pohybového ústrojí,4
+906,Klatovy,Plzeňský kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+907,Klatovy,Plzeňský kraj,pracovní lékařství,1
+908,Klatovy,Plzeňský kraj,praktické lékařství pro děti a dorost,13
+909,Klatovy,Plzeňský kraj,psychiatrie,5
+910,Klatovy,Plzeňský kraj,radiologie a zobrazovací metody,2
+911,Klatovy,Plzeňský kraj,rehabilitační a fyzikální medicína,1
+912,Klatovy,Plzeňský kraj,vnitřní lékařství,3
+913,Klatovy,Plzeňský kraj,všeobecné praktické lékařství,29
+914,Klatovy,Plzeňský kraj,zubní lékařství,33
+915,Kolín,Středočeský kraj,Dentální hygienistka,1
+916,Kolín,Středočeský kraj,Fyzioterapeut,8
+917,Kolín,Středočeský kraj,Klinický psycholog,2
+918,Kolín,Středočeský kraj,Optometrista,3
+919,Kolín,Středočeský kraj,Všeobecná sestra,3
+920,Kolín,Středočeský kraj,Zubní technik,4
+921,Kolín,Středočeský kraj,anesteziologie a intenzivní medicína,4
+922,Kolín,Středočeský kraj,chirurgie,5
+923,Kolín,Středočeský kraj,dermatovenerologie,2
+924,Kolín,Středočeský kraj,dětská kardiologie,1
+925,Kolín,Středočeský kraj,dětská neurologie,1
+926,Kolín,Středočeský kraj,gynekologie a porodnictví,11
+927,Kolín,Středočeský kraj,hematologie a transfúzní lékařství,1
+928,Kolín,Středočeský kraj,klinická onkologie,1
+929,Kolín,Středočeský kraj,neurologie,2
+930,Kolín,Středočeský kraj,oftalmologie,2
+931,Kolín,Středočeský kraj,ortopedie a traumatologie pohybového ústrojí,2
+932,Kolín,Středočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+933,Kolín,Středočeský kraj,pediatrie,2
+934,Kolín,Středočeský kraj,pracovní lékařství,1
+935,Kolín,Středočeský kraj,praktické lékařství pro děti a dorost,18
+936,Kolín,Středočeský kraj,praktické lékárenství,2
+937,Kolín,Středočeský kraj,psychiatrie,2
+938,Kolín,Středočeský kraj,urologie,2
+939,Kolín,Středočeský kraj,vnitřní lékařství,2
+940,Kolín,Středočeský kraj,všeobecné praktické lékařství,29
+941,Kolín,Středočeský kraj,zubní lékařství,16
+942,Kroměříž,Zlínský kraj,Dentální hygienistka,1
+943,Kroměříž,Zlínský kraj,Dětský klinický psycholog,2
+944,Kroměříž,Zlínský kraj,Fyzioterapeut,21
+945,Kroměříž,Zlínský kraj,Klinický logoped,7
+946,Kroměříž,Zlínský kraj,Klinický psycholog,5
+947,Kroměříž,Zlínský kraj,Optometrista,3
+948,Kroměříž,Zlínský kraj,Ortotik-protetik,1
+949,Kroměříž,Zlínský kraj,Porodní asistentka,4
+950,Kroměříž,Zlínský kraj,Všeobecná sestra,5
+951,Kroměříž,Zlínský kraj,Zubní technik,9
+952,Kroměříž,Zlínský kraj,Zubní technik pro fixní a snímatelné náhrady,12
+953,Kroměříž,Zlínský kraj,alergologie a klinická imunologie,3
+954,Kroměříž,Zlínský kraj,anesteziologie a intenzivní medicína,3
+955,Kroměříž,Zlínský kraj,chirurgie,4
+956,Kroměříž,Zlínský kraj,dermatovenerologie,6
+957,Kroměříž,Zlínský kraj,dětská kardiologie,1
+958,Kroměříž,Zlínský kraj,endokrinologie a diabetologie,4
+959,Kroměříž,Zlínský kraj,gastroenterologie,1
+960,Kroměříž,Zlínský kraj,gynekologie a porodnictví,17
+961,Kroměříž,Zlínský kraj,kardiologie,1
+962,Kroměříž,Zlínský kraj,klinická biochemie,2
+963,Kroměříž,Zlínský kraj,klinická onkologie,1
+964,Kroměříž,Zlínský kraj,neurologie,5
+965,Kroměříž,Zlínský kraj,oftalmologie,6
+966,Kroměříž,Zlínský kraj,ortopedie a traumatologie pohybového ústrojí,6
+967,Kroměříž,Zlínský kraj,otorinolaryngologie a chirurgie hlavy a krku,6
+968,Kroměříž,Zlínský kraj,patologie,2
+969,Kroměříž,Zlínský kraj,plastická chirurgie,1
+970,Kroměříž,Zlínský kraj,pneumologie a ftizeologie,1
+971,Kroměříž,Zlínský kraj,praktické lékařství pro děti a dorost,12
+972,Kroměříž,Zlínský kraj,praktické lékárenství,4
+973,Kroměříž,Zlínský kraj,psychiatrie,5
+974,Kroměříž,Zlínský kraj,radiologie a zobrazovací metody,3
+975,Kroměříž,Zlínský kraj,rehabilitační a fyzikální medicína,2
+976,Kroměříž,Zlínský kraj,revmatologie,2
+977,Kroměříž,Zlínský kraj,urologie,3
+978,Kroměříž,Zlínský kraj,všeobecné praktické lékařství,44
+979,Kroměříž,Zlínský kraj,zubní lékařství,46
+980,Kutná Hora,Středočeský kraj,Dentální hygienistka,2
+981,Kutná Hora,Středočeský kraj,Fyzioterapeut,16
+982,Kutná Hora,Středočeský kraj,Klinický logoped,2
+983,Kutná Hora,Středočeský kraj,Klinický psycholog,1
+984,Kutná Hora,Středočeský kraj,Všeobecná sestra,2
+985,Kutná Hora,Středočeský kraj,Zubní technik,4
+986,Kutná Hora,Středočeský kraj,alergologie a klinická imunologie,1
+987,Kutná Hora,Středočeský kraj,chirurgie,2
+988,Kutná Hora,Středočeský kraj,dermatovenerologie,4
+989,Kutná Hora,Středočeský kraj,gynekologie a porodnictví,6
+990,Kutná Hora,Středočeský kraj,klinická onkologie,1
+991,Kutná Hora,Středočeský kraj,neurologie,7
+992,Kutná Hora,Středočeský kraj,oftalmologie,6
+993,Kutná Hora,Středočeský kraj,ortopedie a traumatologie pohybového ústrojí,2
+994,Kutná Hora,Středočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+995,Kutná Hora,Středočeský kraj,patologie,1
+996,Kutná Hora,Středočeský kraj,pediatrie,2
+997,Kutná Hora,Středočeský kraj,plastická chirurgie,2
+998,Kutná Hora,Středočeský kraj,praktické lékařství pro děti a dorost,11
+999,Kutná Hora,Středočeský kraj,praktické lékárenství,1
+1000,Kutná Hora,Středočeský kraj,psychiatrie,3
+1001,Kutná Hora,Středočeský kraj,radiologie a zobrazovací metody,1
+1002,Kutná Hora,Středočeský kraj,urologie,1
+1003,Kutná Hora,Středočeský kraj,všeobecné praktické lékařství,42
+1004,Kutná Hora,Středočeský kraj,zubní lékařství,10
+1005,Liberec,Liberecký kraj,Dentální hygienistka,3
+1006,Liberec,Liberecký kraj,Fyzioterapeut,22
+1007,Liberec,Liberecký kraj,Klinický logoped,2
+1008,Liberec,Liberecký kraj,Klinický psycholog,5
+1009,Liberec,Liberecký kraj,Odborný fyzioterapeut,1
+1010,Liberec,Liberecký kraj,Optometrista,10
+1011,Liberec,Liberecký kraj,Všeobecná sestra,4
+1012,Liberec,Liberecký kraj,Zubní technik,12
+1013,Liberec,Liberecký kraj,alergologie a klinická imunologie,2
+1014,Liberec,Liberecký kraj,anesteziologie a intenzivní medicína,3
+1015,Liberec,Liberecký kraj,chirurgie,3
+1016,Liberec,Liberecký kraj,dermatovenerologie,6
+1017,Liberec,Liberecký kraj,gastroenterologie,1
+1018,Liberec,Liberecký kraj,gynekologie a porodnictví,18
+1019,Liberec,Liberecký kraj,hematologie a transfúzní lékařství,1
+1020,Liberec,Liberecký kraj,hygiena a epidemiologie,3
+1021,Liberec,Liberecký kraj,infekční lékařství,2
+1022,Liberec,Liberecký kraj,kardiologie,1
+1023,Liberec,Liberecký kraj,neurochirurgie,2
+1024,Liberec,Liberecký kraj,neurologie,5
+1025,Liberec,Liberecký kraj,oftalmologie,6
+1026,Liberec,Liberecký kraj,ortodoncie,1
+1027,Liberec,Liberecký kraj,ortopedie a traumatologie pohybového ústrojí,4
+1028,Liberec,Liberecký kraj,otorinolaryngologie a chirurgie hlavy a krku,5
+1029,Liberec,Liberecký kraj,plastická chirurgie,3
+1030,Liberec,Liberecký kraj,pneumologie a ftizeologie,3
+1031,Liberec,Liberecký kraj,praktické lékařství pro děti a dorost,15
+1032,Liberec,Liberecký kraj,praktické lékárenství,5
+1033,Liberec,Liberecký kraj,psychiatrie,5
+1034,Liberec,Liberecký kraj,radiační onkologie,1
+1035,Liberec,Liberecký kraj,rehabilitační a fyzikální medicína,2
+1036,Liberec,Liberecký kraj,revmatologie,1
+1037,Liberec,Liberecký kraj,urologie,1
+1038,Liberec,Liberecký kraj,všeobecné praktické lékařství,45
+1039,Liberec,Liberecký kraj,zubní lékařství,70
+1040,Litoměřice,Ústecký kraj,Dentální hygienistka,2
+1041,Litoměřice,Ústecký kraj,Fyzioterapeut,13
+1042,Litoměřice,Ústecký kraj,Klinický logoped,2
+1043,Litoměřice,Ústecký kraj,Klinický psycholog,6
+1044,Litoměřice,Ústecký kraj,Optometrista,6
+1045,Litoměřice,Ústecký kraj,Všeobecná sestra,7
+1046,Litoměřice,Ústecký kraj,Zubní technik,13
+1047,Litoměřice,Ústecký kraj,alergologie a klinická imunologie,2
+1048,Litoměřice,Ústecký kraj,anesteziologie a intenzivní medicína,4
+1049,Litoměřice,Ústecký kraj,chirurgie,9
+1050,Litoměřice,Ústecký kraj,dermatovenerologie,5
+1051,Litoměřice,Ústecký kraj,dětská a dorostová psychiatrie,1
+1052,Litoměřice,Ústecký kraj,dětská kardiologie,1
+1053,Litoměřice,Ústecký kraj,endokrinologie a diabetologie,5
+1054,Litoměřice,Ústecký kraj,gynekologie a porodnictví,15
+1055,Litoměřice,Ústecký kraj,hematologie a transfúzní lékařství,2
+1056,Litoměřice,Ústecký kraj,neurologie,6
+1057,Litoměřice,Ústecký kraj,oftalmologie,6
+1058,Litoměřice,Ústecký kraj,ortodoncie,2
+1059,Litoměřice,Ústecký kraj,ortopedie a traumatologie pohybového ústrojí,4
+1060,Litoměřice,Ústecký kraj,otorinolaryngologie a chirurgie hlavy a krku,5
+1061,Litoměřice,Ústecký kraj,praktické lékařství pro děti a dorost,20
+1062,Litoměřice,Ústecký kraj,praktické lékárenství,4
+1063,Litoměřice,Ústecký kraj,psychiatrie,9
+1064,Litoměřice,Ústecký kraj,radiologie a zobrazovací metody,2
+1065,Litoměřice,Ústecký kraj,revmatologie,1
+1066,Litoměřice,Ústecký kraj,urologie,4
+1067,Litoměřice,Ústecký kraj,vnitřní lékařství,4
+1068,Litoměřice,Ústecký kraj,všeobecné praktické lékařství,44
+1069,Litoměřice,Ústecký kraj,zubní lékařství,41
+1070,Louny,Ústecký kraj,Dentální hygienistka,2
+1071,Louny,Ústecký kraj,Fyzioterapeut,17
+1072,Louny,Ústecký kraj,Klinický logoped,4
+1073,Louny,Ústecký kraj,Klinický psycholog,2
+1074,Louny,Ústecký kraj,Optometrista,7
+1075,Louny,Ústecký kraj,Ortoptista,1
+1076,Louny,Ústecký kraj,Všeobecná sestra,5
+1077,Louny,Ústecký kraj,Zubní technik,6
+1078,Louny,Ústecký kraj,angiologie,1
+1079,Louny,Ústecký kraj,chirurgie,7
+1080,Louny,Ústecký kraj,dermatovenerologie,2
+1081,Louny,Ústecký kraj,dětská neurologie,2
+1082,Louny,Ústecký kraj,dětské lékařství,1
+1083,Louny,Ústecký kraj,endokrinologie a diabetologie,3
+1084,Louny,Ústecký kraj,gynekologie a porodnictví,9
+1085,Louny,Ústecký kraj,klinická biochemie,1
+1086,Louny,Ústecký kraj,neurologie,3
+1087,Louny,Ústecký kraj,oftalmologie,5
+1088,Louny,Ústecký kraj,ortodoncie,1
+1089,Louny,Ústecký kraj,ortopedie a traumatologie pohybového ústrojí,1
+1090,Louny,Ústecký kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+1091,Louny,Ústecký kraj,praktické lékařství pro děti a dorost,17
+1092,Louny,Ústecký kraj,praktické lékárenství,2
+1093,Louny,Ústecký kraj,psychiatrie,2
+1094,Louny,Ústecký kraj,rehabilitační a fyzikální medicína,3
+1095,Louny,Ústecký kraj,revmatologie,1
+1096,Louny,Ústecký kraj,veřejné zdravotnictví,1
+1097,Louny,Ústecký kraj,vnitřní lékařství,1
+1098,Louny,Ústecký kraj,všeobecné praktické lékařství,32
+1099,Louny,Ústecký kraj,zubní lékařství,33
+1100,Mladá Boleslav,Středočeský kraj,Dentální hygienistka,2
+1101,Mladá Boleslav,Středočeský kraj,Fyzioterapeut,10
+1102,Mladá Boleslav,Středočeský kraj,Klinický logoped,1
+1103,Mladá Boleslav,Středočeský kraj,Klinický psycholog,1
+1104,Mladá Boleslav,Středočeský kraj,Optometrista,4
+1105,Mladá Boleslav,Středočeský kraj,Zubní technik,5
+1106,Mladá Boleslav,Středočeský kraj,alergologie a klinická imunologie,2
+1107,Mladá Boleslav,Středočeský kraj,anesteziologie a intenzivní medicína,2
+1108,Mladá Boleslav,Středočeský kraj,chirurgie,5
+1109,Mladá Boleslav,Středočeský kraj,dermatovenerologie,2
+1110,Mladá Boleslav,Středočeský kraj,endokrinologie a diabetologie,2
+1111,Mladá Boleslav,Středočeský kraj,gynekologie a porodnictví,7
+1112,Mladá Boleslav,Středočeský kraj,hematologie a transfúzní lékařství,2
+1113,Mladá Boleslav,Středočeský kraj,kardiologie,3
+1114,Mladá Boleslav,Středočeský kraj,neurologie,1
+1115,Mladá Boleslav,Středočeský kraj,oftalmologie,2
+1116,Mladá Boleslav,Středočeský kraj,ortodoncie,1
+1117,Mladá Boleslav,Středočeský kraj,ortopedie a traumatologie pohybového ústrojí,2
+1118,Mladá Boleslav,Středočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+1119,Mladá Boleslav,Středočeský kraj,pediatrie,6
+1120,Mladá Boleslav,Středočeský kraj,pneumologie a ftizeologie,1
+1121,Mladá Boleslav,Středočeský kraj,praktické lékařství pro děti a dorost,19
+1122,Mladá Boleslav,Středočeský kraj,praktické lékárenství,4
+1123,Mladá Boleslav,Středočeský kraj,psychiatrie,3
+1124,Mladá Boleslav,Středočeský kraj,radiologie a zobrazovací metody,1
+1125,Mladá Boleslav,Středočeský kraj,urologie,2
+1126,Mladá Boleslav,Středočeský kraj,vnitřní lékařství,3
+1127,Mladá Boleslav,Středočeský kraj,všeobecné praktické lékařství,45
+1128,Mladá Boleslav,Středočeský kraj,zubní lékařství,12
+1129,Most,Ústecký kraj,Adiktolog,1
+1130,Most,Ústecký kraj,Dentální hygienistka,1
+1131,Most,Ústecký kraj,Fyzioterapeut,8
+1132,Most,Ústecký kraj,Klinický logoped,1
+1133,Most,Ústecký kraj,Klinický psycholog,1
+1134,Most,Ústecký kraj,Optometrista,10
+1135,Most,Ústecký kraj,Radiologický asistent,1
+1136,Most,Ústecký kraj,Všeobecná sestra,6
+1137,Most,Ústecký kraj,Zubní technik,10
+1138,Most,Ústecký kraj,alergologie a klinická imunologie,3
+1139,Most,Ústecký kraj,chirurgie,1
+1140,Most,Ústecký kraj,dermatovenerologie,2
+1141,Most,Ústecký kraj,dětská neurologie,1
+1142,Most,Ústecký kraj,foniatrie,1
+1143,Most,Ústecký kraj,gastroenterologie,2
+1144,Most,Ústecký kraj,gynekologie a porodnictví,17
+1145,Most,Ústecký kraj,hematologie a transfúzní lékařství,2
+1146,Most,Ústecký kraj,kardiologie,3
+1147,Most,Ústecký kraj,neurologie,4
+1148,Most,Ústecký kraj,oftalmologie,4
+1149,Most,Ústecký kraj,ortopedie a traumatologie pohybového ústrojí,2
+1150,Most,Ústecký kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+1151,Most,Ústecký kraj,pneumologie a ftizeologie,3
+1152,Most,Ústecký kraj,praktické lékařství pro děti a dorost,22
+1153,Most,Ústecký kraj,praktické lékárenství,2
+1154,Most,Ústecký kraj,psychiatrie,1
+1155,Most,Ústecký kraj,radiologie a zobrazovací metody,1
+1156,Most,Ústecký kraj,rehabilitační a fyzikální medicína,2
+1157,Most,Ústecký kraj,urologie,5
+1158,Most,Ústecký kraj,všeobecné praktické lékařství,42
+1159,Most,Ústecký kraj,zubní lékařství,40
+1160,Mělník,Středočeský kraj,Dentální hygienistka,1
+1161,Mělník,Středočeský kraj,Fyzioterapeut,3
+1162,Mělník,Středočeský kraj,Klinický psycholog,3
+1163,Mělník,Středočeský kraj,Optometrista,7
+1164,Mělník,Středočeský kraj,Porodní asistentka,1
+1165,Mělník,Středočeský kraj,Všeobecná sestra,2
+1166,Mělník,Středočeský kraj,Zubní technik,6
+1167,Mělník,Středočeský kraj,anesteziologie a intenzivní medicína,2
+1168,Mělník,Středočeský kraj,angiologie,1
+1169,Mělník,Středočeský kraj,chirurgie,2
+1170,Mělník,Středočeský kraj,dermatovenerologie,4
+1171,Mělník,Středočeský kraj,endokrinologie a diabetologie,3
+1172,Mělník,Středočeský kraj,gastroenterologie,1
+1173,Mělník,Středočeský kraj,gynekologie a porodnictví,10
+1174,Mělník,Středočeský kraj,kardiologie,2
+1175,Mělník,Středočeský kraj,neurologie,3
+1176,Mělník,Středočeský kraj,oftalmologie,5
+1177,Mělník,Středočeský kraj,ortodoncie,1
+1178,Mělník,Středočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,4
+1179,Mělník,Středočeský kraj,pediatrie,4
+1180,Mělník,Středočeský kraj,pneumologie a ftizeologie,1
+1181,Mělník,Středočeský kraj,praktické lékařství pro děti a dorost,10
+1182,Mělník,Středočeský kraj,praktické lékárenství,5
+1183,Mělník,Středočeský kraj,psychiatrie,5
+1184,Mělník,Středočeský kraj,radiologie a zobrazovací metody,2
+1185,Mělník,Středočeský kraj,urologie,2
+1186,Mělník,Středočeský kraj,vnitřní lékařství,3
+1187,Mělník,Středočeský kraj,všeobecné praktické lékařství,45
+1188,Mělník,Středočeský kraj,zubní lékařství,13
+1189,Nový Jičín,Moravskoslezský kraj,Dentální hygienistka,6
+1190,Nový Jičín,Moravskoslezský kraj,Ergoterapeut,1
+1191,Nový Jičín,Moravskoslezský kraj,Farmaceutický asistent,1
+1192,Nový Jičín,Moravskoslezský kraj,Fyzioterapeut,24
+1193,Nový Jičín,Moravskoslezský kraj,Klinický logoped,10
+1194,Nový Jičín,Moravskoslezský kraj,Klinický psycholog,8
+1195,Nový Jičín,Moravskoslezský kraj,Nutriční terapeut,1
+1196,Nový Jičín,Moravskoslezský kraj,Optometrista,3
+1197,Nový Jičín,Moravskoslezský kraj,Porodní asistentka,1
+1198,Nový Jičín,Moravskoslezský kraj,Všeobecná sestra,10
+1199,Nový Jičín,Moravskoslezský kraj,Zubní technik,24
+1200,Nový Jičín,Moravskoslezský kraj,alergologie a klinická imunologie,2
+1201,Nový Jičín,Moravskoslezský kraj,anesteziologie a intenzivní medicína,3
+1202,Nový Jičín,Moravskoslezský kraj,chirurgie,4
+1203,Nový Jičín,Moravskoslezský kraj,dermatovenerologie,5
+1204,Nový Jičín,Moravskoslezský kraj,dětská a dorostová psychiatrie,1
+1205,Nový Jičín,Moravskoslezský kraj,dětská neurologie,2
+1206,Nový Jičín,Moravskoslezský kraj,endokrinologie a diabetologie,2
+1207,Nový Jičín,Moravskoslezský kraj,gastroenterologie,1
+1208,Nový Jičín,Moravskoslezský kraj,gynekologie a porodnictví,14
+1209,Nový Jičín,Moravskoslezský kraj,kardiologie,2
+1210,Nový Jičín,Moravskoslezský kraj,klinická biochemie,3
+1211,Nový Jičín,Moravskoslezský kraj,nefrologie,2
+1212,Nový Jičín,Moravskoslezský kraj,neurologie,6
+1213,Nový Jičín,Moravskoslezský kraj,oftalmologie,9
+1214,Nový Jičín,Moravskoslezský kraj,ortodoncie,1
+1215,Nový Jičín,Moravskoslezský kraj,ortopedie a traumatologie pohybového ústrojí,2
+1216,Nový Jičín,Moravskoslezský kraj,otorinolaryngologie a chirurgie hlavy a krku,9
+1217,Nový Jičín,Moravskoslezský kraj,patologie,1
+1218,Nový Jičín,Moravskoslezský kraj,plastická chirurgie,4
+1219,Nový Jičín,Moravskoslezský kraj,pneumologie a ftizeologie,1
+1220,Nový Jičín,Moravskoslezský kraj,pracovní lékařství,1
+1221,Nový Jičín,Moravskoslezský kraj,praktické lékařství pro děti a dorost,25
+1222,Nový Jičín,Moravskoslezský kraj,praktické lékárenství,3
+1223,Nový Jičín,Moravskoslezský kraj,psychiatrie,5
+1224,Nový Jičín,Moravskoslezský kraj,radiologie a zobrazovací metody,2
+1225,Nový Jičín,Moravskoslezský kraj,rehabilitační a fyzikální medicína,2
+1226,Nový Jičín,Moravskoslezský kraj,urologie,4
+1227,Nový Jičín,Moravskoslezský kraj,vnitřní lékařství,1
+1228,Nový Jičín,Moravskoslezský kraj,všeobecné praktické lékařství,58
+1229,Nový Jičín,Moravskoslezský kraj,zubní lékařství,59
+1230,Nymburk,Středočeský kraj,Dentální hygienistka,2
+1231,Nymburk,Středočeský kraj,Fyzioterapeut,8
+1232,Nymburk,Středočeský kraj,Klinický psycholog,3
+1233,Nymburk,Středočeský kraj,Optometrista,4
+1234,Nymburk,Středočeský kraj,Porodní asistentka,2
+1235,Nymburk,Středočeský kraj,Zubní technik,7
+1236,Nymburk,Středočeský kraj,alergologie a klinická imunologie,3
+1237,Nymburk,Středočeský kraj,anesteziologie a intenzivní medicína,4
+1238,Nymburk,Středočeský kraj,chirurgie,5
+1239,Nymburk,Středočeský kraj,dermatovenerologie,2
+1240,Nymburk,Středočeský kraj,endokrinologie a diabetologie,1
+1241,Nymburk,Středočeský kraj,gynekologie a porodnictví,9
+1242,Nymburk,Středočeský kraj,kardiologie,3
+1243,Nymburk,Středočeský kraj,klinická onkologie,2
+1244,Nymburk,Středočeský kraj,neurologie,4
+1245,Nymburk,Středočeský kraj,oftalmologie,3
+1246,Nymburk,Středočeský kraj,ortopedie a traumatologie pohybového ústrojí,1
+1247,Nymburk,Středočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,3
+1248,Nymburk,Středočeský kraj,plastická chirurgie,1
+1249,Nymburk,Středočeský kraj,pneumologie a ftizeologie,1
+1250,Nymburk,Středočeský kraj,praktické lékařství pro děti a dorost,16
+1251,Nymburk,Středočeský kraj,praktické lékárenství,4
+1252,Nymburk,Středočeský kraj,psychiatrie,5
+1253,Nymburk,Středočeský kraj,radiologie a zobrazovací metody,1
+1254,Nymburk,Středočeský kraj,rehabilitační a fyzikální medicína,3
+1255,Nymburk,Středočeský kraj,urologie,5
+1256,Nymburk,Středočeský kraj,vnitřní lékařství,7
+1257,Nymburk,Středočeský kraj,všeobecné praktické lékařství,36
+1258,Nymburk,Středočeský kraj,zubní lékařství,12
+1259,Náchod,Královéhradecký kraj,Dentální hygienistka,4
+1260,Náchod,Královéhradecký kraj,Fyzioterapeut,7
+1261,Náchod,Královéhradecký kraj,Klinický logoped,5
+1262,Náchod,Královéhradecký kraj,Klinický psycholog,2
+1263,Náchod,Královéhradecký kraj,Optometrista,4
+1264,Náchod,Královéhradecký kraj,Porodní asistentka,1
+1265,Náchod,Královéhradecký kraj,Všeobecná sestra,12
+1266,Náchod,Královéhradecký kraj,Zubní technik,15
+1267,Náchod,Královéhradecký kraj,alergologie a klinická imunologie,1
+1268,Náchod,Královéhradecký kraj,anesteziologie a intenzivní medicína,2
+1269,Náchod,Královéhradecký kraj,chirurgie,7
+1270,Náchod,Královéhradecký kraj,cévní chirurgie,1
+1271,Náchod,Královéhradecký kraj,dermatovenerologie,6
+1272,Náchod,Královéhradecký kraj,dětská a dorostová psychiatrie,2
+1273,Náchod,Královéhradecký kraj,dětská kardiologie,1
+1274,Náchod,Královéhradecký kraj,endokrinologie a diabetologie,1
+1275,Náchod,Královéhradecký kraj,gynekologie a porodnictví,12
+1276,Náchod,Královéhradecký kraj,hyperbarická a letecká medicína,1
+1277,Náchod,Královéhradecký kraj,kardiologie,1
+1278,Náchod,Královéhradecký kraj,neurologie,1
+1279,Náchod,Královéhradecký kraj,oftalmologie,5
+1280,Náchod,Královéhradecký kraj,ortopedie a traumatologie pohybového ústrojí,4
+1281,Náchod,Královéhradecký kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+1282,Náchod,Královéhradecký kraj,pneumologie a ftizeologie,2
+1283,Náchod,Královéhradecký kraj,praktické lékařství pro děti a dorost,14
+1284,Náchod,Královéhradecký kraj,praktické lékárenství,4
+1285,Náchod,Královéhradecký kraj,psychiatrie,6
+1286,Náchod,Královéhradecký kraj,radiační onkologie,1
+1287,Náchod,Královéhradecký kraj,radiologie a zobrazovací metody,4
+1288,Náchod,Královéhradecký kraj,rehabilitační a fyzikální medicína,1
+1289,Náchod,Královéhradecký kraj,urgentní medicína,3
+1290,Náchod,Královéhradecký kraj,urologie,3
+1291,Náchod,Královéhradecký kraj,vnitřní lékařství,4
+1292,Náchod,Královéhradecký kraj,všeobecné praktické lékařství,51
+1293,Náchod,Královéhradecký kraj,zubní lékařství,44
+1294,Olomouc,Olomoucký kraj,Dentální hygienistka,3
+1295,Olomouc,Olomoucký kraj,Farmaceutický asistent,2
+1296,Olomouc,Olomoucký kraj,Farmaceutický asistent pro zdravotnické prostředky,1
+1297,Olomouc,Olomoucký kraj,Fyzioterapeut,36
+1298,Olomouc,Olomoucký kraj,Klinický logoped,20
+1299,Olomouc,Olomoucký kraj,Klinický psycholog,24
+1300,Olomouc,Olomoucký kraj,Optometrista,15
+1301,Olomouc,Olomoucký kraj,Ortotik-protetik,1
+1302,Olomouc,Olomoucký kraj,Porodní asistentka,10
+1303,Olomouc,Olomoucký kraj,Všeobecná sestra,11
+1304,Olomouc,Olomoucký kraj,Zubní technik,42
+1305,Olomouc,Olomoucký kraj,alergologie a klinická imunologie,7
+1306,Olomouc,Olomoucký kraj,anesteziologie a intenzivní medicína,1
+1307,Olomouc,Olomoucký kraj,chirurgie,20
+1308,Olomouc,Olomoucký kraj,cévní chirurgie,2
+1309,Olomouc,Olomoucký kraj,dermatovenerologie,20
+1310,Olomouc,Olomoucký kraj,dětská a dorostová psychiatrie,2
+1311,Olomouc,Olomoucký kraj,dětská kardiologie,1
+1312,Olomouc,Olomoucký kraj,endokrinologie a diabetologie,1
+1313,Olomouc,Olomoucký kraj,foniatrie,1
+1314,Olomouc,Olomoucký kraj,gynekologie a porodnictví,29
+1315,Olomouc,Olomoucký kraj,hematologie a transfúzní lékařství,1
+1316,Olomouc,Olomoucký kraj,kardiologie,3
+1317,Olomouc,Olomoucký kraj,lékařská mikrobiologie,1
+1318,Olomouc,Olomoucký kraj,neurologie,22
+1319,Olomouc,Olomoucký kraj,oftalmologie,21
+1320,Olomouc,Olomoucký kraj,ortodoncie,1
+1321,Olomouc,Olomoucký kraj,ortopedie a traumatologie pohybového ústrojí,12
+1322,Olomouc,Olomoucký kraj,otorinolaryngologie a chirurgie hlavy a krku,9
+1323,Olomouc,Olomoucký kraj,plastická chirurgie,2
+1324,Olomouc,Olomoucký kraj,praktické lékařství pro děti a dorost,49
+1325,Olomouc,Olomoucký kraj,praktické lékárenství,9
+1326,Olomouc,Olomoucký kraj,psychiatrie,16
+1327,Olomouc,Olomoucký kraj,radiologie a zobrazovací metody,10
+1328,Olomouc,Olomoucký kraj,rehabilitační a fyzikální medicína,4
+1329,Olomouc,Olomoucký kraj,revmatologie,2
+1330,Olomouc,Olomoucký kraj,urologie,7
+1331,Olomouc,Olomoucký kraj,vnitřní lékařství,6
+1332,Olomouc,Olomoucký kraj,všeobecné praktické lékařství,112
+1333,Olomouc,Olomoucký kraj,zubní lékařství,154
+1334,Opava,Moravskoslezský kraj,Dentální hygienistka,4
+1335,Opava,Moravskoslezský kraj,Fyzioterapeut,16
+1336,Opava,Moravskoslezský kraj,Klinický logoped,12
+1337,Opava,Moravskoslezský kraj,Klinický psycholog,11
+1338,Opava,Moravskoslezský kraj,Nutriční terapeut,2
+1339,Opava,Moravskoslezský kraj,Optometrista,12
+1340,Opava,Moravskoslezský kraj,Ortoptista,1
+1341,Opava,Moravskoslezský kraj,Ortotik-protetik,1
+1342,Opava,Moravskoslezský kraj,Porodní asistentka,5
+1343,Opava,Moravskoslezský kraj,Všeobecná sestra,8
+1344,Opava,Moravskoslezský kraj,Zubní technik,17
+1345,Opava,Moravskoslezský kraj,alergologie a klinická imunologie,4
+1346,Opava,Moravskoslezský kraj,anesteziologie a intenzivní medicína,2
+1347,Opava,Moravskoslezský kraj,chirurgie,5
+1348,Opava,Moravskoslezský kraj,dermatovenerologie,7
+1349,Opava,Moravskoslezský kraj,dětská kardiologie,1
+1350,Opava,Moravskoslezský kraj,dětská nefrologie,1
+1351,Opava,Moravskoslezský kraj,dětská neurologie,1
+1352,Opava,Moravskoslezský kraj,dětská urologie,1
+1353,Opava,Moravskoslezský kraj,endokrinologie a diabetologie,1
+1354,Opava,Moravskoslezský kraj,gastroenterologie,1
+1355,Opava,Moravskoslezský kraj,gynekologie a porodnictví,28
+1356,Opava,Moravskoslezský kraj,kardiologie,1
+1357,Opava,Moravskoslezský kraj,neurologie,5
+1358,Opava,Moravskoslezský kraj,oftalmologie,8
+1359,Opava,Moravskoslezský kraj,ortodoncie,4
+1360,Opava,Moravskoslezský kraj,ortopedie a traumatologie pohybového ústrojí,10
+1361,Opava,Moravskoslezský kraj,otorinolaryngologie a chirurgie hlavy a krku,3
+1362,Opava,Moravskoslezský kraj,pneumologie a ftizeologie,2
+1363,Opava,Moravskoslezský kraj,praktické lékařství pro děti a dorost,21
+1364,Opava,Moravskoslezský kraj,praktické lékárenství,7
+1365,Opava,Moravskoslezský kraj,psychiatrie,9
+1366,Opava,Moravskoslezský kraj,radiační onkologie,2
+1367,Opava,Moravskoslezský kraj,radiologie a zobrazovací metody,5
+1368,Opava,Moravskoslezský kraj,urologie,5
+1369,Opava,Moravskoslezský kraj,vnitřní lékařství,3
+1370,Opava,Moravskoslezský kraj,všeobecné praktické lékařství,81
+1371,Opava,Moravskoslezský kraj,zubní lékařství,52
+1372,Ostrava-město,Moravskoslezský kraj,Dentální hygienistka,10
+1373,Ostrava-město,Moravskoslezský kraj,Ergoterapeut,1
+1374,Ostrava-město,Moravskoslezský kraj,Fyzioterapeut,38
+1375,Ostrava-město,Moravskoslezský kraj,Klinický logoped,12
+1376,Ostrava-město,Moravskoslezský kraj,Klinický psycholog,29
+1377,Ostrava-město,Moravskoslezský kraj,Nutriční terapeut,2
+1378,Ostrava-město,Moravskoslezský kraj,Optometrista,26
+1379,Ostrava-město,Moravskoslezský kraj,Ortotik-protetik,1
+1380,Ostrava-město,Moravskoslezský kraj,Porodní asistentka,6
+1381,Ostrava-město,Moravskoslezský kraj,Radiologický asistent,2
+1382,Ostrava-město,Moravskoslezský kraj,Všeobecná sestra,19
+1383,Ostrava-město,Moravskoslezský kraj,Zubní technik,49
+1384,Ostrava-město,Moravskoslezský kraj,alergologie a klinická imunologie,8
+1385,Ostrava-město,Moravskoslezský kraj,algeziologie,1
+1386,Ostrava-město,Moravskoslezský kraj,anesteziologie a intenzivní medicína,24
+1387,Ostrava-město,Moravskoslezský kraj,angiologie,1
+1388,Ostrava-město,Moravskoslezský kraj,chirurgie,16
+1389,Ostrava-město,Moravskoslezský kraj,dermatovenerologie,20
+1390,Ostrava-město,Moravskoslezský kraj,dětská a dorostová psychiatrie,2
+1391,Ostrava-město,Moravskoslezský kraj,dětská kardiologie,1
+1392,Ostrava-město,Moravskoslezský kraj,dětská neurologie,2
+1393,Ostrava-město,Moravskoslezský kraj,endokrinologie a diabetologie,3
+1394,Ostrava-město,Moravskoslezský kraj,foniatrie,1
+1395,Ostrava-město,Moravskoslezský kraj,gastroenterologie,1
+1396,Ostrava-město,Moravskoslezský kraj,gynekologie a porodnictví,36
+1397,Ostrava-město,Moravskoslezský kraj,hematologie a transfúzní lékařství,5
+1398,Ostrava-město,Moravskoslezský kraj,kardiologie,5
+1399,Ostrava-město,Moravskoslezský kraj,klinická biochemie,1
+1400,Ostrava-město,Moravskoslezský kraj,lékařská genetika,4
+1401,Ostrava-město,Moravskoslezský kraj,lékařská mikrobiologie,1
+1402,Ostrava-město,Moravskoslezský kraj,neurochirurgie,5
+1403,Ostrava-město,Moravskoslezský kraj,neurologie,24
+1404,Ostrava-město,Moravskoslezský kraj,oftalmologie,25
+1405,Ostrava-město,Moravskoslezský kraj,ortodoncie,4
+1406,Ostrava-město,Moravskoslezský kraj,ortopedie a traumatologie pohybového ústrojí,15
+1407,Ostrava-město,Moravskoslezský kraj,otorinolaryngologie a chirurgie hlavy a krku,10
+1408,Ostrava-město,Moravskoslezský kraj,patologie,4
+1409,Ostrava-město,Moravskoslezský kraj,plastická chirurgie,10
+1410,Ostrava-město,Moravskoslezský kraj,pneumologie a ftizeologie,6
+1411,Ostrava-město,Moravskoslezský kraj,pracovní lékařství,2
+1412,Ostrava-město,Moravskoslezský kraj,praktické lékařství pro děti a dorost,36
+1413,Ostrava-město,Moravskoslezský kraj,praktické lékárenství,15
+1414,Ostrava-město,Moravskoslezský kraj,psychiatrie,11
+1415,Ostrava-město,Moravskoslezský kraj,psychosomatika,1
+1416,Ostrava-město,Moravskoslezský kraj,radiologie a zobrazovací metody,9
+1417,Ostrava-město,Moravskoslezský kraj,revmatologie,4
+1418,Ostrava-město,Moravskoslezský kraj,traumatologie,1
+1419,Ostrava-město,Moravskoslezský kraj,urologie,11
+1420,Ostrava-město,Moravskoslezský kraj,vnitřní lékařství,12
+1421,Ostrava-město,Moravskoslezský kraj,všeobecné praktické lékařství,117
+1422,Ostrava-město,Moravskoslezský kraj,zubní lékařství,151
+1423,Pardubice,Pardubický kraj,Adiktolog,1
+1424,Pardubice,Pardubický kraj,Dentální hygienistka,8
+1425,Pardubice,Pardubický kraj,Fyzioterapeut,29
+1426,Pardubice,Pardubický kraj,Klinický logoped,3
+1427,Pardubice,Pardubický kraj,Klinický psycholog,5
+1428,Pardubice,Pardubický kraj,Nutriční terapeut,1
+1429,Pardubice,Pardubický kraj,Optometrista,9
+1430,Pardubice,Pardubický kraj,Porodní asistentka,3
+1431,Pardubice,Pardubický kraj,Zdravotnický záchranář,1
+1432,Pardubice,Pardubický kraj,Zubní technik,27
+1433,Pardubice,Pardubický kraj,alergologie a klinická imunologie,3
+1434,Pardubice,Pardubický kraj,anesteziologie a intenzivní medicína,7
+1435,Pardubice,Pardubický kraj,chirurgie,7
+1436,Pardubice,Pardubický kraj,dermatovenerologie,3
+1437,Pardubice,Pardubický kraj,dětská a dorostová psychiatrie,1
+1438,Pardubice,Pardubický kraj,dětská kardiologie,1
+1439,Pardubice,Pardubický kraj,endokrinologie a diabetologie,2
+1440,Pardubice,Pardubický kraj,epidemiologie,1
+1441,Pardubice,Pardubický kraj,gastroenterologie,2
+1442,Pardubice,Pardubický kraj,gynekologie a porodnictví,15
+1443,Pardubice,Pardubický kraj,hematologie a transfúzní lékařství,1
+1444,Pardubice,Pardubický kraj,kardiologie,1
+1445,Pardubice,Pardubický kraj,klinická výživa a intenzivní metabolická péče,1
+1446,Pardubice,Pardubický kraj,lékařská mikrobiologie,1
+1447,Pardubice,Pardubický kraj,neurologie,4
+1448,Pardubice,Pardubický kraj,oftalmologie,18
+1449,Pardubice,Pardubický kraj,ortodoncie,1
+1450,Pardubice,Pardubický kraj,ortopedie a traumatologie pohybového ústrojí,11
+1451,Pardubice,Pardubický kraj,otorinolaryngologie a chirurgie hlavy a krku,5
+1452,Pardubice,Pardubický kraj,pediatrie,1
+1453,Pardubice,Pardubický kraj,plastická chirurgie,3
+1454,Pardubice,Pardubický kraj,pneumologie a ftizeologie,1
+1455,Pardubice,Pardubický kraj,pracovní lékařství,1
+1456,Pardubice,Pardubický kraj,praktické lékařství pro děti a dorost,25
+1457,Pardubice,Pardubický kraj,praktické lékárenství,4
+1458,Pardubice,Pardubický kraj,psychiatrie,7
+1459,Pardubice,Pardubický kraj,radiologie a zobrazovací metody,3
+1460,Pardubice,Pardubický kraj,rehabilitační a fyzikální medicína,7
+1461,Pardubice,Pardubický kraj,revmatologie,1
+1462,Pardubice,Pardubický kraj,urologie,3
+1463,Pardubice,Pardubický kraj,vnitřní lékařství,2
+1464,Pardubice,Pardubický kraj,všeobecné praktické lékařství,61
+1465,Pardubice,Pardubický kraj,zubní lékařství,75
+1466,Pelhřimov,Kraj Vysočina,Dentální hygienistka,4
+1467,Pelhřimov,Kraj Vysočina,Fyzioterapeut,18
+1468,Pelhřimov,Kraj Vysočina,Klinický logoped,6
+1469,Pelhřimov,Kraj Vysočina,Klinický psycholog,2
+1470,Pelhřimov,Kraj Vysočina,Optometrista,9
+1471,Pelhřimov,Kraj Vysočina,Porodní asistentka,1
+1472,Pelhřimov,Kraj Vysočina,Všeobecná sestra,1
+1473,Pelhřimov,Kraj Vysočina,Zubní technik,12
+1474,Pelhřimov,Kraj Vysočina,anesteziologie a intenzivní medicína,1
+1475,Pelhřimov,Kraj Vysočina,chirurgie,6
+1476,Pelhřimov,Kraj Vysočina,dermatovenerologie,2
+1477,Pelhřimov,Kraj Vysočina,dětská kardiologie,1
+1478,Pelhřimov,Kraj Vysočina,gynekologie a porodnictví,12
+1479,Pelhřimov,Kraj Vysočina,kardiologie,1
+1480,Pelhřimov,Kraj Vysočina,neurologie,1
+1481,Pelhřimov,Kraj Vysočina,oftalmologie,1
+1482,Pelhřimov,Kraj Vysočina,ortopedie a traumatologie pohybového ústrojí,6
+1483,Pelhřimov,Kraj Vysočina,otorinolaryngologie a chirurgie hlavy a krku,2
+1484,Pelhřimov,Kraj Vysočina,pneumologie a ftizeologie,1
+1485,Pelhřimov,Kraj Vysočina,praktické lékařství pro děti a dorost,2
+1486,Pelhřimov,Kraj Vysočina,praktické lékárenství,1
+1487,Pelhřimov,Kraj Vysočina,psychiatrie,2
+1488,Pelhřimov,Kraj Vysočina,radiologie a zobrazovací metody,1
+1489,Pelhřimov,Kraj Vysočina,rehabilitační a fyzikální medicína,1
+1490,Pelhřimov,Kraj Vysočina,urologie,3
+1491,Pelhřimov,Kraj Vysočina,všeobecné praktické lékařství,4
+1492,Pelhřimov,Kraj Vysočina,zubní lékařství,32
+1493,Plzeň-jih,Plzeňský kraj,Fyzioterapeut,4
+1494,Plzeň-jih,Plzeňský kraj,Klinický logoped,2
+1495,Plzeň-jih,Plzeňský kraj,Optometrista,1
+1496,Plzeň-jih,Plzeňský kraj,Porodní asistentka,1
+1497,Plzeň-jih,Plzeňský kraj,Všeobecná sestra,1
+1498,Plzeň-jih,Plzeňský kraj,Zubní technik,5
+1499,Plzeň-jih,Plzeňský kraj,chirurgie,1
+1500,Plzeň-jih,Plzeňský kraj,dermatovenerologie,7
+1501,Plzeň-jih,Plzeňský kraj,endokrinologie a diabetologie,1
+1502,Plzeň-jih,Plzeňský kraj,gynekologie a porodnictví,6
+1503,Plzeň-jih,Plzeňský kraj,kardiologie,2
+1504,Plzeň-jih,Plzeňský kraj,neurologie,1
+1505,Plzeň-jih,Plzeňský kraj,oftalmologie,6
+1506,Plzeň-jih,Plzeňský kraj,ortodoncie,1
+1507,Plzeň-jih,Plzeňský kraj,ortopedie a traumatologie pohybového ústrojí,3
+1508,Plzeň-jih,Plzeňský kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+1509,Plzeň-jih,Plzeňský kraj,pneumologie a ftizeologie,2
+1510,Plzeň-jih,Plzeňský kraj,praktické lékařství pro děti a dorost,8
+1511,Plzeň-jih,Plzeňský kraj,praktické lékárenství,1
+1512,Plzeň-jih,Plzeňský kraj,psychiatrie,2
+1513,Plzeň-jih,Plzeňský kraj,radiologie a zobrazovací metody,1
+1514,Plzeň-jih,Plzeňský kraj,rehabilitační a fyzikální medicína,1
+1515,Plzeň-jih,Plzeňský kraj,vnitřní lékařství,3
+1516,Plzeň-jih,Plzeňský kraj,všeobecné praktické lékařství,21
+1517,Plzeň-jih,Plzeňský kraj,zubní lékařství,16
+1518,Plzeň-město,Plzeňský kraj,Dentální hygienistka,7
+1519,Plzeň-město,Plzeňský kraj,Ergoterapeut,2
+1520,Plzeň-město,Plzeňský kraj,Fyzioterapeut,64
+1521,Plzeň-město,Plzeňský kraj,Klinický logoped,6
+1522,Plzeň-město,Plzeňský kraj,Klinický psycholog,7
+1523,Plzeň-město,Plzeňský kraj,Nutriční terapeut,1
+1524,Plzeň-město,Plzeňský kraj,Odborný pracovník v laboratorních  metodách a přípravě léčivých přípravků,1
+1525,Plzeň-město,Plzeňský kraj,Optometrista,11
+1526,Plzeň-město,Plzeňský kraj,Porodní asistentka,1
+1527,Plzeň-město,Plzeňský kraj,Všeobecná sestra,3
+1528,Plzeň-město,Plzeňský kraj,Zubní technik,19
+1529,Plzeň-město,Plzeňský kraj,alergologie a klinická imunologie,2
+1530,Plzeň-město,Plzeňský kraj,anesteziologie a intenzivní medicína,9
+1531,Plzeň-město,Plzeňský kraj,chirurgie,10
+1532,Plzeň-město,Plzeňský kraj,dermatovenerologie,18
+1533,Plzeň-město,Plzeňský kraj,endokrinologie a diabetologie,1
+1534,Plzeň-město,Plzeňský kraj,geriatrie,1
+1535,Plzeň-město,Plzeňský kraj,gynekologie a porodnictví,33
+1536,Plzeň-město,Plzeňský kraj,hematologie a transfúzní lékařství,2
+1537,Plzeň-město,Plzeňský kraj,hygiena a epidemiologie,1
+1538,Plzeň-město,Plzeňský kraj,kardiologie,4
+1539,Plzeň-město,Plzeňský kraj,nefrologie,2
+1540,Plzeň-město,Plzeňský kraj,neurochirurgie,1
+1541,Plzeň-město,Plzeňský kraj,neurologie,9
+1542,Plzeň-město,Plzeňský kraj,oftalmologie,15
+1543,Plzeň-město,Plzeňský kraj,ortodoncie,5
+1544,Plzeň-město,Plzeňský kraj,ortopedie a traumatologie pohybového ústrojí,13
+1545,Plzeň-město,Plzeňský kraj,otorinolaryngologie a chirurgie hlavy a krku,9
+1546,Plzeň-město,Plzeňský kraj,plastická chirurgie,4
+1547,Plzeň-město,Plzeňský kraj,pneumologie a ftizeologie,2
+1548,Plzeň-město,Plzeňský kraj,praktické lékařství pro děti a dorost,23
+1549,Plzeň-město,Plzeňský kraj,praktické lékárenství,3
+1550,Plzeň-město,Plzeňský kraj,psychiatrie,23
+1551,Plzeň-město,Plzeňský kraj,radiologie a zobrazovací metody,7
+1552,Plzeň-město,Plzeňský kraj,rehabilitační a fyzikální medicína,1
+1553,Plzeň-město,Plzeňský kraj,revmatologie,1
+1554,Plzeň-město,Plzeňský kraj,sexuologie,2
+1555,Plzeň-město,Plzeňský kraj,tělovýchovné lékařství,3
+1556,Plzeň-město,Plzeňský kraj,urologie,3
+1557,Plzeň-město,Plzeňský kraj,veřejné zdravotnictví,1
+1558,Plzeň-město,Plzeňský kraj,vnitřní lékařství,12
+1559,Plzeň-město,Plzeňský kraj,všeobecné praktické lékařství,74
+1560,Plzeň-město,Plzeňský kraj,zubní lékařství,107
+1561,Plzeň-sever,Plzeňský kraj,Fyzioterapeut,2
+1562,Plzeň-sever,Plzeňský kraj,Optometrista,3
+1563,Plzeň-sever,Plzeňský kraj,Ortotik-protetik,1
+1564,Plzeň-sever,Plzeňský kraj,Porodní asistentka,2
+1565,Plzeň-sever,Plzeňský kraj,Všeobecná sestra,1
+1566,Plzeň-sever,Plzeňský kraj,Zubní technik,4
+1567,Plzeň-sever,Plzeňský kraj,chirurgie,4
+1568,Plzeň-sever,Plzeňský kraj,dermatovenerologie,4
+1569,Plzeň-sever,Plzeňský kraj,endokrinologie a diabetologie,2
+1570,Plzeň-sever,Plzeňský kraj,gynekologie a porodnictví,12
+1571,Plzeň-sever,Plzeňský kraj,kardiologie,2
+1572,Plzeň-sever,Plzeňský kraj,neurologie,3
+1573,Plzeň-sever,Plzeňský kraj,oftalmologie,2
+1574,Plzeň-sever,Plzeňský kraj,ortopedie a traumatologie pohybového ústrojí,1
+1575,Plzeň-sever,Plzeňský kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+1576,Plzeň-sever,Plzeňský kraj,pneumologie a ftizeologie,1
+1577,Plzeň-sever,Plzeňský kraj,praktické lékařství pro děti a dorost,14
+1578,Plzeň-sever,Plzeňský kraj,psychiatrie,1
+1579,Plzeň-sever,Plzeňský kraj,radiologie a zobrazovací metody,4
+1580,Plzeň-sever,Plzeňský kraj,urologie,5
+1581,Plzeň-sever,Plzeňský kraj,všeobecné praktické lékařství,26
+1582,Plzeň-sever,Plzeňský kraj,zubní lékařství,17
+1583,Prachatice,Jihočeský kraj,Fyzioterapeut,1
+1584,Prachatice,Jihočeský kraj,Klinický logoped,10
+1585,Prachatice,Jihočeský kraj,Klinický psycholog,2
+1586,Prachatice,Jihočeský kraj,Odborný fyzioterapeut,1
+1587,Prachatice,Jihočeský kraj,Optometrista,1
+1588,Prachatice,Jihočeský kraj,Všeobecná sestra,3
+1589,Prachatice,Jihočeský kraj,Zubní technik,3
+1590,Prachatice,Jihočeský kraj,anesteziologie a intenzivní medicína,3
+1591,Prachatice,Jihočeský kraj,chirurgie,2
+1592,Prachatice,Jihočeský kraj,dermatovenerologie,1
+1593,Prachatice,Jihočeský kraj,dětská kardiologie,1
+1594,Prachatice,Jihočeský kraj,gynekologie a porodnictví,7
+1595,Prachatice,Jihočeský kraj,kardiologie,1
+1596,Prachatice,Jihočeský kraj,klinická biochemie,1
+1597,Prachatice,Jihočeský kraj,neurologie,2
+1598,Prachatice,Jihočeský kraj,oftalmologie,1
+1599,Prachatice,Jihočeský kraj,ortopedie a traumatologie pohybového ústrojí,2
+1600,Prachatice,Jihočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+1601,Prachatice,Jihočeský kraj,plastická chirurgie,3
+1602,Prachatice,Jihočeský kraj,pneumologie a ftizeologie,1
+1603,Prachatice,Jihočeský kraj,praktické lékařství pro děti a dorost,8
+1604,Prachatice,Jihočeský kraj,psychiatrie,4
+1605,Prachatice,Jihočeský kraj,rehabilitační a fyzikální medicína,4
+1606,Prachatice,Jihočeský kraj,urologie,2
+1607,Prachatice,Jihočeský kraj,vnitřní lékařství,2
+1608,Prachatice,Jihočeský kraj,všeobecné praktické lékařství,19
+1609,Prachatice,Jihočeský kraj,zubní lékařství,12
+1610,Praha-východ,Středočeský kraj,Dentální hygienistka,3
+1611,Praha-východ,Středočeský kraj,Fyzioterapeut,18
+1612,Praha-východ,Středočeský kraj,Klinický logoped,1
+1613,Praha-východ,Středočeský kraj,Klinický psycholog,2
+1614,Praha-východ,Středočeský kraj,Optometrista,5
+1615,Praha-východ,Středočeský kraj,Porodní asistentka,5
+1616,Praha-východ,Středočeský kraj,Všeobecná sestra,3
+1617,Praha-východ,Středočeský kraj,Zubní technik,1
+1618,Praha-východ,Středočeský kraj,alergologie a klinická imunologie,2
+1619,Praha-východ,Středočeský kraj,dermatovenerologie,5
+1620,Praha-východ,Středočeský kraj,dětské lékařství,1
+1621,Praha-východ,Středočeský kraj,endokrinologie a diabetologie,1
+1622,Praha-východ,Středočeský kraj,gynekologie a porodnictví,14
+1623,Praha-východ,Středočeský kraj,kardiologie,2
+1624,Praha-východ,Středočeský kraj,neurologie,4
+1625,Praha-východ,Středočeský kraj,oftalmologie,5
+1626,Praha-východ,Středočeský kraj,ortopedie a traumatologie pohybového ústrojí,1
+1627,Praha-východ,Středočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+1628,Praha-východ,Středočeský kraj,pediatrie,1
+1629,Praha-východ,Středočeský kraj,praktické lékařství pro děti a dorost,25
+1630,Praha-východ,Středočeský kraj,praktické lékárenství,4
+1631,Praha-východ,Středočeský kraj,psychiatrie,3
+1632,Praha-východ,Středočeský kraj,radiologie a zobrazovací metody,2
+1633,Praha-východ,Středočeský kraj,rehabilitační a fyzikální medicína,1
+1634,Praha-východ,Středočeský kraj,urologie,2
+1635,Praha-východ,Středočeský kraj,vnitřní lékařství,5
+1636,Praha-východ,Středočeský kraj,všeobecné praktické lékařství,51
+1637,Praha-východ,Středočeský kraj,zubní lékařství,15
+1638,Praha-západ,Středočeský kraj,Adiktolog,1
+1639,Praha-západ,Středočeský kraj,Dentální hygienistka,5
+1640,Praha-západ,Středočeský kraj,Fyzioterapeut,16
+1641,Praha-západ,Středočeský kraj,Klinický psycholog,3
+1642,Praha-západ,Středočeský kraj,Optometrista,3
+1643,Praha-západ,Středočeský kraj,Všeobecná sestra,2
+1644,Praha-západ,Středočeský kraj,Zubní technik,4
+1645,Praha-západ,Středočeský kraj,alergologie a klinická imunologie,3
+1646,Praha-západ,Středočeský kraj,anesteziologie a intenzivní medicína,1
+1647,Praha-západ,Středočeský kraj,chirurgie,2
+1648,Praha-západ,Středočeský kraj,dermatovenerologie,5
+1649,Praha-západ,Středočeský kraj,dětská neurologie,1
+1650,Praha-západ,Středočeský kraj,endokrinologie a diabetologie,1
+1651,Praha-západ,Středočeský kraj,foniatrie,1
+1652,Praha-západ,Středočeský kraj,gastroenterologie,1
+1653,Praha-západ,Středočeský kraj,geriatrie,1
+1654,Praha-západ,Středočeský kraj,gynekologie a porodnictví,13
+1655,Praha-západ,Středočeský kraj,kardiologie,1
+1656,Praha-západ,Středočeský kraj,lékařská mikrobiologie,1
+1657,Praha-západ,Středočeský kraj,neurologie,5
+1658,Praha-západ,Středočeský kraj,oftalmologie,7
+1659,Praha-západ,Středočeský kraj,ortodoncie,1
+1660,Praha-západ,Středočeský kraj,ortopedie a traumatologie pohybového ústrojí,2
+1661,Praha-západ,Středočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+1662,Praha-západ,Středočeský kraj,pediatrie,3
+1663,Praha-západ,Středočeský kraj,praktické lékařství pro děti a dorost,25
+1664,Praha-západ,Středočeský kraj,psychiatrie,4
+1665,Praha-západ,Středočeský kraj,radiologie a zobrazovací metody,1
+1666,Praha-západ,Středočeský kraj,rehabilitační a fyzikální medicína,1
+1667,Praha-západ,Středočeský kraj,tělovýchovné lékařství,1
+1668,Praha-západ,Středočeský kraj,urologie,4
+1669,Praha-západ,Středočeský kraj,vnitřní lékařství,3
+1670,Praha-západ,Středočeský kraj,všeobecné praktické lékařství,39
+1671,Praha-západ,Středočeský kraj,zubní lékařství,18
+1672,Prostějov,Olomoucký kraj,Farmaceutický asistent,3
+1673,Prostějov,Olomoucký kraj,Fyzioterapeut,14
+1674,Prostějov,Olomoucký kraj,Klinický logoped,11
+1675,Prostějov,Olomoucký kraj,Klinický psycholog,2
+1676,Prostějov,Olomoucký kraj,Optometrista,7
+1677,Prostějov,Olomoucký kraj,Všeobecná sestra,3
+1678,Prostějov,Olomoucký kraj,Zubní technik,15
+1679,Prostějov,Olomoucký kraj,alergologie a klinická imunologie,1
+1680,Prostějov,Olomoucký kraj,anesteziologie a intenzivní medicína,2
+1681,Prostějov,Olomoucký kraj,chirurgie,8
+1682,Prostějov,Olomoucký kraj,dermatovenerologie,4
+1683,Prostějov,Olomoucký kraj,endokrinologie a diabetologie,3
+1684,Prostějov,Olomoucký kraj,geriatrie,1
+1685,Prostějov,Olomoucký kraj,gynekologie a porodnictví,9
+1686,Prostějov,Olomoucký kraj,kardiologie,1
+1687,Prostějov,Olomoucký kraj,klinická farmacie,1
+1688,Prostějov,Olomoucký kraj,neurochirurgie,1
+1689,Prostějov,Olomoucký kraj,neurologie,5
+1690,Prostějov,Olomoucký kraj,oftalmologie,9
+1691,Prostějov,Olomoucký kraj,ortodoncie,2
+1692,Prostějov,Olomoucký kraj,ortopedie a traumatologie pohybového ústrojí,10
+1693,Prostějov,Olomoucký kraj,otorinolaryngologie a chirurgie hlavy a krku,3
+1694,Prostějov,Olomoucký kraj,pneumologie a ftizeologie,2
+1695,Prostějov,Olomoucký kraj,praktické lékařství pro děti a dorost,26
+1696,Prostějov,Olomoucký kraj,praktické lékárenství,3
+1697,Prostějov,Olomoucký kraj,psychiatrie,3
+1698,Prostějov,Olomoucký kraj,radiologie a zobrazovací metody,3
+1699,Prostějov,Olomoucký kraj,rehabilitační a fyzikální medicína,1
+1700,Prostějov,Olomoucký kraj,revmatologie,1
+1701,Prostějov,Olomoucký kraj,urologie,1
+1702,Prostějov,Olomoucký kraj,všeobecné praktické lékařství,66
+1703,Prostějov,Olomoucký kraj,zubní lékařství,58
+1704,Písek,Jihočeský kraj,Dentální hygienistka,2
+1705,Písek,Jihočeský kraj,Dětská sestra,1
+1706,Písek,Jihočeský kraj,Fyzioterapeut,6
+1707,Písek,Jihočeský kraj,Klinický logoped,2
+1708,Písek,Jihočeský kraj,Optometrista,5
+1709,Písek,Jihočeský kraj,Porodní asistentka,3
+1710,Písek,Jihočeský kraj,Všeobecná sestra,2
+1711,Písek,Jihočeský kraj,Zubní technik,7
+1712,Písek,Jihočeský kraj,alergologie a klinická imunologie,2
+1713,Písek,Jihočeský kraj,dermatovenerologie,3
+1714,Písek,Jihočeský kraj,dětská a dorostová psychiatrie,1
+1715,Písek,Jihočeský kraj,dětská kardiologie,1
+1716,Písek,Jihočeský kraj,gynekologie a porodnictví,6
+1717,Písek,Jihočeský kraj,hematologie a transfúzní lékařství,1
+1718,Písek,Jihočeský kraj,kardiologie,1
+1719,Písek,Jihočeský kraj,neurologie,2
+1720,Písek,Jihočeský kraj,oftalmologie,3
+1721,Písek,Jihočeský kraj,ortodoncie,1
+1722,Písek,Jihočeský kraj,ortopedie a traumatologie pohybového ústrojí,9
+1723,Písek,Jihočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+1724,Písek,Jihočeský kraj,praktické lékařství pro děti a dorost,10
+1725,Písek,Jihočeský kraj,praktické lékárenství,1
+1726,Písek,Jihočeský kraj,psychiatrie,4
+1727,Písek,Jihočeský kraj,radiologie a zobrazovací metody,2
+1728,Písek,Jihočeský kraj,rehabilitační a fyzikální medicína,4
+1729,Písek,Jihočeský kraj,tělovýchovné lékařství,1
+1730,Písek,Jihočeský kraj,urologie,3
+1731,Písek,Jihočeský kraj,všeobecné praktické lékařství,28
+1732,Písek,Jihočeský kraj,zubní lékařství,12
+1733,Přerov,Olomoucký kraj,Dentální hygienistka,1
+1734,Přerov,Olomoucký kraj,Fyzioterapeut,13
+1735,Přerov,Olomoucký kraj,Klinický logoped,5
+1736,Přerov,Olomoucký kraj,Klinický psycholog,4
+1737,Přerov,Olomoucký kraj,Optometrista,13
+1738,Přerov,Olomoucký kraj,Porodní asistentka,4
+1739,Přerov,Olomoucký kraj,Všeobecná sestra,7
+1740,Přerov,Olomoucký kraj,Zubní technik,16
+1741,Přerov,Olomoucký kraj,alergologie a klinická imunologie,8
+1742,Přerov,Olomoucký kraj,anesteziologie a intenzivní medicína,1
+1743,Přerov,Olomoucký kraj,chirurgie,3
+1744,Přerov,Olomoucký kraj,dermatovenerologie,4
+1745,Přerov,Olomoucký kraj,endokrinologie a diabetologie,3
+1746,Přerov,Olomoucký kraj,foniatrie,1
+1747,Přerov,Olomoucký kraj,gastroenterologie,2
+1748,Přerov,Olomoucký kraj,gynekologie a porodnictví,16
+1749,Přerov,Olomoucký kraj,hematologie a transfúzní lékařství,2
+1750,Přerov,Olomoucký kraj,kardiologie,1
+1751,Přerov,Olomoucký kraj,lékařská mikrobiologie,1
+1752,Přerov,Olomoucký kraj,neurologie,3
+1753,Přerov,Olomoucký kraj,oftalmologie,10
+1754,Přerov,Olomoucký kraj,ortodoncie,2
+1755,Přerov,Olomoucký kraj,ortopedie a traumatologie pohybového ústrojí,5
+1756,Přerov,Olomoucký kraj,otorinolaryngologie a chirurgie hlavy a krku,5
+1757,Přerov,Olomoucký kraj,paliativní medicína,1
+1758,Přerov,Olomoucký kraj,plastická chirurgie,1
+1759,Přerov,Olomoucký kraj,pneumologie a ftizeologie,1
+1760,Přerov,Olomoucký kraj,praktické lékařství pro děti a dorost,20
+1761,Přerov,Olomoucký kraj,praktické lékárenství,5
+1762,Přerov,Olomoucký kraj,psychiatrie,12
+1763,Přerov,Olomoucký kraj,radiologie a zobrazovací metody,3
+1764,Přerov,Olomoucký kraj,rehabilitační a fyzikální medicína,1
+1765,Přerov,Olomoucký kraj,revmatologie,1
+1766,Přerov,Olomoucký kraj,urologie,3
+1767,Přerov,Olomoucký kraj,vnitřní lékařství,2
+1768,Přerov,Olomoucký kraj,všeobecné praktické lékařství,54
+1769,Přerov,Olomoucký kraj,zubní lékařství,52
+1770,Příbram,Středočeský kraj,Dentální hygienistka,7
+1771,Příbram,Středočeský kraj,Fyzioterapeut,12
+1772,Příbram,Středočeský kraj,Klinický logoped,1
+1773,Příbram,Středočeský kraj,Klinický psycholog,1
+1774,Příbram,Středočeský kraj,Optometrista,6
+1775,Příbram,Středočeský kraj,Porodní asistentka,2
+1776,Příbram,Středočeský kraj,Všeobecná sestra,3
+1777,Příbram,Středočeský kraj,Zubní technik,6
+1778,Příbram,Středočeský kraj,alergologie a klinická imunologie,1
+1779,Příbram,Středočeský kraj,chirurgie,5
+1780,Příbram,Středočeský kraj,dermatovenerologie,4
+1781,Příbram,Středočeský kraj,gynekologie a porodnictví,15
+1782,Příbram,Středočeský kraj,hematologie a transfúzní lékařství,1
+1783,Příbram,Středočeský kraj,infekční lékařství,1
+1784,Příbram,Středočeský kraj,kardiologie,1
+1785,Příbram,Středočeský kraj,neurologie,2
+1786,Příbram,Středočeský kraj,oftalmologie,6
+1787,Příbram,Středočeský kraj,ortodoncie,1
+1788,Příbram,Středočeský kraj,ortopedie a traumatologie pohybového ústrojí,3
+1789,Příbram,Středočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+1790,Příbram,Středočeský kraj,plastická chirurgie,1
+1791,Příbram,Středočeský kraj,praktické lékařství pro děti a dorost,20
+1792,Příbram,Středočeský kraj,psychiatrie,1
+1793,Příbram,Středočeský kraj,radiologie a zobrazovací metody,4
+1794,Příbram,Středočeský kraj,revmatologie,2
+1795,Příbram,Středočeský kraj,urologie,3
+1796,Příbram,Středočeský kraj,vnitřní lékařství,5
+1797,Příbram,Středočeský kraj,všeobecné praktické lékařství,53
+1798,Příbram,Středočeský kraj,zubní lékařství,17
+1799,Rakovník,Středočeský kraj,Dentální hygienistka,3
+1800,Rakovník,Středočeský kraj,Fyzioterapeut,2
+1801,Rakovník,Středočeský kraj,Klinický logoped,1
+1802,Rakovník,Středočeský kraj,Klinický psycholog,1
+1803,Rakovník,Středočeský kraj,Optometrista,3
+1804,Rakovník,Středočeský kraj,Porodní asistentka,2
+1805,Rakovník,Středočeský kraj,Zubní technik,3
+1806,Rakovník,Středočeský kraj,chirurgie,3
+1807,Rakovník,Středočeský kraj,dermatovenerologie,2
+1808,Rakovník,Středočeský kraj,dětská neurologie,1
+1809,Rakovník,Středočeský kraj,gynekologie a porodnictví,7
+1810,Rakovník,Středočeský kraj,neurologie,1
+1811,Rakovník,Středočeský kraj,oftalmologie,4
+1812,Rakovník,Středočeský kraj,ortodoncie,1
+1813,Rakovník,Středočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+1814,Rakovník,Středočeský kraj,praktické lékařství pro děti a dorost,10
+1815,Rakovník,Středočeský kraj,psychiatrie,1
+1816,Rakovník,Středočeský kraj,radiologie a zobrazovací metody,1
+1817,Rakovník,Středočeský kraj,vnitřní lékařství,2
+1818,Rakovník,Středočeský kraj,všeobecné praktické lékařství,26
+1819,Rakovník,Středočeský kraj,zubní lékařství,5
+1820,Rokycany,Plzeňský kraj,Farmaceutický asistent,1
+1821,Rokycany,Plzeňský kraj,Fyzioterapeut,7
+1822,Rokycany,Plzeňský kraj,Klinický logoped,2
+1823,Rokycany,Plzeňský kraj,Klinický psycholog,2
+1824,Rokycany,Plzeňský kraj,Optometrista,2
+1825,Rokycany,Plzeňský kraj,Porodní asistentka,1
+1826,Rokycany,Plzeňský kraj,Všeobecná sestra,2
+1827,Rokycany,Plzeňský kraj,Zubní technik,2
+1828,Rokycany,Plzeňský kraj,chirurgie,1
+1829,Rokycany,Plzeňský kraj,dermatovenerologie,2
+1830,Rokycany,Plzeňský kraj,dětská a dorostová psychiatrie,1
+1831,Rokycany,Plzeňský kraj,gynekologie a porodnictví,8
+1832,Rokycany,Plzeňský kraj,neurologie,2
+1833,Rokycany,Plzeňský kraj,oftalmologie,7
+1834,Rokycany,Plzeňský kraj,ortopedie a traumatologie pohybového ústrojí,3
+1835,Rokycany,Plzeňský kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+1836,Rokycany,Plzeňský kraj,pracovní lékařství,1
+1837,Rokycany,Plzeňský kraj,praktické lékařství pro děti a dorost,7
+1838,Rokycany,Plzeňský kraj,praktické lékárenství,1
+1839,Rokycany,Plzeňský kraj,psychiatrie,1
+1840,Rokycany,Plzeňský kraj,tělovýchovné lékařství,1
+1841,Rokycany,Plzeňský kraj,urologie,2
+1842,Rokycany,Plzeňský kraj,vnitřní lékařství,1
+1843,Rokycany,Plzeňský kraj,všeobecné praktické lékařství,19
+1844,Rokycany,Plzeňský kraj,zubní lékařství,14
+1845,Rychnov nad Kněžnou,Královéhradecký kraj,Dentální hygienistka,4
+1846,Rychnov nad Kněžnou,Královéhradecký kraj,Fyzioterapeut,19
+1847,Rychnov nad Kněžnou,Královéhradecký kraj,Klinický logoped,7
+1848,Rychnov nad Kněžnou,Královéhradecký kraj,Klinický psycholog,3
+1849,Rychnov nad Kněžnou,Královéhradecký kraj,Nutriční terapeut,1
+1850,Rychnov nad Kněžnou,Královéhradecký kraj,Optometrista,2
+1851,Rychnov nad Kněžnou,Královéhradecký kraj,Všeobecná sestra,18
+1852,Rychnov nad Kněžnou,Královéhradecký kraj,Zubní technik,5
+1853,Rychnov nad Kněžnou,Královéhradecký kraj,alergologie a klinická imunologie,1
+1854,Rychnov nad Kněžnou,Královéhradecký kraj,anesteziologie a intenzivní medicína,1
+1855,Rychnov nad Kněžnou,Královéhradecký kraj,chirurgie,6
+1856,Rychnov nad Kněžnou,Královéhradecký kraj,dermatovenerologie,4
+1857,Rychnov nad Kněžnou,Královéhradecký kraj,endokrinologie a diabetologie,2
+1858,Rychnov nad Kněžnou,Královéhradecký kraj,gastroenterologie,1
+1859,Rychnov nad Kněžnou,Královéhradecký kraj,gynekologie a porodnictví,12
+1860,Rychnov nad Kněžnou,Královéhradecký kraj,hematologie a transfúzní lékařství,1
+1861,Rychnov nad Kněžnou,Královéhradecký kraj,infekční lékařství,1
+1862,Rychnov nad Kněžnou,Královéhradecký kraj,kardiologie,1
+1863,Rychnov nad Kněžnou,Královéhradecký kraj,neurologie,1
+1864,Rychnov nad Kněžnou,Královéhradecký kraj,oftalmologie,3
+1865,Rychnov nad Kněžnou,Královéhradecký kraj,ortopedie a traumatologie pohybového ústrojí,7
+1866,Rychnov nad Kněžnou,Královéhradecký kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+1867,Rychnov nad Kněžnou,Královéhradecký kraj,pneumologie a ftizeologie,2
+1868,Rychnov nad Kněžnou,Královéhradecký kraj,pracovní lékařství,1
+1869,Rychnov nad Kněžnou,Královéhradecký kraj,praktické lékařství pro děti a dorost,15
+1870,Rychnov nad Kněžnou,Královéhradecký kraj,praktické lékárenství,1
+1871,Rychnov nad Kněžnou,Královéhradecký kraj,psychiatrie,5
+1872,Rychnov nad Kněžnou,Královéhradecký kraj,radiologie a zobrazovací metody,2
+1873,Rychnov nad Kněžnou,Královéhradecký kraj,rehabilitační a fyzikální medicína,4
+1874,Rychnov nad Kněžnou,Královéhradecký kraj,urgentní medicína,2
+1875,Rychnov nad Kněžnou,Královéhradecký kraj,urologie,4
+1876,Rychnov nad Kněžnou,Královéhradecký kraj,vnitřní lékařství,1
+1877,Rychnov nad Kněžnou,Královéhradecký kraj,všeobecné praktické lékařství,35
+1878,Rychnov nad Kněžnou,Královéhradecký kraj,zubní lékařství,16
+1879,Semily,Liberecký kraj,Dentální hygienistka,2
+1880,Semily,Liberecký kraj,Fyzioterapeut,4
+1881,Semily,Liberecký kraj,Klinický psycholog,3
+1882,Semily,Liberecký kraj,Optometrista,2
+1883,Semily,Liberecký kraj,Porodní asistentka,4
+1884,Semily,Liberecký kraj,Všeobecná sestra,3
+1885,Semily,Liberecký kraj,Zubní technik,1
+1886,Semily,Liberecký kraj,alergologie a klinická imunologie,1
+1887,Semily,Liberecký kraj,anesteziologie a intenzivní medicína,5
+1888,Semily,Liberecký kraj,chirurgie,1
+1889,Semily,Liberecký kraj,dermatovenerologie,3
+1890,Semily,Liberecký kraj,gynekologie a porodnictví,9
+1891,Semily,Liberecký kraj,neurologie,3
+1892,Semily,Liberecký kraj,oftalmologie,5
+1893,Semily,Liberecký kraj,ortopedie a traumatologie pohybového ústrojí,6
+1894,Semily,Liberecký kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+1895,Semily,Liberecký kraj,pediatrie,2
+1896,Semily,Liberecký kraj,plastická chirurgie,1
+1897,Semily,Liberecký kraj,praktické lékařství pro děti a dorost,7
+1898,Semily,Liberecký kraj,praktické lékárenství,3
+1899,Semily,Liberecký kraj,psychiatrie,1
+1900,Semily,Liberecký kraj,radiologie a zobrazovací metody,3
+1901,Semily,Liberecký kraj,rehabilitační a fyzikální medicína,1
+1902,Semily,Liberecký kraj,tělovýchovné lékařství,1
+1903,Semily,Liberecký kraj,urologie,1
+1904,Semily,Liberecký kraj,všeobecné praktické lékařství,24
+1905,Semily,Liberecký kraj,zubní lékařství,23
+1906,Sokolov,Karlovarský kraj,Dentální hygienistka,3
+1907,Sokolov,Karlovarský kraj,Fyzioterapeut,4
+1908,Sokolov,Karlovarský kraj,Klinický psycholog,2
+1909,Sokolov,Karlovarský kraj,Optometrista,6
+1910,Sokolov,Karlovarský kraj,Ortotik-protetik,2
+1911,Sokolov,Karlovarský kraj,Porodní asistentka,4
+1912,Sokolov,Karlovarský kraj,Všeobecná sestra,1
+1913,Sokolov,Karlovarský kraj,Zubní technik,15
+1914,Sokolov,Karlovarský kraj,alergologie a klinická imunologie,2
+1915,Sokolov,Karlovarský kraj,anesteziologie a intenzivní medicína,5
+1916,Sokolov,Karlovarský kraj,chirurgie,6
+1917,Sokolov,Karlovarský kraj,dermatovenerologie,1
+1918,Sokolov,Karlovarský kraj,dětská gastroenterologie a hepatologie,1
+1919,Sokolov,Karlovarský kraj,dětská kardiologie,1
+1920,Sokolov,Karlovarský kraj,endokrinologie a diabetologie,2
+1921,Sokolov,Karlovarský kraj,gastroenterologie,1
+1922,Sokolov,Karlovarský kraj,gynekologie a porodnictví,13
+1923,Sokolov,Karlovarský kraj,hematologie a transfúzní lékařství,1
+1924,Sokolov,Karlovarský kraj,kardiologie,1
+1925,Sokolov,Karlovarský kraj,klinická onkologie,1
+1926,Sokolov,Karlovarský kraj,neurologie,2
+1927,Sokolov,Karlovarský kraj,oftalmologie,8
+1928,Sokolov,Karlovarský kraj,ortopedie a traumatologie pohybového ústrojí,9
+1929,Sokolov,Karlovarský kraj,otorinolaryngologie a chirurgie hlavy a krku,3
+1930,Sokolov,Karlovarský kraj,patologie,1
+1931,Sokolov,Karlovarský kraj,pneumologie a ftizeologie,1
+1932,Sokolov,Karlovarský kraj,praktické lékařství pro děti a dorost,11
+1933,Sokolov,Karlovarský kraj,praktické lékárenství,2
+1934,Sokolov,Karlovarský kraj,psychiatrie,1
+1935,Sokolov,Karlovarský kraj,radiologie a zobrazovací metody,8
+1936,Sokolov,Karlovarský kraj,revmatologie,2
+1937,Sokolov,Karlovarský kraj,urologie,1
+1938,Sokolov,Karlovarský kraj,vnitřní lékařství,4
+1939,Sokolov,Karlovarský kraj,všeobecné praktické lékařství,35
+1940,Sokolov,Karlovarský kraj,zubní lékařství,20
+1941,Strakonice,Jihočeský kraj,Dentální hygienistka,3
+1942,Strakonice,Jihočeský kraj,Fyzioterapeut,6
+1943,Strakonice,Jihočeský kraj,Klinický psycholog,2
+1944,Strakonice,Jihočeský kraj,Optometrista,4
+1945,Strakonice,Jihočeský kraj,Porodní asistentka,2
+1946,Strakonice,Jihočeský kraj,Všeobecná sestra,3
+1947,Strakonice,Jihočeský kraj,Zubní technik,6
+1948,Strakonice,Jihočeský kraj,alergologie a klinická imunologie,2
+1949,Strakonice,Jihočeský kraj,anesteziologie a intenzivní medicína,1
+1950,Strakonice,Jihočeský kraj,chirurgie,1
+1951,Strakonice,Jihočeský kraj,dermatovenerologie,4
+1952,Strakonice,Jihočeský kraj,dětská kardiologie,1
+1953,Strakonice,Jihočeský kraj,endokrinologie a diabetologie,1
+1954,Strakonice,Jihočeský kraj,gastroenterologie,1
+1955,Strakonice,Jihočeský kraj,gynekologie a porodnictví,9
+1956,Strakonice,Jihočeský kraj,hematologie a transfúzní lékařství,1
+1957,Strakonice,Jihočeský kraj,kardiologie,1
+1958,Strakonice,Jihočeský kraj,neurologie,2
+1959,Strakonice,Jihočeský kraj,oftalmologie,2
+1960,Strakonice,Jihočeský kraj,ortodoncie,1
+1961,Strakonice,Jihočeský kraj,ortopedie a traumatologie pohybového ústrojí,4
+1962,Strakonice,Jihočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+1963,Strakonice,Jihočeský kraj,pneumologie a ftizeologie,1
+1964,Strakonice,Jihočeský kraj,praktické lékařství pro děti a dorost,10
+1965,Strakonice,Jihočeský kraj,psychiatrie,1
+1966,Strakonice,Jihočeský kraj,radiologie a zobrazovací metody,2
+1967,Strakonice,Jihočeský kraj,rehabilitační a fyzikální medicína,2
+1968,Strakonice,Jihočeský kraj,urologie,2
+1969,Strakonice,Jihočeský kraj,všeobecné praktické lékařství,30
+1970,Strakonice,Jihočeský kraj,zubní lékařství,17
+1971,Svitavy,Pardubický kraj,Dentální hygienistka,1
+1972,Svitavy,Pardubický kraj,Fyzioterapeut,12
+1973,Svitavy,Pardubický kraj,Klinický logoped,5
+1974,Svitavy,Pardubický kraj,Klinický psycholog,3
+1975,Svitavy,Pardubický kraj,Optometrista,6
+1976,Svitavy,Pardubický kraj,Porodní asistentka,3
+1977,Svitavy,Pardubický kraj,Všeobecná sestra,4
+1978,Svitavy,Pardubický kraj,Zubní technik,4
+1979,Svitavy,Pardubický kraj,alergologie a klinická imunologie,2
+1980,Svitavy,Pardubický kraj,chirurgie,6
+1981,Svitavy,Pardubický kraj,dermatovenerologie,4
+1982,Svitavy,Pardubický kraj,dětská kardiologie,2
+1983,Svitavy,Pardubický kraj,dětská neurologie,1
+1984,Svitavy,Pardubický kraj,endokrinologie a diabetologie,1
+1985,Svitavy,Pardubický kraj,epidemiologie,1
+1986,Svitavy,Pardubický kraj,gynekologie a porodnictví,10
+1987,Svitavy,Pardubický kraj,neurologie,5
+1988,Svitavy,Pardubický kraj,oftalmologie,5
+1989,Svitavy,Pardubický kraj,ortodoncie,6
+1990,Svitavy,Pardubický kraj,ortopedie a traumatologie pohybového ústrojí,5
+1991,Svitavy,Pardubický kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+1992,Svitavy,Pardubický kraj,pneumologie a ftizeologie,2
+1993,Svitavy,Pardubický kraj,praktické lékařství pro děti a dorost,23
+1994,Svitavy,Pardubický kraj,praktické lékárenství,1
+1995,Svitavy,Pardubický kraj,psychiatrie,6
+1996,Svitavy,Pardubický kraj,rehabilitační a fyzikální medicína,2
+1997,Svitavy,Pardubický kraj,urologie,4
+1998,Svitavy,Pardubický kraj,vnitřní lékařství,3
+1999,Svitavy,Pardubický kraj,všeobecné praktické lékařství,41
+2000,Svitavy,Pardubický kraj,zubní lékařství,32
+2001,Tachov,Plzeňský kraj,Dentální hygienistka,2
+2002,Tachov,Plzeňský kraj,Farmaceutický asistent,1
+2003,Tachov,Plzeňský kraj,Fyzioterapeut,1
+2004,Tachov,Plzeňský kraj,Klinický psycholog,1
+2005,Tachov,Plzeňský kraj,Optometrista,4
+2006,Tachov,Plzeňský kraj,Všeobecná sestra,5
+2007,Tachov,Plzeňský kraj,Zubní technik,9
+2008,Tachov,Plzeňský kraj,alergologie a klinická imunologie,1
+2009,Tachov,Plzeňský kraj,anesteziologie a intenzivní medicína,13
+2010,Tachov,Plzeňský kraj,chirurgie,5
+2011,Tachov,Plzeňský kraj,dermatovenerologie,5
+2012,Tachov,Plzeňský kraj,endokrinologie a diabetologie,1
+2013,Tachov,Plzeňský kraj,gastroenterologie,1
+2014,Tachov,Plzeňský kraj,gynekologie a porodnictví,7
+2015,Tachov,Plzeňský kraj,kardiologie,2
+2016,Tachov,Plzeňský kraj,oftalmologie,6
+2017,Tachov,Plzeňský kraj,ortopedie a traumatologie pohybového ústrojí,2
+2018,Tachov,Plzeňský kraj,plastická chirurgie,4
+2019,Tachov,Plzeňský kraj,praktické lékařství pro děti a dorost,3
+2020,Tachov,Plzeňský kraj,radiologie a zobrazovací metody,3
+2021,Tachov,Plzeňský kraj,rehabilitační a fyzikální medicína,1
+2022,Tachov,Plzeňský kraj,urologie,1
+2023,Tachov,Plzeňský kraj,vnitřní lékařství,1
+2024,Tachov,Plzeňský kraj,všeobecné praktické lékařství,18
+2025,Tachov,Plzeňský kraj,zubní lékařství,13
+2026,Teplice,Ústecký kraj,Fyzioterapeut,12
+2027,Teplice,Ústecký kraj,Klinický logoped,4
+2028,Teplice,Ústecký kraj,Klinický psycholog,2
+2029,Teplice,Ústecký kraj,Optometrista,7
+2030,Teplice,Ústecký kraj,Všeobecná sestra,3
+2031,Teplice,Ústecký kraj,Zubní technik,8
+2032,Teplice,Ústecký kraj,alergologie a klinická imunologie,3
+2033,Teplice,Ústecký kraj,anesteziologie a intenzivní medicína,2
+2034,Teplice,Ústecký kraj,chirurgie,1
+2035,Teplice,Ústecký kraj,dermatovenerologie,5
+2036,Teplice,Ústecký kraj,endokrinologie a diabetologie,5
+2037,Teplice,Ústecký kraj,gastroenterologie,2
+2038,Teplice,Ústecký kraj,gynekologie a porodnictví,15
+2039,Teplice,Ústecký kraj,hematologie a transfúzní lékařství,1
+2040,Teplice,Ústecký kraj,kardiologie,2
+2041,Teplice,Ústecký kraj,neurologie,6
+2042,Teplice,Ústecký kraj,oftalmologie,5
+2043,Teplice,Ústecký kraj,ortodoncie,1
+2044,Teplice,Ústecký kraj,ortopedie a traumatologie pohybového ústrojí,5
+2045,Teplice,Ústecký kraj,otorinolaryngologie a chirurgie hlavy a krku,4
+2046,Teplice,Ústecký kraj,pediatrie,2
+2047,Teplice,Ústecký kraj,pneumologie a ftizeologie,1
+2048,Teplice,Ústecký kraj,pracovní lékařství,1
+2049,Teplice,Ústecký kraj,praktické lékařství pro děti a dorost,21
+2050,Teplice,Ústecký kraj,praktické lékárenství,4
+2051,Teplice,Ústecký kraj,psychiatrie,4
+2052,Teplice,Ústecký kraj,rehabilitační a fyzikální medicína,4
+2053,Teplice,Ústecký kraj,urologie,5
+2054,Teplice,Ústecký kraj,vnitřní lékařství,1
+2055,Teplice,Ústecký kraj,všeobecné praktické lékařství,42
+2056,Teplice,Ústecký kraj,zubní lékařství,44
+2057,Trutnov,Královéhradecký kraj,Dentální hygienistka,2
+2058,Trutnov,Královéhradecký kraj,Fyzioterapeut,13
+2059,Trutnov,Královéhradecký kraj,Klinický logoped,3
+2060,Trutnov,Královéhradecký kraj,Klinický psycholog,7
+2061,Trutnov,Královéhradecký kraj,Nutriční terapeut,1
+2062,Trutnov,Královéhradecký kraj,Optometrista,4
+2063,Trutnov,Královéhradecký kraj,Porodní asistentka,2
+2064,Trutnov,Královéhradecký kraj,Všeobecná sestra,27
+2065,Trutnov,Královéhradecký kraj,Zubní technik,9
+2066,Trutnov,Královéhradecký kraj,alergologie a klinická imunologie,5
+2067,Trutnov,Královéhradecký kraj,anesteziologie a intenzivní medicína,11
+2068,Trutnov,Královéhradecký kraj,chirurgie,5
+2069,Trutnov,Královéhradecký kraj,dermatovenerologie,2
+2070,Trutnov,Královéhradecký kraj,endokrinologie a diabetologie,1
+2071,Trutnov,Královéhradecký kraj,gynekologie a porodnictví,11
+2072,Trutnov,Královéhradecký kraj,kardiologie,1
+2073,Trutnov,Královéhradecký kraj,klinická onkologie,1
+2074,Trutnov,Královéhradecký kraj,neurologie,5
+2075,Trutnov,Královéhradecký kraj,oftalmologie,6
+2076,Trutnov,Královéhradecký kraj,ortopedie a traumatologie pohybového ústrojí,7
+2077,Trutnov,Královéhradecký kraj,otorinolaryngologie a chirurgie hlavy a krku,4
+2078,Trutnov,Královéhradecký kraj,plastická chirurgie,1
+2079,Trutnov,Královéhradecký kraj,pneumologie a ftizeologie,2
+2080,Trutnov,Královéhradecký kraj,pracovní lékařství,1
+2081,Trutnov,Královéhradecký kraj,praktické lékařství pro děti a dorost,27
+2082,Trutnov,Královéhradecký kraj,praktické lékárenství,3
+2083,Trutnov,Královéhradecký kraj,psychiatrie,6
+2084,Trutnov,Královéhradecký kraj,radiologie a zobrazovací metody,2
+2085,Trutnov,Královéhradecký kraj,rehabilitační a fyzikální medicína,2
+2086,Trutnov,Královéhradecký kraj,tělovýchovné lékařství,1
+2087,Trutnov,Královéhradecký kraj,urgentní medicína,4
+2088,Trutnov,Královéhradecký kraj,urologie,3
+2089,Trutnov,Královéhradecký kraj,vnitřní lékařství,2
+2090,Trutnov,Královéhradecký kraj,všeobecné praktické lékařství,51
+2091,Trutnov,Královéhradecký kraj,zubní lékařství,41
+2092,Tábor,Jihočeský kraj,Dentální hygienistka,1
+2093,Tábor,Jihočeský kraj,Fyzioterapeut,12
+2094,Tábor,Jihočeský kraj,Klinický logoped,10
+2095,Tábor,Jihočeský kraj,Klinický psycholog,4
+2096,Tábor,Jihočeský kraj,Optometrista,12
+2097,Tábor,Jihočeský kraj,Porodní asistentka,1
+2098,Tábor,Jihočeský kraj,Všeobecná sestra,3
+2099,Tábor,Jihočeský kraj,Zubní technik,22
+2100,Tábor,Jihočeský kraj,anesteziologie a intenzivní medicína,6
+2101,Tábor,Jihočeský kraj,chirurgie,4
+2102,Tábor,Jihočeský kraj,dermatovenerologie,4
+2103,Tábor,Jihočeský kraj,dětská a dorostová psychiatrie,1
+2104,Tábor,Jihočeský kraj,dětská neurologie,1
+2105,Tábor,Jihočeský kraj,dětské lékařství,5
+2106,Tábor,Jihočeský kraj,endokrinologie a diabetologie,2
+2107,Tábor,Jihočeský kraj,gynekologie a porodnictví,19
+2108,Tábor,Jihočeský kraj,hematologie a transfúzní lékařství,1
+2109,Tábor,Jihočeský kraj,kardiologie,2
+2110,Tábor,Jihočeský kraj,neurologie,6
+2111,Tábor,Jihočeský kraj,oftalmologie,6
+2112,Tábor,Jihočeský kraj,ortodoncie,2
+2113,Tábor,Jihočeský kraj,ortopedie a traumatologie pohybového ústrojí,5
+2114,Tábor,Jihočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,2
+2115,Tábor,Jihočeský kraj,plastická chirurgie,3
+2116,Tábor,Jihočeský kraj,pneumologie a ftizeologie,1
+2117,Tábor,Jihočeský kraj,praktické lékařství pro děti a dorost,14
+2118,Tábor,Jihočeský kraj,psychiatrie,7
+2119,Tábor,Jihočeský kraj,radiologie a zobrazovací metody,1
+2120,Tábor,Jihočeský kraj,rehabilitační a fyzikální medicína,3
+2121,Tábor,Jihočeský kraj,urologie,1
+2122,Tábor,Jihočeský kraj,vnitřní lékařství,1
+2123,Tábor,Jihočeský kraj,všeobecné praktické lékařství,46
+2124,Tábor,Jihočeský kraj,zubní lékařství,17
+2125,Třebíč,Kraj Vysočina,Dentální hygienistka,1
+2126,Třebíč,Kraj Vysočina,Fyzioterapeut,14
+2127,Třebíč,Kraj Vysočina,Klinický logoped,5
+2128,Třebíč,Kraj Vysočina,Klinický psycholog,4
+2129,Třebíč,Kraj Vysočina,Optometrista,10
+2130,Třebíč,Kraj Vysočina,Ortoptista,1
+2131,Třebíč,Kraj Vysočina,Porodní asistentka,3
+2132,Třebíč,Kraj Vysočina,Zubní technik,14
+2133,Třebíč,Kraj Vysočina,algeziologie,1
+2134,Třebíč,Kraj Vysočina,anesteziologie a intenzivní medicína,1
+2135,Třebíč,Kraj Vysočina,chirurgie,5
+2136,Třebíč,Kraj Vysočina,dermatovenerologie,4
+2137,Třebíč,Kraj Vysočina,dětská a dorostová psychiatrie,1
+2138,Třebíč,Kraj Vysočina,endokrinologie a diabetologie,4
+2139,Třebíč,Kraj Vysočina,gynekologie a porodnictví,17
+2140,Třebíč,Kraj Vysočina,neurologie,5
+2141,Třebíč,Kraj Vysočina,oftalmologie,4
+2142,Třebíč,Kraj Vysočina,ortopedie a traumatologie pohybového ústrojí,4
+2143,Třebíč,Kraj Vysočina,otorinolaryngologie a chirurgie hlavy a krku,4
+2144,Třebíč,Kraj Vysočina,pneumologie a ftizeologie,4
+2145,Třebíč,Kraj Vysočina,praktické lékárenství,5
+2146,Třebíč,Kraj Vysočina,psychiatrie,6
+2147,Třebíč,Kraj Vysočina,radiologie a zobrazovací metody,3
+2148,Třebíč,Kraj Vysočina,urologie,1
+2149,Třebíč,Kraj Vysočina,vnitřní lékařství,1
+2150,Třebíč,Kraj Vysočina,všeobecné praktické lékařství,3
+2151,Třebíč,Kraj Vysočina,zubní lékařství,37
+2152,Uherské Hradiště,Zlínský kraj,Dentální hygienistka,9
+2153,Uherské Hradiště,Zlínský kraj,Fyzioterapeut,16
+2154,Uherské Hradiště,Zlínský kraj,Klinický logoped,6
+2155,Uherské Hradiště,Zlínský kraj,Klinický psycholog,6
+2156,Uherské Hradiště,Zlínský kraj,Optometrista,8
+2157,Uherské Hradiště,Zlínský kraj,Ortotik-protetik,4
+2158,Uherské Hradiště,Zlínský kraj,Porodní asistentka,3
+2159,Uherské Hradiště,Zlínský kraj,Všeobecná sestra,4
+2160,Uherské Hradiště,Zlínský kraj,Zubní technik,22
+2161,Uherské Hradiště,Zlínský kraj,Zubní technik pro fixní a snímatelné náhrady,3
+2162,Uherské Hradiště,Zlínský kraj,alergologie a klinická imunologie,2
+2163,Uherské Hradiště,Zlínský kraj,anesteziologie a intenzivní medicína,2
+2164,Uherské Hradiště,Zlínský kraj,angiologie,1
+2165,Uherské Hradiště,Zlínský kraj,chirurgie,7
+2166,Uherské Hradiště,Zlínský kraj,dermatovenerologie,5
+2167,Uherské Hradiště,Zlínský kraj,endokrinologie a diabetologie,3
+2168,Uherské Hradiště,Zlínský kraj,gastroenterologie,2
+2169,Uherské Hradiště,Zlínský kraj,gynekologie a porodnictví,16
+2170,Uherské Hradiště,Zlínský kraj,hematologie a transfúzní lékařství,1
+2171,Uherské Hradiště,Zlínský kraj,kardiologie,5
+2172,Uherské Hradiště,Zlínský kraj,klinická onkologie,1
+2173,Uherské Hradiště,Zlínský kraj,neurologie,6
+2174,Uherské Hradiště,Zlínský kraj,oftalmologie,6
+2175,Uherské Hradiště,Zlínský kraj,ortodoncie,1
+2176,Uherské Hradiště,Zlínský kraj,ortopedická protetika,1
+2177,Uherské Hradiště,Zlínský kraj,ortopedie a traumatologie pohybového ústrojí,5
+2178,Uherské Hradiště,Zlínský kraj,otorinolaryngologie a chirurgie hlavy a krku,3
+2179,Uherské Hradiště,Zlínský kraj,patologie,1
+2180,Uherské Hradiště,Zlínský kraj,pneumologie a ftizeologie,2
+2181,Uherské Hradiště,Zlínský kraj,praktické lékařství pro děti a dorost,23
+2182,Uherské Hradiště,Zlínský kraj,praktické lékárenství,6
+2183,Uherské Hradiště,Zlínský kraj,psychiatrie,3
+2184,Uherské Hradiště,Zlínský kraj,radiologie a zobrazovací metody,2
+2185,Uherské Hradiště,Zlínský kraj,rehabilitační a fyzikální medicína,3
+2186,Uherské Hradiště,Zlínský kraj,revmatologie,2
+2187,Uherské Hradiště,Zlínský kraj,urologie,5
+2188,Uherské Hradiště,Zlínský kraj,vnitřní lékařství,3
+2189,Uherské Hradiště,Zlínský kraj,všeobecné praktické lékařství,79
+2190,Uherské Hradiště,Zlínský kraj,zubní lékařství,67
+2191,Vsetín,Zlínský kraj,Dentální hygienistka,3
+2192,Vsetín,Zlínský kraj,Fyzioterapeut,18
+2193,Vsetín,Zlínský kraj,Klinický logoped,7
+2194,Vsetín,Zlínský kraj,Klinický psycholog,8
+2195,Vsetín,Zlínský kraj,Optometrista,7
+2196,Vsetín,Zlínský kraj,Ortoptista,1
+2197,Vsetín,Zlínský kraj,Porodní asistentka,4
+2198,Vsetín,Zlínský kraj,Všeobecná sestra,4
+2199,Vsetín,Zlínský kraj,Zubní technik,15
+2200,Vsetín,Zlínský kraj,alergologie a klinická imunologie,4
+2201,Vsetín,Zlínský kraj,anesteziologie a intenzivní medicína,8
+2202,Vsetín,Zlínský kraj,chirurgie,5
+2203,Vsetín,Zlínský kraj,dermatovenerologie,6
+2204,Vsetín,Zlínský kraj,dětská kardiologie,1
+2205,Vsetín,Zlínský kraj,endokrinologie a diabetologie,4
+2206,Vsetín,Zlínský kraj,gastroenterologie,2
+2207,Vsetín,Zlínský kraj,gynekologie a porodnictví,23
+2208,Vsetín,Zlínský kraj,hematologie a transfúzní lékařství,1
+2209,Vsetín,Zlínský kraj,kardiologie,1
+2210,Vsetín,Zlínský kraj,neurochirurgie,2
+2211,Vsetín,Zlínský kraj,neurologie,5
+2212,Vsetín,Zlínský kraj,oftalmologie,9
+2213,Vsetín,Zlínský kraj,ortodoncie,1
+2214,Vsetín,Zlínský kraj,ortopedie a traumatologie pohybového ústrojí,5
+2215,Vsetín,Zlínský kraj,otorinolaryngologie a chirurgie hlavy a krku,4
+2216,Vsetín,Zlínský kraj,plastická chirurgie,1
+2217,Vsetín,Zlínský kraj,pneumologie a ftizeologie,1
+2218,Vsetín,Zlínský kraj,praktické lékařství pro děti a dorost,31
+2219,Vsetín,Zlínský kraj,praktické lékárenství,1
+2220,Vsetín,Zlínský kraj,psychiatrie,7
+2221,Vsetín,Zlínský kraj,radiologie a zobrazovací metody,3
+2222,Vsetín,Zlínský kraj,rehabilitační a fyzikální medicína,1
+2223,Vsetín,Zlínský kraj,revmatologie,1
+2224,Vsetín,Zlínský kraj,sexuologie,1
+2225,Vsetín,Zlínský kraj,urologie,2
+2226,Vsetín,Zlínský kraj,vnitřní lékařství,8
+2227,Vsetín,Zlínský kraj,všeobecné praktické lékařství,63
+2228,Vsetín,Zlínský kraj,zubní lékařství,61
+2229,Vyškov,Jihomoravský kraj,Dentální hygienistka,5
+2230,Vyškov,Jihomoravský kraj,Fyzioterapeut,12
+2231,Vyškov,Jihomoravský kraj,Klinický logoped,7
+2232,Vyškov,Jihomoravský kraj,Klinický psycholog,3
+2233,Vyškov,Jihomoravský kraj,Optometrista,5
+2234,Vyškov,Jihomoravský kraj,Ortotik-protetik,1
+2235,Vyškov,Jihomoravský kraj,Porodní asistentka,3
+2236,Vyškov,Jihomoravský kraj,Všeobecná sestra,1
+2237,Vyškov,Jihomoravský kraj,Zubní technik,10
+2238,Vyškov,Jihomoravský kraj,alergologie a klinická imunologie,4
+2239,Vyškov,Jihomoravský kraj,chirurgie,3
+2240,Vyškov,Jihomoravský kraj,dermatovenerologie,4
+2241,Vyškov,Jihomoravský kraj,gynekologie a porodnictví,5
+2242,Vyškov,Jihomoravský kraj,hematologie a transfúzní lékařství,1
+2243,Vyškov,Jihomoravský kraj,klinická stomatologie,2
+2244,Vyškov,Jihomoravský kraj,nefrologie,1
+2245,Vyškov,Jihomoravský kraj,neurologie,4
+2246,Vyškov,Jihomoravský kraj,oftalmologie,5
+2247,Vyškov,Jihomoravský kraj,ortodoncie,3
+2248,Vyškov,Jihomoravský kraj,ortopedie a traumatologie pohybového ústrojí,6
+2249,Vyškov,Jihomoravský kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+2250,Vyškov,Jihomoravský kraj,pneumologie a ftizeologie,2
+2251,Vyškov,Jihomoravský kraj,praktické lékařství pro děti a dorost,18
+2252,Vyškov,Jihomoravský kraj,praktické lékárenství,3
+2253,Vyškov,Jihomoravský kraj,psychiatrie,2
+2254,Vyškov,Jihomoravský kraj,radiologie a zobrazovací metody,1
+2255,Vyškov,Jihomoravský kraj,urologie,4
+2256,Vyškov,Jihomoravský kraj,vnitřní lékařství,3
+2257,Vyškov,Jihomoravský kraj,všeobecné praktické lékařství,31
+2258,Vyškov,Jihomoravský kraj,zubní lékařství,28
+2259,Zlín,Zlínský kraj,Dentální hygienistka,8
+2260,Zlín,Zlínský kraj,Fyzioterapeut,39
+2261,Zlín,Zlínský kraj,Klinický logoped,7
+2262,Zlín,Zlínský kraj,Klinický psycholog,12
+2263,Zlín,Zlínský kraj,Optometrista,13
+2264,Zlín,Zlínský kraj,Porodní asistentka,8
+2265,Zlín,Zlínský kraj,Všeobecná sestra,9
+2266,Zlín,Zlínský kraj,Zubní technik,34
+2267,Zlín,Zlínský kraj,Zubní technik pro fixní a snímatelné náhrady,13
+2268,Zlín,Zlínský kraj,alergologie a klinická imunologie,4
+2269,Zlín,Zlínský kraj,anesteziologie a intenzivní medicína,5
+2270,Zlín,Zlínský kraj,chirurgie,9
+2271,Zlín,Zlínský kraj,dermatovenerologie,10
+2272,Zlín,Zlínský kraj,dětská neurologie,1
+2273,Zlín,Zlínský kraj,endokrinologie a diabetologie,6
+2274,Zlín,Zlínský kraj,gynekologie a porodnictví,25
+2275,Zlín,Zlínský kraj,hematologie a transfúzní lékařství,4
+2276,Zlín,Zlínský kraj,kardiologie,5
+2277,Zlín,Zlínský kraj,klinická biochemie,2
+2278,Zlín,Zlínský kraj,klinická onkologie,2
+2279,Zlín,Zlínský kraj,neurologie,10
+2280,Zlín,Zlínský kraj,oftalmologie,16
+2281,Zlín,Zlínský kraj,ortodoncie,4
+2282,Zlín,Zlínský kraj,ortopedie a traumatologie pohybového ústrojí,8
+2283,Zlín,Zlínský kraj,otorinolaryngologie a chirurgie hlavy a krku,5
+2284,Zlín,Zlínský kraj,patologie,1
+2285,Zlín,Zlínský kraj,plastická chirurgie,3
+2286,Zlín,Zlínský kraj,pracovní lékařství,1
+2287,Zlín,Zlínský kraj,praktické lékařství pro děti a dorost,27
+2288,Zlín,Zlínský kraj,praktické lékárenství,7
+2289,Zlín,Zlínský kraj,psychiatrie,7
+2290,Zlín,Zlínský kraj,radiologie a zobrazovací metody,5
+2291,Zlín,Zlínský kraj,rehabilitační a fyzikální medicína,7
+2292,Zlín,Zlínský kraj,revmatologie,1
+2293,Zlín,Zlínský kraj,traumatologie,1
+2294,Zlín,Zlínský kraj,urologie,18
+2295,Zlín,Zlínský kraj,veřejné zdravotnictví,1
+2296,Zlín,Zlínský kraj,vnitřní lékařství,2
+2297,Zlín,Zlínský kraj,všeobecné praktické lékařství,97
+2298,Zlín,Zlínský kraj,zubní lékařství,86
+2299,Znojmo,Jihomoravský kraj,Dentální hygienistka,2
+2300,Znojmo,Jihomoravský kraj,Ergoterapeut,2
+2301,Znojmo,Jihomoravský kraj,Fyzioterapeut,14
+2302,Znojmo,Jihomoravský kraj,Klinický logoped,5
+2303,Znojmo,Jihomoravský kraj,Klinický psycholog,2
+2304,Znojmo,Jihomoravský kraj,Optometrista,10
+2305,Znojmo,Jihomoravský kraj,Porodní asistentka,1
+2306,Znojmo,Jihomoravský kraj,Všeobecná sestra,1
+2307,Znojmo,Jihomoravský kraj,Zubní technik,13
+2308,Znojmo,Jihomoravský kraj,alergologie a klinická imunologie,2
+2309,Znojmo,Jihomoravský kraj,chirurgie,4
+2310,Znojmo,Jihomoravský kraj,dermatovenerologie,3
+2311,Znojmo,Jihomoravský kraj,endokrinologie a diabetologie,2
+2312,Znojmo,Jihomoravský kraj,gynekologie a porodnictví,10
+2313,Znojmo,Jihomoravský kraj,hematologie a transfúzní lékařství,1
+2314,Znojmo,Jihomoravský kraj,klinická stomatologie,1
+2315,Znojmo,Jihomoravský kraj,neurologie,6
+2316,Znojmo,Jihomoravský kraj,oftalmologie,8
+2317,Znojmo,Jihomoravský kraj,ortodoncie,2
+2318,Znojmo,Jihomoravský kraj,ortopedie a traumatologie pohybového ústrojí,5
+2319,Znojmo,Jihomoravský kraj,pediatrie,2
+2320,Znojmo,Jihomoravský kraj,pneumologie a ftizeologie,2
+2321,Znojmo,Jihomoravský kraj,praktické lékařství pro děti a dorost,13
+2322,Znojmo,Jihomoravský kraj,praktické lékárenství,6
+2323,Znojmo,Jihomoravský kraj,psychiatrie,9
+2324,Znojmo,Jihomoravský kraj,radiologie a zobrazovací metody,2
+2325,Znojmo,Jihomoravský kraj,revmatologie,1
+2326,Znojmo,Jihomoravský kraj,tělovýchovné lékařství,1
+2327,Znojmo,Jihomoravský kraj,urologie,3
+2328,Znojmo,Jihomoravský kraj,vnitřní lékařství,1
+2329,Znojmo,Jihomoravský kraj,všeobecné praktické lékařství,32
+2330,Znojmo,Jihomoravský kraj,zubní lékařství,38
+2331,Ústí nad Labem,Ústecký kraj,Dentální hygienistka,1
+2332,Ústí nad Labem,Ústecký kraj,Fyzioterapeut,19
+2333,Ústí nad Labem,Ústecký kraj,Klinický logoped,4
+2334,Ústí nad Labem,Ústecký kraj,Klinický psycholog,4
+2335,Ústí nad Labem,Ústecký kraj,Optometrista,8
+2336,Ústí nad Labem,Ústecký kraj,Všeobecná sestra,7
+2337,Ústí nad Labem,Ústecký kraj,Zubní technik,6
+2338,Ústí nad Labem,Ústecký kraj,alergologie a klinická imunologie,2
+2339,Ústí nad Labem,Ústecký kraj,anesteziologie a intenzivní medicína,4
+2340,Ústí nad Labem,Ústecký kraj,chirurgie,5
+2341,Ústí nad Labem,Ústecký kraj,dermatovenerologie,3
+2342,Ústí nad Labem,Ústecký kraj,dětská neurologie,1
+2343,Ústí nad Labem,Ústecký kraj,endokrinologie a diabetologie,4
+2344,Ústí nad Labem,Ústecký kraj,gastroenterologie,1
+2345,Ústí nad Labem,Ústecký kraj,gynekologie a porodnictví,33
+2346,Ústí nad Labem,Ústecký kraj,hematologie a transfúzní lékařství,1
+2347,Ústí nad Labem,Ústecký kraj,infekční lékařství,2
+2348,Ústí nad Labem,Ústecký kraj,kardiologie,3
+2349,Ústí nad Labem,Ústecký kraj,lékařská mikrobiologie,1
+2350,Ústí nad Labem,Ústecký kraj,nefrologie,1
+2351,Ústí nad Labem,Ústecký kraj,neurologie,5
+2352,Ústí nad Labem,Ústecký kraj,oftalmologie,8
+2353,Ústí nad Labem,Ústecký kraj,ortodoncie,1
+2354,Ústí nad Labem,Ústecký kraj,ortopedická protetika,2
+2355,Ústí nad Labem,Ústecký kraj,ortopedie a traumatologie pohybového ústrojí,6
+2356,Ústí nad Labem,Ústecký kraj,otorinolaryngologie a chirurgie hlavy a krku,5
+2357,Ústí nad Labem,Ústecký kraj,plastická chirurgie,1
+2358,Ústí nad Labem,Ústecký kraj,pneumologie a ftizeologie,2
+2359,Ústí nad Labem,Ústecký kraj,praktické lékařství pro děti a dorost,18
+2360,Ústí nad Labem,Ústecký kraj,praktické lékárenství,1
+2361,Ústí nad Labem,Ústecký kraj,psychiatrie,8
+2362,Ústí nad Labem,Ústecký kraj,rehabilitační a fyzikální medicína,1
+2363,Ústí nad Labem,Ústecký kraj,traumatologie,1
+2364,Ústí nad Labem,Ústecký kraj,urologie,5
+2365,Ústí nad Labem,Ústecký kraj,vnitřní lékařství,4
+2366,Ústí nad Labem,Ústecký kraj,všeobecné praktické lékařství,51
+2367,Ústí nad Labem,Ústecký kraj,zubní lékařství,44
+2368,Ústí nad Orlicí,Pardubický kraj,Dentální hygienistka,3
+2369,Ústí nad Orlicí,Pardubický kraj,Fyzioterapeut,19
+2370,Ústí nad Orlicí,Pardubický kraj,Klinický logoped,5
+2371,Ústí nad Orlicí,Pardubický kraj,Klinický psycholog,5
+2372,Ústí nad Orlicí,Pardubický kraj,Optometrista,7
+2373,Ústí nad Orlicí,Pardubický kraj,Porodní asistentka,2
+2374,Ústí nad Orlicí,Pardubický kraj,Všeobecná sestra,3
+2375,Ústí nad Orlicí,Pardubický kraj,Zubní technik,10
+2376,Ústí nad Orlicí,Pardubický kraj,alergologie a klinická imunologie,3
+2377,Ústí nad Orlicí,Pardubický kraj,anesteziologie a intenzivní medicína,1
+2378,Ústí nad Orlicí,Pardubický kraj,chirurgie,10
+2379,Ústí nad Orlicí,Pardubický kraj,dermatovenerologie,10
+2380,Ústí nad Orlicí,Pardubický kraj,dětská kardiologie,1
+2381,Ústí nad Orlicí,Pardubický kraj,endokrinologie a diabetologie,1
+2382,Ústí nad Orlicí,Pardubický kraj,epidemiologie,1
+2383,Ústí nad Orlicí,Pardubický kraj,foniatrie,1
+2384,Ústí nad Orlicí,Pardubický kraj,gynekologie a porodnictví,9
+2385,Ústí nad Orlicí,Pardubický kraj,kardiologie,1
+2386,Ústí nad Orlicí,Pardubický kraj,neurologie,6
+2387,Ústí nad Orlicí,Pardubický kraj,oftalmologie,6
+2388,Ústí nad Orlicí,Pardubický kraj,ortodoncie,1
+2389,Ústí nad Orlicí,Pardubický kraj,ortopedie a traumatologie pohybového ústrojí,6
+2390,Ústí nad Orlicí,Pardubický kraj,otorinolaryngologie a chirurgie hlavy a krku,3
+2391,Ústí nad Orlicí,Pardubický kraj,pneumologie a ftizeologie,2
+2392,Ústí nad Orlicí,Pardubický kraj,praktické lékařství pro děti a dorost,24
+2393,Ústí nad Orlicí,Pardubický kraj,praktické lékárenství,6
+2394,Ústí nad Orlicí,Pardubický kraj,psychiatrie,4
+2395,Ústí nad Orlicí,Pardubický kraj,radiologie a zobrazovací metody,7
+2396,Ústí nad Orlicí,Pardubický kraj,rehabilitační a fyzikální medicína,2
+2397,Ústí nad Orlicí,Pardubický kraj,urologie,3
+2398,Ústí nad Orlicí,Pardubický kraj,vnitřní lékařství,1
+2399,Ústí nad Orlicí,Pardubický kraj,všeobecné praktické lékařství,58
+2400,Ústí nad Orlicí,Pardubický kraj,zubní lékařství,34
+2401,území Hlavního města Prahy,Hlavní město Praha,Adiktolog,1
+2402,území Hlavního města Prahy,Hlavní město Praha,Fyzioterapeut,1
+2403,území Hlavního města Prahy,Hlavní město Praha,Klinický logoped,1
+2404,území Hlavního města Prahy,Hlavní město Praha,Optometrista,1
+2405,území Hlavního města Prahy,Hlavní město Praha,endokrinologie a diabetologie,1
+2406,území Hlavního města Prahy,Hlavní město Praha,pracovní lékařství,1
+2407,území Hlavního města Prahy,Hlavní město Praha,všeobecné praktické lékařství,3
+2408,Česká Lípa,Liberecký kraj,Dentální hygienistka,2
+2409,Česká Lípa,Liberecký kraj,Fyzioterapeut,11
+2410,Česká Lípa,Liberecký kraj,Klinický logoped,1
+2411,Česká Lípa,Liberecký kraj,Klinický psycholog,2
+2412,Česká Lípa,Liberecký kraj,Optometrista,1
+2413,Česká Lípa,Liberecký kraj,Ortoptista,1
+2414,Česká Lípa,Liberecký kraj,Všeobecná sestra,2
+2415,Česká Lípa,Liberecký kraj,Zubní technik,3
+2416,Česká Lípa,Liberecký kraj,alergologie a klinická imunologie,1
+2417,Česká Lípa,Liberecký kraj,anesteziologie a intenzivní medicína,1
+2418,Česká Lípa,Liberecký kraj,chirurgie,4
+2419,Česká Lípa,Liberecký kraj,dermatovenerologie,3
+2420,Česká Lípa,Liberecký kraj,endokrinologie a diabetologie,1
+2421,Česká Lípa,Liberecký kraj,gynekologie a porodnictví,11
+2422,Česká Lípa,Liberecký kraj,hematologie a transfúzní lékařství,2
+2423,Česká Lípa,Liberecký kraj,neurologie,6
+2424,Česká Lípa,Liberecký kraj,oftalmologie,3
+2425,Česká Lípa,Liberecký kraj,ortodoncie,1
+2426,Česká Lípa,Liberecký kraj,ortopedie a traumatologie pohybového ústrojí,5
+2427,Česká Lípa,Liberecký kraj,otorinolaryngologie a chirurgie hlavy a krku,3
+2428,Česká Lípa,Liberecký kraj,pneumologie a ftizeologie,1
+2429,Česká Lípa,Liberecký kraj,praktické lékařství pro děti a dorost,8
+2430,Česká Lípa,Liberecký kraj,praktické lékárenství,6
+2431,Česká Lípa,Liberecký kraj,radiologie a zobrazovací metody,4
+2432,Česká Lípa,Liberecký kraj,revmatologie,1
+2433,Česká Lípa,Liberecký kraj,soudní lékařství,1
+2434,Česká Lípa,Liberecký kraj,urologie,3
+2435,Česká Lípa,Liberecký kraj,vnitřní lékařství,4
+2436,Česká Lípa,Liberecký kraj,všeobecné praktické lékařství,26
+2437,Česká Lípa,Liberecký kraj,zubní lékařství,28
+2438,České Budějovice,Jihočeský kraj,Asistent ochrany a podpory veřejného zdraví,1
+2439,České Budějovice,Jihočeský kraj,Dentální hygienistka,6
+2440,České Budějovice,Jihočeský kraj,Fyzioterapeut,41
+2441,České Budějovice,Jihočeský kraj,Klinický logoped,5
+2442,České Budějovice,Jihočeský kraj,Klinický psycholog,8
+2443,České Budějovice,Jihočeský kraj,Odborný fyzioterapeut,3
+2444,České Budějovice,Jihočeský kraj,Optometrista,12
+2445,České Budějovice,Jihočeský kraj,Porodní asistentka,2
+2446,České Budějovice,Jihočeský kraj,Všeobecná sestra,8
+2447,České Budějovice,Jihočeský kraj,Zubní technik,29
+2448,České Budějovice,Jihočeský kraj,alergologie a klinická imunologie,3
+2449,České Budějovice,Jihočeský kraj,anesteziologie a intenzivní medicína,8
+2450,České Budějovice,Jihočeský kraj,chirurgie,5
+2451,České Budějovice,Jihočeský kraj,dermatovenerologie,9
+2452,České Budějovice,Jihočeský kraj,dětská a dorostová psychiatrie,1
+2453,České Budějovice,Jihočeský kraj,dětská kardiologie,2
+2454,České Budějovice,Jihočeský kraj,dětská neurologie,1
+2455,České Budějovice,Jihočeský kraj,dětské lékařství,3
+2456,České Budějovice,Jihočeský kraj,endokrinologie a diabetologie,2
+2457,České Budějovice,Jihočeský kraj,epidemiologie,1
+2458,České Budějovice,Jihočeský kraj,foniatrie,1
+2459,České Budějovice,Jihočeský kraj,gastroenterologie,2
+2460,České Budějovice,Jihočeský kraj,gynekologie a porodnictví,19
+2461,České Budějovice,Jihočeský kraj,hematologie a transfúzní lékařství,3
+2462,České Budějovice,Jihočeský kraj,kardiologie,1
+2463,České Budějovice,Jihočeský kraj,klinická biochemie,2
+2464,České Budějovice,Jihočeský kraj,lékařská genetika,1
+2465,České Budějovice,Jihočeský kraj,lékařská mikrobiologie,1
+2466,České Budějovice,Jihočeský kraj,neurochirurgie,1
+2467,České Budějovice,Jihočeský kraj,neurologie,6
+2468,České Budějovice,Jihočeský kraj,oftalmologie,17
+2469,České Budějovice,Jihočeský kraj,ortopedická protetika,1
+2470,České Budějovice,Jihočeský kraj,ortopedie a traumatologie pohybového ústrojí,12
+2471,České Budějovice,Jihočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,7
+2472,České Budějovice,Jihočeský kraj,patologie,1
+2473,České Budějovice,Jihočeský kraj,plastická chirurgie,5
+2474,České Budějovice,Jihočeský kraj,pneumologie a ftizeologie,1
+2475,České Budějovice,Jihočeský kraj,praktické lékařství pro děti a dorost,26
+2476,České Budějovice,Jihočeský kraj,praktické lékárenství,1
+2477,České Budějovice,Jihočeský kraj,psychiatrie,15
+2478,České Budějovice,Jihočeský kraj,radiologie a zobrazovací metody,3
+2479,České Budějovice,Jihočeský kraj,rehabilitační a fyzikální medicína,5
+2480,České Budějovice,Jihočeský kraj,urologie,2
+2481,České Budějovice,Jihočeský kraj,vnitřní lékařství,12
+2482,České Budějovice,Jihočeský kraj,všeobecné praktické lékařství,71
+2483,České Budějovice,Jihočeský kraj,zubní lékařství,90
+2484,Český Krumlov,Jihočeský kraj,Dentální hygienistka,2
+2485,Český Krumlov,Jihočeský kraj,Ergoterapeut,1
+2486,Český Krumlov,Jihočeský kraj,Fyzioterapeut,10
+2487,Český Krumlov,Jihočeský kraj,Klinický logoped,21
+2488,Český Krumlov,Jihočeský kraj,Klinický psycholog,3
+2489,Český Krumlov,Jihočeský kraj,Optometrista,6
+2490,Český Krumlov,Jihočeský kraj,Porodní asistentka,2
+2491,Český Krumlov,Jihočeský kraj,Všeobecná sestra,4
+2492,Český Krumlov,Jihočeský kraj,Zubní technik,8
+2493,Český Krumlov,Jihočeský kraj,alergologie a klinická imunologie,1
+2494,Český Krumlov,Jihočeský kraj,anesteziologie a intenzivní medicína,4
+2495,Český Krumlov,Jihočeský kraj,chirurgie,3
+2496,Český Krumlov,Jihočeský kraj,dermatovenerologie,1
+2497,Český Krumlov,Jihočeský kraj,dětská a dorostová psychiatrie,1
+2498,Český Krumlov,Jihočeský kraj,dětská kardiologie,1
+2499,Český Krumlov,Jihočeský kraj,endokrinologie a diabetologie,1
+2500,Český Krumlov,Jihočeský kraj,epidemiologie,1
+2501,Český Krumlov,Jihočeský kraj,gastroenterologie,1
+2502,Český Krumlov,Jihočeský kraj,gynekologie a porodnictví,8
+2503,Český Krumlov,Jihočeský kraj,kardiologie,1
+2504,Český Krumlov,Jihočeský kraj,neurologie,2
+2505,Český Krumlov,Jihočeský kraj,oftalmologie,2
+2506,Český Krumlov,Jihočeský kraj,ortodoncie,1
+2507,Český Krumlov,Jihočeský kraj,ortopedie a traumatologie pohybového ústrojí,2
+2508,Český Krumlov,Jihočeský kraj,otorinolaryngologie a chirurgie hlavy a krku,1
+2509,Český Krumlov,Jihočeský kraj,plastická chirurgie,1
+2510,Český Krumlov,Jihočeský kraj,pneumologie a ftizeologie,1
+2511,Český Krumlov,Jihočeský kraj,pracovní lékařství,1
+2512,Český Krumlov,Jihočeský kraj,praktické lékařství pro děti a dorost,22
+2513,Český Krumlov,Jihočeský kraj,psychiatrie,1
+2514,Český Krumlov,Jihočeský kraj,radiologie a zobrazovací metody,2
+2515,Český Krumlov,Jihočeský kraj,všeobecné praktické lékařství,31
+2516,Český Krumlov,Jihočeský kraj,zubní lékařství,21
+2517,Šumperk,Olomoucký kraj,Asistent ochrany a podpory veřejného zdraví,1
+2518,Šumperk,Olomoucký kraj,Farmaceutický asistent,1
+2519,Šumperk,Olomoucký kraj,Farmaceutický asistent pro zdravotnické prostředky,1
+2520,Šumperk,Olomoucký kraj,Fyzioterapeut,31
+2521,Šumperk,Olomoucký kraj,Klinický logoped,9
+2522,Šumperk,Olomoucký kraj,Klinický psycholog,7
+2523,Šumperk,Olomoucký kraj,Optometrista,7
+2524,Šumperk,Olomoucký kraj,Porodní asistentka,5
+2525,Šumperk,Olomoucký kraj,Všeobecná sestra,4
+2526,Šumperk,Olomoucký kraj,Zubní technik,22
+2527,Šumperk,Olomoucký kraj,alergologie a klinická imunologie,2
+2528,Šumperk,Olomoucký kraj,chirurgie,4
+2529,Šumperk,Olomoucký kraj,cévní chirurgie,1
+2530,Šumperk,Olomoucký kraj,dermatovenerologie,6
+2531,Šumperk,Olomoucký kraj,dětská a dorostová psychiatrie,1
+2532,Šumperk,Olomoucký kraj,endokrinologie a diabetologie,1
+2533,Šumperk,Olomoucký kraj,gastroenterologie,2
+2534,Šumperk,Olomoucký kraj,gynekologie a porodnictví,11
+2535,Šumperk,Olomoucký kraj,hematologie a transfúzní lékařství,2
+2536,Šumperk,Olomoucký kraj,klinická biochemie,1
+2537,Šumperk,Olomoucký kraj,lékařská genetika,1
+2538,Šumperk,Olomoucký kraj,lékařská mikrobiologie,1
+2539,Šumperk,Olomoucký kraj,neurologie,7
+2540,Šumperk,Olomoucký kraj,oftalmologie,4
+2541,Šumperk,Olomoucký kraj,ortodoncie,3
+2542,Šumperk,Olomoucký kraj,ortopedie a traumatologie pohybového ústrojí,11
+2543,Šumperk,Olomoucký kraj,otorinolaryngologie a chirurgie hlavy a krku,7
+2544,Šumperk,Olomoucký kraj,plastická chirurgie,2
+2545,Šumperk,Olomoucký kraj,pneumologie a ftizeologie,1
+2546,Šumperk,Olomoucký kraj,pracovní lékařství,2
+2547,Šumperk,Olomoucký kraj,praktické lékařství pro děti a dorost,17
+2548,Šumperk,Olomoucký kraj,praktické lékárenství,8
+2549,Šumperk,Olomoucký kraj,psychiatrie,6
+2550,Šumperk,Olomoucký kraj,radiologie a zobrazovací metody,1
+2551,Šumperk,Olomoucký kraj,rehabilitační a fyzikální medicína,4
+2552,Šumperk,Olomoucký kraj,revmatologie,3
+2553,Šumperk,Olomoucký kraj,urologie,7
+2554,Šumperk,Olomoucký kraj,vnitřní lékařství,1
+2555,Šumperk,Olomoucký kraj,všeobecné praktické lékařství,67
+2556,Šumperk,Olomoucký kraj,zubní lékařství,64
+2557,Žďár nad Sázavou,Kraj Vysočina,Dentální hygienistka,6
+2558,Žďár nad Sázavou,Kraj Vysočina,Fyzioterapeut,12
+2559,Žďár nad Sázavou,Kraj Vysočina,Klinický logoped,6
+2560,Žďár nad Sázavou,Kraj Vysočina,Klinický psycholog,4
+2561,Žďár nad Sázavou,Kraj Vysočina,Optometrista,6
+2562,Žďár nad Sázavou,Kraj Vysočina,Porodní asistentka,2
+2563,Žďár nad Sázavou,Kraj Vysočina,Všeobecná sestra,1
+2564,Žďár nad Sázavou,Kraj Vysočina,Zubní technik,14
+2565,Žďár nad Sázavou,Kraj Vysočina,alergologie a klinická imunologie,5
+2566,Žďár nad Sázavou,Kraj Vysočina,algeziologie,1
+2567,Žďár nad Sázavou,Kraj Vysočina,anesteziologie a intenzivní medicína,3
+2568,Žďár nad Sázavou,Kraj Vysočina,angiologie,1
+2569,Žďár nad Sázavou,Kraj Vysočina,chirurgie,3
+2570,Žďár nad Sázavou,Kraj Vysočina,dermatovenerologie,6
+2571,Žďár nad Sázavou,Kraj Vysočina,dětská kardiologie,3
+2572,Žďár nad Sázavou,Kraj Vysočina,endokrinologie a diabetologie,2
+2573,Žďár nad Sázavou,Kraj Vysočina,gynekologie a porodnictví,10
+2574,Žďár nad Sázavou,Kraj Vysočina,kardiologie,2
+2575,Žďár nad Sázavou,Kraj Vysočina,klinická onkologie,1
+2576,Žďár nad Sázavou,Kraj Vysočina,neurologie,9
+2577,Žďár nad Sázavou,Kraj Vysočina,oftalmologie,6
+2578,Žďár nad Sázavou,Kraj Vysočina,ortodoncie,3
+2579,Žďár nad Sázavou,Kraj Vysočina,ortopedie a traumatologie pohybového ústrojí,8
+2580,Žďár nad Sázavou,Kraj Vysočina,otorinolaryngologie a chirurgie hlavy a krku,7
+2581,Žďár nad Sázavou,Kraj Vysočina,pneumologie a ftizeologie,1
+2582,Žďár nad Sázavou,Kraj Vysočina,praktické lékařství pro děti a dorost,1
+2583,Žďár nad Sázavou,Kraj Vysočina,praktické lékárenství,4
+2584,Žďár nad Sázavou,Kraj Vysočina,psychiatrie,5
+2585,Žďár nad Sázavou,Kraj Vysočina,radiologie a zobrazovací metody,1
+2586,Žďár nad Sázavou,Kraj Vysočina,rehabilitační a fyzikální medicína,4
+2587,Žďár nad Sázavou,Kraj Vysočina,revmatologie,2
+2588,Žďár nad Sázavou,Kraj Vysočina,urologie,3
+2589,Žďár nad Sázavou,Kraj Vysočina,vnitřní lékařství,3
+2590,Žďár nad Sázavou,Kraj Vysočina,všeobecné praktické lékařství,2
+2591,Žďár nad Sázavou,Kraj Vysočina,zubní lékařství,50
