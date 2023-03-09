@@ -13,7 +13,7 @@ Python >= 3.8 <br>
 
 ## Príprava dát
 
-V priečinku „prepare_data“ sa nachádza jupyter notebook, pomocou ktorého som si pripravil dáta na požadovaný formát s danými hodnotami. 
+V priečinku „./prepare_data/“ sa nachádza jupyter notebook, pomocou ktorého som si pripravil dáta na požadovaný formát s danými hodnotami. 
 Na prípravu dát som použil súbory s príponou „.csv“, ktoré sa nachádzaju v priečinku „./ukol01/“.
 Výsledné súbory sú „preparedNRPZS.csv“ a „preparedMeanPocet.csv“.
 
