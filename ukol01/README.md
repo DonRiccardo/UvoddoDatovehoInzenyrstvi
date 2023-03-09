@@ -1,5 +1,7 @@
 # Vytvárame datacube
 
+[Podrobnosti o úlohe](https://skoda.projekty.ms.mff.cuni.cz/ndbi046/seminars/02-data-cube.html#/3)
+
 ## Systémové požiadavky
 
 Python >= 3.8 <br>
@@ -11,9 +13,9 @@ Python >= 3.8 <br>
 
 ...
 
-## Príprava dát
+## Ako som pripravil dáta
 
-V priečinku „./prepare_data/“ sa nachádza jupyter notebook, pomocou ktorého som si pripravil dáta na požadovaný formát s danými hodnotami. 
+V priečinku „./prepare_data/“ sa nachádza jupyter notebook, pomocou ktorého som pripravil dáta na požadovaný formát s danými hodnotami. 
 Na prípravu dát som použil súbory s príponou „.csv“, ktoré sa nachádzaju v priečinku „./ukol01/“.
 Výsledné súbory sú „preparedNRPZS.csv“ a „preparedMeanPocet.csv“.
 
