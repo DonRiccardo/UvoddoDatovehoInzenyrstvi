@@ -19,7 +19,6 @@ V priečinku „./prepare_data/“ sa nachádza jupyter notebook, pomocou ktoré
 Na prípravu dát som použil súbory s príponou „.csv“, ktoré sa nachádzaju v priečinku „./ukol01/“.
 Výsledné súbory sú „preparedNRPZS.csv“ a „preparedMeanPocet.csv“. <br>
 
-***Info:*** *z dôvodu zle spracovaných dát v zdrojovom .csv súbore „Národného registru poskytovatelů zdravotních služeb“, sa nesprávne načítala aspoň 1/2 dát. Výsledky nemusia zodpovedať realite.*
 
 ## Scripty
 ### homework01population.py
