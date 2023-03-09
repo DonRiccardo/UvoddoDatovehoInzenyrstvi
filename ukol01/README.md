@@ -30,3 +30,9 @@ Vygeneruje datacube do súboru „careRDF.ttl“.
 ### homework01integrity.py
 
 Overí integritu vygenerovaných datacube na základe dotazovania. Výsledky testov sú rozdelené pre jednotlivé súbory a vypísané do terminálu.
+
+
+
+## Licencia
+
+[MIT](https://github.com/DonRiccardo/UdDI/blob/d0291e5a83fc1bfcafb95b48fe7b241e13cc254d/ukol01/license.txt)
