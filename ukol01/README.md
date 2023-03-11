@@ -11,7 +11,7 @@ Python >= 3.8 <br>
 
 ## Inštalačné inštrukcie
 
-...
+... [requirements](https://github.com/DonRiccardo/UvoddoDatovehoInzenyrstvi/blob/21484ed39bf7e23c3ea61a0c6a8e80ad799b5a35/ukol01/requirements.txt)
 
 ## Ako som pripravil dáta
 
