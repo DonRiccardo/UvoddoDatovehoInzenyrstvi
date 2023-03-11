@@ -14,7 +14,7 @@ SDMXMEASURE = Namespace("http://purl.org/linked-data/sdmx/2009/measure#")
 
 
 def main():
-    dataCSV = load_csv_file_as_object("preparedMeanPocet.csv")
+    dataCSV = load_csv_file_as_object("prepare_data/preparedMeanPocet.csv")
     dataCube = creatingGraph(dataCSV)
     with open("populationRDF.ttl", "w", encoding="utf-8") as stream:
         stream.write(dataCube.serialize(format="ttl"))
@@ -34,7 +34,6 @@ def creatingGraph(data):
     result = Graph()
     dimensions = createDimensions(result)
     measure = createMeasure(result)
-    slice = createSlice(result)
     structure = createStructure(result, dimensions, measure, slice)
     dataset = createDataset(result, structure)
     createObservations(result, dataset, data)
@@ -70,15 +69,6 @@ def createMeasure(collector: Graph):
     collector.add((pocet, RDFS.range, XSD.integer))
 
     return [pocet]
-
-def createSlice(collector: Graph):
-    slice = NS.Okres
-    collector.add((slice, RDF.type, QB.sliceKey))
-    collector.add((slice, SKOS.prefLabel, Literal("slice by region",lang="en")))
-    collector.add((slice, QB.componentProperty, DBO.county))
-    collector.add((slice, QB.componentProperty, DBO.region))
-
-    return [slice]
 
 def createStructure(collector: Graph, dimensions, measures, slices):
     structure = NS.structure

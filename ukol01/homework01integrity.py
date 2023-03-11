@@ -382,8 +382,11 @@ for file in [filenameCare, filenamePopulation]:
     print(file)
 
     for query in ICqueries:
-        for row in g.query(query):
-            print("IC-"+str(queryPosition)+":", end=" ")
+        print("IC-"+str(queryPosition)+":", end=" ")
+        try:
+          for row in g.query(query):            
             print(row)
+        except:
+           print("error")
         queryPosition = queryPosition + 1
 

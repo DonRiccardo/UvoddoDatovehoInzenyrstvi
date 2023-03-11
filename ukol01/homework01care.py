@@ -16,7 +16,7 @@ SDMXMEASURE = Namespace("http://purl.org/linked-data/sdmx/2009/measure#")
 
 
 def main():
-    dataCSV = load_csv_file_as_object("preparedNRPZS.csv")
+    dataCSV = load_csv_file_as_object("prepare_data/preparedNRPZS.csv")
     dataCube = creatingGraph(dataCSV)
     with open("careRDF.ttl", "w", encoding="utf-8") as stream:
         stream.write(dataCube.serialize(format="ttl"))
@@ -28,7 +28,6 @@ def creatingGraph(data):
     result = Graph()
     dimensions = createDimensions(result)
     measure = createMeasure(result)
-    slice = creaateSlice(result)
     structure = createStructure(result, dimensions, measure, slice)
     dataset = createDataset(result, structure)
     createObservations(result, dataset, data)
@@ -74,15 +73,6 @@ def createMeasure(collector: Graph):
 
     return [pocet]
 
-def creaateSlice(collector: Graph):
-    slice = NS.Obor
-    collector.add((slice, RDF.type, QB.sliceKey))
-    collector.add((slice, SKOS.prefLabel, Literal("slice by field of care",lang="en")))
-    collector.add((slice, QB.componentProperty, DBO.county))
-    collector.add((slice, QB.componentProperty, DBO.region))
-    collector.add((slice, QB.componentProperty, DBO.specialist))
-
-    return [slice]
 
 def createStructure(collector: Graph, dimensions, measures, slices):
     structure = NS.structure
