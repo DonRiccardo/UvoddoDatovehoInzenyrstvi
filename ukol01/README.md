@@ -32,7 +32,7 @@ Po spustení vygeneruje datacube do súboru „populationRDF.ttl“.
 
 ### homework01care.py
 
-Po spustení ygeneruje datacube do súboru „careRDF.ttl“.
+Po spustení vygeneruje datacube do súboru „careRDF.ttl“.
 
 ### homework01integrity.py
 
