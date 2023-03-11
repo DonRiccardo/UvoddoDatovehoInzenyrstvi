@@ -375,18 +375,21 @@ ASK {
 for file in [filenameCare, filenamePopulation]:
     g = rdflib.Graph()
 
-    resultCare = g.parse(filenameCare, format='ttl', )
-    queryPosition = 1
+    try:
+      resultCare = g.parse(filenameCare, format='ttl', )
+      queryPosition = 1
 
-    print("-"*20)
-    print(file)
+      print("-"*20)
+      print(file)
 
-    for query in ICqueries:
-        print("IC-"+str(queryPosition)+":", end=" ")
-        try:
-          for row in g.query(query):            
-            print(row)
-        except:
-           print("error")
-        queryPosition = queryPosition + 1
+      for query in ICqueries:
+          print("IC-"+str(queryPosition)+":", end=" ")
+          try:
+            for row in g.query(query):            
+              print(row)
+          except:
+            print("error")
+          queryPosition = queryPosition + 1
+    except:
+       print("File problem")
 
