@@ -28,7 +28,7 @@ def creatingGraph(data):
     result = Graph()
     dimensions = createDimensions(result)
     measure = createMeasure(result)
-    structure = createStructure(result, dimensions, measure, slice)
+    structure = createStructure(result, dimensions, measure)
     dataset = createDataset(result, structure)
     createObservations(result, dataset, data)
     return result
@@ -74,7 +74,7 @@ def createMeasure(collector: Graph):
     return [pocet]
 
 
-def createStructure(collector: Graph, dimensions, measures, slices):
+def createStructure(collector: Graph, dimensions, measures):
     structure = NS.structure
     collector.add((structure, RDF.type, QB.MeasureProperty ))
 
@@ -87,11 +87,6 @@ def createStructure(collector: Graph, dimensions, measures, slices):
         component = BNode()
         collector.add((structure, QB.component, component))
         collector.add((component, QB.measure, measure))
-
-    for slice in slices:
-        component = BNode()
-        collector.add((structure, QB.component, component))
-        collector.add((component, QB.sliceKey, slice))
 
     return structure
 
