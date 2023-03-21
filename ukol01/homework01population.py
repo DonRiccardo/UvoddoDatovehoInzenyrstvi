@@ -109,7 +109,7 @@ def createDataset(collector: Graph, structure):
     collector.add((dataset, DCTERMS.available, Literal("2023-03-10", datatype=XSD.date)))
     collector.add((dataset, DCTERMS.language, Literal("cs", datatype=XSD.language)))
     collector.add((dataset, DCTERMS.language, Literal("en", datatype=XSD.language)))
-    collector.add((dataset, DCTERMS.license, URIRef("https://github.com/DonRiccardo/")))
+    collector.add((dataset, DCTERMS.license, URIRef("https://github.com/DonRiccardo/UdDI/blob/d0291e5a83fc1bfcafb95b48fe7b241e13cc254d/ukol01/license.txt")))
     collector.add((dataset, SKOS.prefLabel, Literal("střední stav obyvatel", lang="cs")))
     collector.add((dataset, SKOS.prefLabel, Literal("mean population", lang="en")))
     collector.add((dataset, QB.structure, structure))
