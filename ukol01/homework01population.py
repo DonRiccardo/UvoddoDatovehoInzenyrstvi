@@ -47,7 +47,6 @@ def createDimensions(collector: Graph):
     collector.add((okres, SKOS.prefLabel, Literal("okres", lang="cs")))
     collector.add((okres, SKOS.prefLabel, Literal("county", lang="en")))
     collector.add((okres, RDFS.subPropertyOf, SDMXDIMENSION.refArea))
-    collector.add((okres, RDFS.range, XSD.string))
 
     kraj = DBO.region
     collector.add((kraj, RDF.type, RDFS.Property))
@@ -55,7 +54,6 @@ def createDimensions(collector: Graph):
     collector.add((kraj, SKOS.prefLabel, Literal("kraj", lang="cs")))
     collector.add((kraj, SKOS.prefLabel, Literal("region", lang="en")))
     collector.add((kraj, RDFS.subPropertyOf, SDMXDIMENSION.refArea))
-    collector.add((kraj, RDFS.range, XSD.string))
 
     return [okres, kraj]
 
@@ -96,8 +94,8 @@ def createObservations(collector: Graph, dataset, data):
 def createObservation(collector: Graph, dataset, resource, data):
     collector.add((resource, RDF.type, QB.Observation))
     collector.add((resource, QB.dataSet, dataset))
-    collector.add((resource, DBO.county, Literal(data["Název okresu"], datatype=XSD.string)))
-    collector.add((resource, DBO.region, Literal(data["Název kraje"], datatype=XSD.string)))
+    collector.add((resource, DBO.county, URIRef("https://github.com/DonRiccardo/"+data["Kód NUTS4 okresu"])))
+    collector.add((resource, DBO.region, URIRef("https://github.com/DonRiccardo/"+data["Kód NUTS4 okresu"][:-1])))
     collector.add((resource, NS.stredniStavObyvatel, Literal(data["hodnota"], datatype=XSD.integer)))
     
 
