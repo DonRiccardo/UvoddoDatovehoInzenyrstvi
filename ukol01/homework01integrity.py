@@ -377,19 +377,17 @@ for file in [filenameCare, filenamePopulation]:
 
     try:
       resultCare = g.parse(filenameCare, format='ttl', )
-      queryPosition = 1
 
       print("-"*20)
       print(file)
 
-      for query in ICqueries:
-          print("IC-"+str(queryPosition)+":", end=" ")
+      for queryPosition, query in enumerate(ICqueries):
+          print("IC-"+str(queryPosition + 1)+":", end=" ")
           try:
             for row in g.query(query):            
               print(row)
           except:
             print("error")
-          queryPosition = queryPosition + 1
     except:
        print("File problem")
 
