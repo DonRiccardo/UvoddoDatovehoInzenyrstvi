@@ -25,11 +25,11 @@ Hlavná časť úlohy. Je to zdrojový súbor DAG.
 
 ### /airflow/dags/my_programs/homework01population.py
 
-Po spustení vygeneruje datacube do súboru „population.ttl“. Prednastavená cesta vygenerovaného súboru je „airflow/dags/". Dá sa zmeniť použitím parametru „output_path“ špecifikovným v DAG konfigurácii.
+Po spustení vygeneruje datacube do súboru „population.ttl“. Prednastavená cesta vygenerovaného súboru je „airflow/dags/". Dá sa zmeniť použitím parametru „output_path“ špecifikovním v DAG konfigurácii.
 
 ### /airflow/dags/my_programs/homework01care.py
 
-Po spustení vygeneruje datacube do súboru „health_care.ttl“. Prednastavená cesta vygenerovaného súboru je „airflow/dags/". Dá sa zmeniť použitím parametru „output_path“ špecifikovným v DAG konfigurácii.
+Po spustení vygeneruje datacube do súboru „health_care.ttl“. Prednastavená cesta vygenerovaného súboru je „airflow/dags/". Dá sa zmeniť použitím parametru „output_path“ špecifikovním v DAG konfigurácii.
 
 ### /airflow/dags/my_programs/prepareCSV_file.py
 
