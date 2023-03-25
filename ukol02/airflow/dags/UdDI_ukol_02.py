@@ -32,7 +32,7 @@ dag_args = {
 }
 
 with DAG(
-	dag_id = "data_cubes_ukol_02",
+	dag_id = "data-cubes",
 	default_args = dag_args,
 	start_date = datetime(2023, 3, 22),
 	schedule = None,
