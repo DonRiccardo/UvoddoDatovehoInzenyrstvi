@@ -33,7 +33,7 @@ Po spustení vygeneruje datacube do súboru „health_care.ttl“. Prednastaven�
 
 ### /airflow/dags/my_programs/prepareCSV_file.py
 
-Zo stiahnutých požadovaných súborov predpriraví dáta na ďaľšie spracovanie, teda na vytvorenie jednotlivých data cube.
+Zo stiahnutých požadovaných súborov predpripraví dáta na ďalšie spracovanie, teda na vytvorenie jednotlivých data cube.
 
 
 
