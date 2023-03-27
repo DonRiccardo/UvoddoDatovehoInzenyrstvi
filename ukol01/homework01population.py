@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import csv
+import pandas as pd
 
 from rdflib import Graph, BNode, Literal, Namespace, URIRef
 from rdflib.namespace import QB, RDF, XSD, SKOS, DCTERMS
@@ -15,7 +16,8 @@ SDMXMEASURE = Namespace("http://purl.org/linked-data/sdmx/2009/measure#")
 
 def main():
     dataCSV = load_csv_file_as_object("prepare_data/preparedMeanPocet.csv")
-    dataCube = creatingGraph(dataCSV)
+    dataCSVPandas = pd.read_csv("prepare_data/preparedMeanPocet.csv")
+    dataCube = creatingGraph(dataCSV, dataCSVPandas)
     with open("populationRDF.ttl", "w", encoding="utf-8") as stream:
         stream.write(dataCube.serialize(format="ttl"))
     #print(dataCube.serialize(format="ttl"))
@@ -30,13 +32,14 @@ def load_csv_file_as_object(file_path: str):
             result.append({key: value for key, value in zip(header, line)})
     return result
 
-def creatingGraph(data):
+def creatingGraph(data, dataPandasLoad):
     result = Graph()
     dimensions = createDimensions(result)
     measure = createMeasure(result)
     structure = createStructure(result, dimensions, measure)
     dataset = createDataset(result, structure)
-    createObservations(result, dataset, data)
+    createObservations(result, dataset, data)    
+    createResources(result, dataPandasLoad)
     return result
 
 
@@ -98,6 +101,23 @@ def createObservation(collector: Graph, dataset, resource, data):
     collector.add((resource, DBO.region, URIRef("https://github.com/DonRiccardo/"+data["Kód NUTS4 okresu"][:-1])))
     collector.add((resource, NS.stredniStavObyvatel, Literal(data["hodnota"], datatype=XSD.integer)))
     
+def createResources(collector: Graph, dataPandasLoad):
+    countyDict = dataPandasLoad.drop_duplicates("Kód NUTS4 okresu")[["Kód NUTS4 okresu", "Název okresu"]].set_index("Kód NUTS4 okresu").to_dict()["Název okresu"]
+
+    for k in countyDict.keys():
+        county = NSR[k]
+        collector.add((county, RDF.type, SKOS.Concept))
+        collector.add((county, RDF.type, DBO.county))
+        collector.add((county, SKOS.prefLabel, Literal(countyDict[k], lang="cs")))
+
+    regionDict = dataPandasLoad.drop_duplicates("Kód NUTS3 kraje")[["Kód NUTS3 kraje", "Název kraje"]].set_index("Kód NUTS3 kraje").to_dict()["Název kraje"]
+
+    for k in regionDict.keys():
+        region = NSR[k]
+        collector.add((region, RDF.type, SKOS.Concept))
+        collector.add((region, RDF.type, DBO.region))
+        collector.add((region, SKOS.prefLabel, Literal(regionDict[k], lang="cs")))
+
 
 def createDataset(collector: Graph, structure):
 
