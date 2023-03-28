@@ -15,7 +15,9 @@ SDMXMEASURE = Namespace("http://purl.org/linked-data/sdmx/2009/measure#")
 
 def mainCreatePopulationDataCube(outputFilePath):
     dataCSV = load_csv_file_as_object("./preparedMeanPocet.csv")
-    dataCube = creatingGraph(dataCSV)
+    dataCSVPandasCounty = load_csv_file_as_object("./okresy.csv")
+    dataCSVPandasRegion = load_csv_file_as_object("./kraje.csv")
+    dataCube = creatingGraph(dataCSV, dataCSVPandasCounty, dataCSVPandasRegion)
     with open(outputFilePath+"population.ttl", "w", encoding="utf-8") as stream:
         stream.write(dataCube.serialize(format="ttl"))
     #print(dataCube.serialize(format="ttl"))
@@ -30,13 +32,14 @@ def load_csv_file_as_object(file_path: str):
             result.append({key: value for key, value in zip(header, line)})
     return result
 
-def creatingGraph(data):
+def creatingGraph(data, dataPandasCounty, dataPandasRegion):
     result = Graph()
     dimensions = createDimensions(result)
     measure = createMeasure(result)
     structure = createStructure(result, dimensions, measure)
     dataset = createDataset(result, structure)
     createObservations(result, dataset, data)
+    createResources(result, dataPandasCounty, dataPandasRegion)
     return result
 
 
@@ -94,10 +97,25 @@ def createObservations(collector: Graph, dataset, data):
 def createObservation(collector: Graph, dataset, resource, data):
     collector.add((resource, RDF.type, QB.Observation))
     collector.add((resource, QB.dataSet, dataset))
-    collector.add((resource, DBO.county, URIRef("https://github.com/DonRiccardo/"+data["CHODNOTA1"])))
-    collector.add((resource, DBO.region, URIRef("https://github.com/DonRiccardo/"+data["CHODNOTA1"][:-1])))
+    collector.add((resource, DBO.county, URIRef(NSR[data["CHODNOTA1"]])))
+    collector.add((resource, DBO.region, URIRef(NSR[data["Kód NUTS3 kraje"]])))
     collector.add((resource, NS.stredniStavObyvatel, Literal(data["hodnota"], datatype=XSD.integer)))
     
+
+def createResources(collector: Graph, dataPandasCounty, dataPandaRegion):
+    
+    for _,row in enumerate(dataPandasCounty):
+        county = NSR[row["kod_polozky"]]
+        collector.add((county, RDF.type, SKOS.Concept))
+        collector.add((county, RDF.type, DBO.county))
+        collector.add((county, SKOS.prefLabel, Literal(row["nazev_polozky"], lang="cs")))
+
+    for _,row in enumerate(dataPandaRegion):
+        region = NSR[row["kod_polozky"]]
+        collector.add((region, RDF.type, SKOS.Concept))
+        collector.add((region, RDF.type, DBO.region))
+        collector.add((region, SKOS.prefLabel, Literal(row["nazev_polozky"], lang="cs")))
+
 
 def createDataset(collector: Graph, structure):
 

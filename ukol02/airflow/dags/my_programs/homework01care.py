@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import csv
+import pandas as pd
 
 from rdflib import Graph, BNode, Literal, Namespace, URIRef
 from rdflib.namespace import QB, RDF, XSD, SKOS, DCTERMS
@@ -17,20 +18,22 @@ SDMXMEASURE = Namespace("http://purl.org/linked-data/sdmx/2009/measure#")
 
 def mainCreateCareDataCube(outputFilePath):
     dataCSV = load_csv_file_as_object("./preparedNRPZS.csv")
-    dataCube = creatingGraph(dataCSV)
+    dataCSVPandas = pd.read_csv("./preparedNRPZS.csv")
+    dataCube = creatingGraph(dataCSV, dataCSVPandas)
     with open(outputFilePath+"health_care.ttl", "w", encoding="utf-8") as stream:
         stream.write(dataCube.serialize(format="ttl"))
     #print(dataCube.serialize(format="ttl"))
     #print("-" * 80)
 
 
-def creatingGraph(data):
+def creatingGraph(data, dataPandasLoad):
     result = Graph()
     dimensions = createDimensions(result)
     measure = createMeasure(result)
     structure = createStructure(result, dimensions, measure)
     dataset = createDataset(result, structure)
-    createObservations(result, dataset, data)
+    createObservations(result, dataset, data)    
+    createResources(result, dataPandasLoad)
     return result
 
 
@@ -97,12 +100,36 @@ def createObservations(collector: Graph, dataset, data):
 def createObservation(collector: Graph, dataset, resource, data):
     collector.add((resource, RDF.type, QB.Observation))
     collector.add((resource, QB.dataSet, dataset))
-    collector.add((resource, DBO.county, URIRef("https://github.com/DonRiccardo/"+data["OkresCode"])))
-    collector.add((resource, DBO.region, URIRef("https://github.com/DonRiccardo/"+data["KrajCode"])))
-    collector.add((resource, DBO.specialist, Literal(data["OborPece"], datatype=XSD.string)))
+    collector.add((resource, DBO.county, URIRef(NSR[data["OkresCode"]])))
+    collector.add((resource, DBO.region, URIRef(NSR[data["KrajCode"]])))
+    collector.add((resource, DBO.specialist, URIRef(NSR[data["ID_obor_pece"]])))
     collector.add((resource, NS.pocetPoskytovateluPece, Literal(data["POCET"], datatype=XSD.integer)))
     
 
+def createResources(collector: Graph, dataPandasLoad):
+    countyDict = dataPandasLoad.drop_duplicates("OkresCode")[["OkresCode", "Okres"]].set_index("OkresCode").to_dict()["Okres"]
+
+    for k in countyDict.keys():
+        county = NSR[k]
+        collector.add((county, RDF.type, SKOS.Concept))
+        collector.add((county, RDF.type, DBO.county))
+        collector.add((county, SKOS.prefLabel, Literal(countyDict[k], lang="cs")))
+
+    regionDict = dataPandasLoad.drop_duplicates("KrajCode")[["KrajCode", "Kraj"]].set_index("KrajCode").to_dict()["Kraj"]
+
+    for k in regionDict.keys():
+        region = NSR[k]
+        collector.add((region, RDF.type, SKOS.Concept))
+        collector.add((region, RDF.type, DBO.region))
+        collector.add((region, SKOS.prefLabel, Literal(regionDict[k], lang="cs")))
+    
+    specialistDict = dataPandasLoad.drop_duplicates("ID_obor_pece")[["ID_obor_pece", "OborPece"]].set_index("ID_obor_pece").to_dict()["OborPece"]
+
+    for k in specialistDict.keys():
+        specialist = NSR[str(k)]
+        collector.add((specialist, RDF.type, SKOS.Concept))
+        collector.add((specialist, RDF.type, DBO.specialist))
+        collector.add((specialist, SKOS.prefLabel, Literal(specialistDict[k], lang="cs")))
 
 
 

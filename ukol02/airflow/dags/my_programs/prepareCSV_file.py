@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Príprava dát pre domácu úlohu
 def prepareDataForProcessing():
-    # In[1]:
+    # # Príprava dát pre domácu úlohu
+
+    # In[2]:
 
 
     import pandas as pd
@@ -11,29 +12,47 @@ def prepareDataForProcessing():
 
     # ## Poskytovatelé zdravotních služeb
 
-    # In[2]:
+    # In[3]:
 
 
     nrpzs = pd.read_csv("./narodni-registr-poskytovatelu-zdravotnich-sluzeb.csv", low_memory=False)
     nrpzs.head(10)
 
 
-    # In[6]:
+    # In[25]:
 
 
-    n = nrpzs.groupby(['OkresCode', 'KrajCode', 'OborPece']).size().reset_index(name='POCET')
+    n = nrpzs.groupby(['OkresCode','Okres', 'KrajCode', 'Kraj', 'OborPece']).size().reset_index(name='POCET')
     n
 
 
-    # In[7]:
+    # In[27]:
 
 
-    n.to_csv("./preparedNRPZS.csv")
+    n = n.assign(ID_obor_pece=(n["OborPece"]).astype("category").cat.codes)
+
+
+    # In[29]:
+
+
+    n["OborPece"].unique().__len__()
+
+
+    # In[30]:
+
+
+    n["ID_obor_pece"].unique().__len__()
+
+
+    # In[37]:
+
+
+    n.to_csv("preparedNRPZS.csv")
 
 
     # ## Obyvatelé okresy 2021
 
-    # In[11]:
+    # In[4]:
 
 
     dataObyv = pd.read_csv("./130141-22data2021.csv")
@@ -45,24 +64,36 @@ def prepareDataForProcessing():
     stredOkresKraj
 
 
-    # In[12]:
+    # In[5]:
 
 
     ciselnik = pd.read_csv("./číselník-okresů-vazba-101-nadřízený.csv")
     ciselnik
 
 
-    # In[13]:
+    # In[6]:
 
 
     stredOkresKod = stredOkresKraj.merge(ciselnik, left_on="vuzemi_kod", right_on="CHODNOTA2")
     stredOkresKod
 
 
-    # In[38]:
+    # In[16]:
 
 
-    stredOkresKod.to_csv("./preparedMeanPocet.csv")
+    stredOkresKod["Kód NUTS3 kraje"] = stredOkresKod["CHODNOTA1"].apply(lambda x : x[:-1])
+
+
+    # In[17]:
+
+
+    stredOkresKod
+
+
+    # In[9]:
+
+
+    stredOkresKod.to_csv("preparedMeanPocet.csv")
 
 if __name__ == "__main__":
     prepareDataForProcessing()
