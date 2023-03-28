@@ -79,6 +79,18 @@ with DAG(
 		op_args = ["https://skoda.projekty.ms.mff.cuni.cz/ndbi046/seminars/02/číselník-okresů-vazba-101-nadřízený.csv", False]
 	)
 
+	getCodeListCounty = PythonOperator(
+		task_id = "get_codelist_county_data",
+		python_callable = downloadData,
+		op_args = ["https://data.mzcr.cz/distribuce/69/okresy.csv"]
+	)
+
+	getCodeListRegion = PythonOperator(
+		task_id = "get_codelist_region_data",
+		python_callable = downloadData,
+		op_args = ["https://data.mzcr.cz/distribuce/68/kraje.csv"]
+	)
+
 	createDataCubeForPopulation = PythonOperator(
 		task_id = "create_data_cube_population",
 		python_callable = fileAtSpecifiedPath,
@@ -87,4 +99,4 @@ with DAG(
 
 
 
-[getDataForCareProviders, getDataForPopulation2021, getCountryCodeListForPopulation2021] >> prepareDataForProcessing >> [createDataCubeForCareProviders, createDataCubeForPopulation]
+[getDataForCareProviders, getDataForPopulation2021, getCountryCodeListForPopulation2021, getCodeListCounty, getCodeListRegion] >> prepareDataForProcessing >> [createDataCubeForCareProviders, createDataCubeForPopulation]
