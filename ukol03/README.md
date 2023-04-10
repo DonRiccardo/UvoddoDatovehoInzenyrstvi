@@ -1,4 +1,4 @@
-# Vytvárame datacube
+# Vytvárame TRIG súbory/provenance
 
 [Podrobnosti o úlohe](https://skoda.projekty.ms.mff.cuni.cz/ndbi046/seminars/04-provenance.html#/1/1) 
 
