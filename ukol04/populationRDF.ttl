@@ -1,0 +1,854 @@
+@prefix ns1: <https://dbpedia.org/ontology/> .
+@prefix ns2: <https://github.com/DonRiccardo/UdDI/ontology#> .
+@prefix ns3: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ns4: <http://purl.org/linked-data/cube#> .
+@prefix ns5: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-000> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0427> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ042> ;
+    ns2:stredniStavObyvatel 116930 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-001> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0524> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ052> ;
+    ns2:stredniStavObyvatel 78479 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-002> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0514> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ051> ;
+    ns2:stredniStavObyvatel 71593 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-003> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0522> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ052> ;
+    ns2:stredniStavObyvatel 78763 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-004> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0531> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ053> ;
+    ns2:stredniStavObyvatel 103657 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-005> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0642> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ064> ;
+    ns2:stredniStavObyvatel 378424 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-006> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0644> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ064> ;
+    ns2:stredniStavObyvatel 114758 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-007> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0208> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ020> ;
+    ns2:stredniStavObyvatel 100584 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-008> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0646> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ064> ;
+    ns2:stredniStavObyvatel 91984 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-009> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0713> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ071> ;
+    ns2:stredniStavObyvatel 107697 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-010> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0714> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ071> ;
+    ns2:stredniStavObyvatel 126826 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-011> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0322> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ032> ;
+    ns2:stredniStavObyvatel 84661 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-012> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0326> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ032> ;
+    ns2:stredniStavObyvatel 48587 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-013> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0411> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ041> ;
+    ns2:stredniStavObyvatel 88030 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-014> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0723> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ072> ;
+    ns2:stredniStavObyvatel 140392 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-015> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0724> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ072> ;
+    ns2:stredniStavObyvatel 188947 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-016> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0206> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ020> ;
+    ns2:stredniStavObyvatel 108889 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-017> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0209> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ020> ;
+    ns2:stredniStavObyvatel 186558 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-018> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ020C> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ020> ;
+    ns2:stredniStavObyvatel 54767 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-019> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0314> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ031> ;
+    ns2:stredniStavObyvatel 70582 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-020> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0323> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ032> ;
+    ns2:stredniStavObyvatel 187985 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-021> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0421> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ042> ;
+    ns2:stredniStavObyvatel 126492 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-022> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0521> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ052> ;
+    ns2:stredniStavObyvatel 162193 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-023> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0802> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ080> ;
+    ns2:stredniStavObyvatel 212422 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-024> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0312> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ031> ;
+    ns2:stredniStavObyvatel 60033 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-025> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0325> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ032> ;
+    ns2:stredniStavObyvatel 80228 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-026> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0202> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ020> ;
+    ns2:stredniStavObyvatel 95823 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-027> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0207> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ020> ;
+    ns2:stredniStavObyvatel 127221 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-028> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0711> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ071> ;
+    ns2:stredniStavObyvatel 36884 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-029> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0205> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ020> ;
+    ns2:stredniStavObyvatel 75402 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-030> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0201> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ020> ;
+    ns2:stredniStavObyvatel 99008 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-031> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ020A> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ020> ;
+    ns2:stredniStavObyvatel 149990 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-032> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ020B> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ020> ;
+    ns2:stredniStavObyvatel 114060 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-033> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0311> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ031> ;
+    ns2:stredniStavObyvatel 194994 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-034> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0315> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ031> ;
+    ns2:stredniStavObyvatel 50225 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-035> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0801> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ080> ;
+    ns2:stredniStavObyvatel 89906 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-036> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0804> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ080> ;
+    ns2:stredniStavObyvatel 149907 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-037> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0806> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ080> ;
+    ns2:stredniStavObyvatel 312908 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-038> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0313> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ031> ;
+    ns2:stredniStavObyvatel 89325 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-039> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0321> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ032> ;
+    ns2:stredniStavObyvatel 54313 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-040> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0412> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ041> ;
+    ns2:stredniStavObyvatel 110195 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-041> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0324> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ032> ;
+    ns2:stredniStavObyvatel 68623 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-042> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0423> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ042> ;
+    ns2:stredniStavObyvatel 117473 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-043> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0426> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ042> ;
+    ns2:stredniStavObyvatel 124401 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-044> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0534> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ053> ;
+    ns2:stredniStavObyvatel 135977 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-045> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0511> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ051> ;
+    ns2:stredniStavObyvatel 101997 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-046> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0513> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ051> ;
+    ns2:stredniStavObyvatel 173337 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-047> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0523> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ052> ;
+    ns2:stredniStavObyvatel 108092 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-048> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0525> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ052> ;
+    ns2:stredniStavObyvatel 115365 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-049> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0647> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ064> ;
+    ns2:stredniStavObyvatel 113389 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-050> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0631> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ063> ;
+    ns2:stredniStavObyvatel 93521 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-051> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0532> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ053> ;
+    ns2:stredniStavObyvatel 171461 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-052> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0634> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ063> ;
+    ns2:stredniStavObyvatel 109373 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-053> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0715> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ071> ;
+    ns2:stredniStavObyvatel 118618 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-054> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0204> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ020> ;
+    ns2:stredniStavObyvatel 103345 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-055> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0633> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ063> ;
+    ns2:stredniStavObyvatel 71457 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-056> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0635> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ063> ;
+    ns2:stredniStavObyvatel 117181 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-057> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0641> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ064> ;
+    ns2:stredniStavObyvatel 107795 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-058> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0645> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ064> ;
+    ns2:stredniStavObyvatel 151344 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-059> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0533> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ053> ;
+    ns2:stredniStavObyvatel 102799 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-060> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0632> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ063> ;
+    ns2:stredniStavObyvatel 112206 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-061> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0643> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ064> ;
+    ns2:stredniStavObyvatel 224794 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-062> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0722> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ072> ;
+    ns2:stredniStavObyvatel 139922 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-063> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0803> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ080> ;
+    ns2:stredniStavObyvatel 241184 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-064> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0316> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ031> ;
+    ns2:stredniStavObyvatel 69794 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-065> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0712> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ071> ;
+    ns2:stredniStavObyvatel 233661 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-066> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0721> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ072> ;
+    ns2:stredniStavObyvatel 103753 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-067> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0805> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ080> ;
+    ns2:stredniStavObyvatel 173853 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-068> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0203> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ020> ;
+    ns2:stredniStavObyvatel 164359 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-069> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0413> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ041> ;
+    ns2:stredniStavObyvatel 85452 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-070> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0422> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ042> ;
+    ns2:stredniStavObyvatel 121643 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-071> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0425> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ042> ;
+    ns2:stredniStavObyvatel 107090 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-072> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0317> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ031> ;
+    ns2:stredniStavObyvatel 101333 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-073> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0512> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ051> ;
+    ns2:stredniStavObyvatel 90204 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-074> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0327> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ032> ;
+    ns2:stredniStavObyvatel 52793 .
+
+<https://github.com/DonRiccardo/UdDI/resources/observation-075> a ns4:Observation ;
+    ns4:dataSet <https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> ;
+    ns1:county <https://github.com/DonRiccardo/UdDI/resources/CZ0424> ;
+    ns1:region <https://github.com/DonRiccardo/UdDI/resources/CZ042> ;
+    ns2:stredniStavObyvatel 85466 .
+
+ns2:stredniStavObyvatel a ns4:MeasureProperty,
+        rdfs:Property ;
+    rdfs:range xsd:integer ;
+    rdfs:subPropertyOf <http://purl.org/linked-data/sdmx/2009/measure#obsValue> ;
+    ns3:prefLabel "střední stav obyvatel"@cs,
+        "mean population"@en .
+
+ns2:structure a ns4:MeasureProperty ;
+    ns4:component [ ns4:dimension ns1:region ],
+        [ ns4:dimension ns1:county ],
+        [ ns4:measure ns2:stredniStavObyvatel ] .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0201> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Benešov"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0202> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Beroun"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0203> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Kladno"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0204> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Kolín"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0205> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Kutná Hora"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0206> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Mělník"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0207> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Mladá Boleslav"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0208> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Nymburk"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0209> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Praha-východ"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ020A> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Praha-západ"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ020B> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Příbram"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ020C> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Rakovník"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0311> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "České Budějovice"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0312> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Český Krumlov"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0313> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Jindřichův Hradec"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0314> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Písek"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0315> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Prachatice"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0316> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Strakonice"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0317> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Tábor"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0321> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Domažlice"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0322> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Klatovy"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0323> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Plzeň-město"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0324> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Plzeň-jih"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0325> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Plzeň-sever"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0326> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Rokycany"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0327> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Tachov"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0411> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Cheb"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0412> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Karlovy Vary"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0413> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Sokolov"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0421> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Děčín"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0422> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Chomutov"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0423> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Litoměřice"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0424> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Louny"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0425> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Most"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0426> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Teplice"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0427> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Ústí nad Labem"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0511> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Česká Lípa"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0512> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Jablonec nad Nisou"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0513> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Liberec"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0514> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Semily"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0521> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Hradec Králové"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0522> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Jičín"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0523> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Náchod"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0524> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Rychnov nad Kněžnou"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0525> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Trutnov"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0531> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Chrudim"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0532> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Pardubice"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0533> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Svitavy"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0534> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Ústí nad Orlicí"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0631> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Havlíčkův Brod"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0632> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Jihlava"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0633> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Pelhřimov"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0634> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Třebíč"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0635> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Žďár nad Sázavou"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0641> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Blansko"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0642> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Brno-město"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0643> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Brno-venkov"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0644> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Břeclav"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0645> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Hodonín"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0646> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Vyškov"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0647> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Znojmo"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0711> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Jeseník"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0712> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Olomouc"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0713> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Prostějov"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0714> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Přerov"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0715> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Šumperk"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0721> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Kroměříž"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0722> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Uherské Hradiště"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0723> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Vsetín"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0724> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Zlín"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0801> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Bruntál"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0802> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Frýdek-Místek"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0803> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Karviná"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0804> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Nový Jičín"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0805> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Opava"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ0806> a ns3:Concept,
+        ns1:county ;
+    ns3:prefLabel "Ostrava-město"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ041> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Karlovarský kraj"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ051> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Liberecký kraj"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ053> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Pardubický kraj"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ072> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Zlínský kraj"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ052> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Královéhradecký kraj"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ063> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Kraj Vysočina"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ071> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Olomoucký kraj"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ080> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Moravskoslezský kraj"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ031> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Jihočeský kraj"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ032> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Plzeňský kraj"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ042> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Ústecký kraj"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ064> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Jihomoravský kraj"@cs .
+
+<https://github.com/DonRiccardo/UdDI/resources/CZ020> a ns3:Concept,
+        ns1:region ;
+    ns3:prefLabel "Středočeský kraj"@cs .
+
+ns1:region a ns4:DimensionProperty,
+        rdfs:Property ;
+    rdfs:subPropertyOf <http://purl.org/linked-data/sdmx/2009/dimension#refArea> ;
+    ns3:prefLabel "kraj"@cs,
+        "region"@en .
+
+<https://github.com/DonRiccardo/UdDI/resources/dataCubeInstance> a ns4:DataSet ;
+    ns5:available "2023-03-10"^^xsd:date ;
+    ns5:language "cs"^^xsd:language,
+        "en"^^xsd:language ;
+    ns5:license <https://github.com/DonRiccardo/UdDI/blob/d0291e5a83fc1bfcafb95b48fe7b241e13cc254d/ukol01/license.txt> ;
+    ns5:publisher <https://github.com/DonRiccardo/> ;
+    ns4:structure ns2:structure ;
+    ns3:prefLabel "střední stav obyvatel"@cs,
+        "mean population"@en .
+
+ns1:county a ns4:DimensionProperty,
+        rdfs:Property ;
+    rdfs:subPropertyOf <http://purl.org/linked-data/sdmx/2009/dimension#refArea> ;
+    ns3:prefLabel "okres"@cs,
+        "county"@en .
+
