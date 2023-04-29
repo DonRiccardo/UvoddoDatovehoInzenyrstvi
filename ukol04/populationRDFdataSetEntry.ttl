@@ -1,0 +1,35 @@
+@prefix ns1: <http://www.w3.org/ns/dcat#> .
+@prefix ns2: <http://purl.org/dc/terms/> .
+@prefix ns3: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ns4: <http://xmlns.com/foaf/0.1/> .
+
+<https://github.com/DonRiccardo/UdDI/resources/DataCube/MeanPopulationCZE> a ns1:dataset ;
+    ns2:accrualPeriodicity <http://publications.europa.eu/resource/authority/frequency/TRIDECENNIAL> ;
+    ns2:creator <https://github.com/DonRiccardo> ;
+    ns2:description "Entry datovej kocky"@sk ;
+    ns2:publisher <https://github.com/DonRiccardo> ;
+    ns2:spatial <http://publications.europa.eu/resource/authority/country/CZE> ;
+    ns2:title "Datová kocka pre stredný stav počtu obyvateľov v ČR, na základe okresov a krajov"@sk ;
+    ns3:prefLabel "Datová kocka stredného počtu obyvateľov v ČR, podľa okresov a krajov"@sk ;
+    ns1:distribution <https://github.com/DonRiccardo/UdDI/resources/DataCube/Distribution/> ;
+    ns1:keyword "kraj"@sk,
+        "okres"@sk,
+        "populacia"@sk,
+        "stredný stav počtu obyvateľov"@sk ;
+    ns1:theme <http://eurovoc.europa.eu/100210>,
+        <http://eurovoc.europa.eu/1773>,
+        <http://eurovoc.europa.eu/3318>,
+        <http://eurovoc.europa.eu/3326> .
+
+<https://github.com/DonRiccardo/UdDI/resources/DataCube/Distribution/> a ns1:distribution ;
+    ns2:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
+    ns2:license <https://github.com/DonRiccardo/UvoddoDatovehoInzenyrstvi/blob/55bdf474deb8d3e72258fcfadf10480a80f88c68/ukol01/license.txt> ;
+    ns1:accessURL <https://github.com/DonRiccardo/UvoddoDatovehoInzenyrstvi/blob/7da6b4434e35ad199ccac7ff2dd0c2822a67f0b8/ukol04/populationRDF.ttl> ;
+    ns1:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml> .
+
+<https://github.com/DonRiccardo> a ns4:Agent,
+        ns4:Person ;
+    ns4:homepage <https://github.com/DonRiccardo> ;
+    ns4:mbox <mailto:richard.hvizdos@gmail.com> ;
+    ns4:name "Richard Hvizdoš"@sk .
+
