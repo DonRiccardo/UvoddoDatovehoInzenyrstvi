@@ -2,16 +2,6 @@
 
 [Podrobnosti o úlohe](https://skoda.projekty.ms.mff.cuni.cz/ndbi046/seminars/06-public.html#/2/1) 
 
-## Systémové požiadavky
+## Výsledok
 
-. <br>
-. <br>
-.. good luck :D
-
-## Inštalačné inštrukcie
-
-1) 
-
-## Licencia
-
-[MIT]()
+[Stránka](https://donriccardo.github.io/)
